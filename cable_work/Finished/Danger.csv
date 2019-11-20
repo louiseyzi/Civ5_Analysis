@@ -1,0 +1,752 @@
+,Turn,Civ1,Civ2,Relation,Value,Cable
+0,7,Iroquois,Songhai,Danger,major,We feel that the Songhai are a major obstacle to our strategies
+0,10,Germany,Songhai,Danger,major,The obstacle that the Songhai show is described as major by our intelligence officers
+0,11,Songhai,Morocco,Danger,moderate,We believe that the Moroccans constitute a moderate danger to our ambitions
+0,11,Iroquois,Morocco,Danger,moderate,The hazard that the Moroccans embody is portrayed as moderate by our agents
+0,12,Songhai,Germany,Danger,major,We suspect that the Germans amount to a major hazard to our ambitions
+0,14,Songhai,Iroquois,Danger,major,The hazard that the Iroquois present is labeled as major by our sources
+0,15,Iroquois,Germany,Danger,moderate,We estimate that the Germans represent a moderate hazard to our ambitions
+0,15,Songhai,Morocco,Danger,moderate,The Songhai imagine that the Moroccans have become a moderate threat to the Songhais plans
+0,16,Morocco,Inca,Danger,severe,We suspect that the Incas present a severe obstacle to our plans
+0,16,Germany,Morocco,Danger,moderate,The hazard that the Moroccans present is labeled as moderate by our intelligence officers
+0,16,Germany,Iroquois,Danger,moderate,The hazard that the Iroquois constitute is defined as moderate by our spies
+0,17,Inca,Morocco,Danger,minor,The obstacle that the Moroccans constitute is defined as minor by our diplomatic cables
+0,18,Germany,Songhai,Danger,major,The threat that the Songhai show is represented as major by our intelligence officers
+0,18,Korea,Germany,Danger,minor,We infer that the Germans present a minor hazard to our plans
+0,18,Iroquois,Korea,Danger,major,The threat that the Koreans present is labeled as major by our diplomatic cables
+0,19,Songhai,Korea,Danger,minor,The danger that the Koreans embody is portrayed as minor by our spies
+0,19,Germany,Inca,Danger,minor,We imagine that the Incas present a minor problem to our interests
+0,21,Songhai,Iroquois,Danger,minor,The obstacle that the Iroquois present is portrayed as minor by our sources
+0,21,Iroquois,Songhai,Danger,major,The Iroquois imagine that the Songhai constitute a major risk to the Iroquois interests
+0,22,Korea,Morocco,Danger,minor,The hazard that the Moroccans present is labeled as minor by our spies
+0,23,Germany,Morocco,Danger,minor,The risk that the Moroccans constitute is portrayed as minor by our intelligence officers
+0,23,Iroquois,Germany,Danger,moderate,The risk that the Germans show is characterized as moderate by our sources
+0,25,Iroquois,Morocco,Danger,minor,We imagine that the Moroccans are a minor danger to our plans
+0,26,Germany,Songhai,Danger,major,The obstacle that the Songhai embody is portrayed as major by our spies
+0,26,Korea,Songhai,Danger,minor,The hazard that the Songhai constitute is defined as minor by our intelligence officers
+0,27,Songhai,Morocco,Danger,minor,The danger that the Moroccans constitute is defined as minor by our agents
+0,27,Iroquois,Germany,Danger,moderate,The Iroquois infer that the Germans represent a moderate danger to the Iroquois pursuits
+0,27,Germany,Inca,Danger,minor,The problem that the Incas constitute is described as minor by our diplomatic cables
+0,27,Germany,Iroquois,Danger,moderate,The hazard that the Iroquois show is represented as moderate by our intelligence officers
+0,27,Korea,Germany,Danger,minor,The danger that the Germans present is defined as minor by our spies
+0,27,Morocco,Songhai,Danger,moderate,The Moroccans suspect that the Songhai compose a moderate danger to the Moroccans ambitions
+0,28,Inca,Morocco,Danger,major,The problem that the Moroccans embody is portrayed as major by our spies
+0,29,Inca,Germany,Danger,minor,We think that the Germans constitute a minor obstacle to our plans
+0,30,Songhai,Germany,Danger,major,The hazard that the Germans show is defined as major by our agents
+0,30,Inca,Songhai,Danger,moderate,We feel that the Songhai comprise a moderate problem to our pursuits
+0,32,Germany,Korea,Danger,minor,We believe that the Koreans have become a minor danger to our activities
+0,32,Iroquois,Morocco,Danger,minor,The problem that the Moroccans embody is defined as minor by our sources
+0,33,Korea,Morocco,Danger,minor,We infer that the Moroccans present a minor threat to our ambitions
+0,35,Songhai,Morocco,Danger,minor,The threat that the Moroccans show is described as minor by our intelligence officers
+0,35,Songhai,Iroquois,Danger,minor,We imagine that the Iroquois constitute a minor problem to our activities
+0,36,Songhai,Morocco,Danger,minor,The obstacle that the Moroccans constitute is defined as minor by the Songhais sources
+0,38,Inca,Songhai,Danger,moderate,The threat that the Songhai show is labeled as moderate by our spies
+0,38,Morocco,Inca,Danger,minor,The risk that the Incas present is characterized as minor by our diplomatic cables
+0,38,Morocco,Germany,Danger,moderate,We think that the Germans have become a moderate obstacle to our plans
+0,38,Germany,Iroquois,Danger,moderate,We infer that the Iroquois compose a moderate risk to our activities
+0,39,Iroquois,Morocco,Danger,minor,We suspect that the Moroccans amount to a minor problem to our pursuits
+0,40,Iroquois,Inca,Danger,moderate,The obstacle that the Incas represent is portrayed as moderate by the Iroquois agents
+0,40,Iroquois,Inca,Danger,moderate,The risk that the Incas represent is characterized as moderate by our spies
+0,41,Inca,Iroquois,Danger,moderate,We think that the Iroquois represent a moderate problem to our plans
+0,42,Germany,Songhai,Danger,minor,We think that the Songhai have become a minor risk to our interests
+0,43,Songhai,Morocco,Danger,minor,The danger that the Moroccans embody is defined as minor by our agents
+0,44,Morocco,Iroquois,Danger,moderate,We believe that the Iroquois have become a moderate hazard to our interests
+0,46,Inca,Songhai,Danger,moderate,We feel that the Songhai have become a moderate danger to our plans
+0,46,Inca,Iroquois,Danger,moderate,The hazard that the Iroquois constitute is described as moderate by the Incas sources
+0,46,Korea,Iroquois,Danger,major,We imagine that the Iroquois are a major danger to our pursuits
+0,47,Morocco,Inca,Danger,minor,The hazard that the Incas represent is defined as minor by the Moroccans intelligence officers
+0,47,Iroquois,Germany,Danger,moderate,We feel that the Germans represent a moderate risk to our strategies
+0,48,Songhai,Germany,Danger,moderate,The danger that the Germans represent is labeled as moderate by our diplomatic cables
+0,49,Songhai,Iroquois,Danger,minor,The problem that the Iroquois represent is described as minor by our intelligence officers
+0,49,Inca,Iroquois,Danger,moderate,The obstacle that the Iroquois show is described as moderate by our intelligence officers
+0,50,Inca,Morocco,Danger,severe,We estimate that the Moroccans amount to a severe threat to our strategies
+0,50,Iroquois,Germany,Danger,moderate,The Iroquois think that the Germans amount to a moderate risk to the Iroquois activities
+0,50,Inca,Korea,Danger,moderate,The danger that the Koreans constitute is represented as moderate by our sources
+0,50,Morocco,Germany,Danger,moderate,The threat that the Germans show is represented as moderate by the Moroccans sources
+0,51,Songhai,Morocco,Danger,minor,The danger that the Moroccans embody is portrayed as minor by our sources
+0,52,Iroquois,Korea,Danger,major,The Iroquois imagine that the Koreans comprise a major risk to the Iroquois interests
+0,52,Morocco,Iroquois,Danger,moderate,The danger that the Iroquois show is portrayed as moderate by our diplomatic cables
+0,54,Songhai,Korea,Danger,moderate,We think that the Koreans constitute a moderate risk to our plans
+0,54,Korea,Germany,Danger,minor,The problem that the Germans show is portrayed as minor by our intelligence officers
+0,55,Korea,Germany,Danger,moderate,The danger that the Germans present is described as moderate by the Koreans intelligence officers
+0,55,Korea,Morocco,Danger,major,We suspect that the Moroccans are a major problem to our ambitions
+0,55,Iroquois,Germany,Danger,moderate,We infer that the Germans are a moderate obstacle to our pursuits
+0,57,Songhai,Germany,Danger,minor,We suspect that the Germans comprise a minor risk to our activities
+0,58,Inca,Korea,Danger,moderate,We think that the Koreans present a moderate danger to our interests
+0,58,Germany,Morocco,Danger,minor,We imagine that the Moroccans amount to a minor hazard to our pursuits
+0,58,Iroquois,Korea,Danger,major,The risk that the Koreans embody is represented as major by our agents
+0,59,Inca,Germany,Danger,major,The problem that the Germans constitute is described as major by our sources
+0,59,Morocco,Germany,Danger,moderate,The problem that the Germans present is portrayed as moderate by our spies
+0,59,Korea,Inca,Danger,minor,We estimate that the Incas amount to a minor obstacle to our activities
+0,60,Morocco,Inca,Danger,minor,We suspect that the Incas are a minor obstacle to our ambitions
+0,60,Morocco,Iroquois,Danger,moderate,We think that the Iroquois are a moderate hazard to our activities
+0,61,Korea,Songhai,Danger,minor,We imagine that the Songhai constitute a minor hazard to our plans
+0,62,Iroquois,Songhai,Danger,severe,The hazard that the Songhai present is defined as severe by the Iroquois agents
+0,63,Songhai,Iroquois,Danger,minor,We estimate that the Iroquois present a minor threat to our interests
+0,63,Iroquois,Germany,Danger,minor,The obstacle that the Germans constitute is described as minor by our agents
+0,64,Korea,Iroquois,Danger,minor,The obstacle that the Iroquois constitute is represented as minor by our sources
+0,66,Morocco,Germany,Danger,moderate,We believe that the Germans comprise a moderate obstacle to our plans
+0,66,Iroquois,Korea,Danger,major,The threat that the Koreans show is defined as major by our intelligence officers
+0,67,Germany,Inca,Danger,minor,We think that the Incas constitute a minor risk to our activities
+0,67,Iroquois,Morocco,Danger,minor,We imagine that the Moroccans comprise a minor hazard to our pursuits
+0,68,Songhai,Korea,Danger,moderate,The obstacle that the Koreans constitute is described as moderate by our agents
+0,68,Inca,Songhai,Danger,moderate,The Incas believe that the Songhai constitute a moderate danger to the Incas plans
+0,68,Morocco,Iroquois,Danger,moderate,The threat that the Iroquois show is portrayed as moderate by our diplomatic cables
+0,71,Iroquois,Germany,Danger,moderate,We infer that the Germans compose a moderate obstacle to our plans
+0,73,Inca,Iroquois,Danger,moderate,We suspect that the Iroquois constitute a moderate danger to our plans
+0,73,Morocco,Songhai,Danger,moderate,The problem that the Songhai show is described as moderate by our diplomatic cables
+0,74,Iroquois,Korea,Danger,minor,We estimate that the Koreans compose a minor obstacle to our plans
+0,75,Songhai,Inca,Danger,moderate,We imagine that the Incas compose a moderate threat to our pursuits
+0,75,Songhai,Germany,Danger,major,The danger that the Germans constitute is labeled as major by our sources
+0,75,Songhai,Korea,Danger,minor,We estimate that the Koreans represent a minor hazard to our ambitions
+0,75,Germany,Inca,Danger,minor,The problem that the Incas show is defined as minor by our sources
+0,76,Inca,Iroquois,Danger,moderate,The Incas think that the Iroquois are a moderate danger to the Incas ambitions
+0,77,Morocco,Korea,Danger,minor,The danger that the Koreans embody is described as minor by our intelligence officers
+0,77,Iroquois,Songhai,Danger,major,We think that the Songhai amount to a major danger to our interests
+0,78,Inca,Songhai,Danger,moderate,The threat that the Songhai present is characterized as moderate by our diplomatic cables
+0,79,Inca,Germany,Danger,major,We feel that the Germans are a major hazard to our interests
+0,80,Songhai,Korea,Danger,minor,The obstacle that the Koreans present is characterized as minor by the Songhais sources
+0,81,Iroquois,Morocco,Danger,moderate,The problem that the Moroccans represent is defined as moderate by our intelligence officers
+0,82,Inca,Korea,Danger,moderate,We imagine that the Koreans are a moderate risk to our plans
+0,82,Morocco,Songhai,Danger,moderate,The danger that the Songhai present is labeled as moderate by our agents
+0,82,Morocco,Inca,Danger,major,The problem that the Incas present is portrayed as major by our diplomatic cables
+0,82,Inca,Morocco,Danger,major,The risk that the Moroccans present is portrayed as major by the Incas sources
+0,82,Korea,Iroquois,Danger,major,We infer that the Iroquois are a major threat to our strategies
+0,82,Iroquois,Korea,Danger,major,We suspect that the Koreans comprise a major obstacle to our plans
+0,83,Germany,Inca,Danger,major,We infer that the Incas have become a major danger to our pursuits
+0,84,Songhai,Germany,Danger,minor,The danger that the Germans present is labeled as minor by our sources
+0,84,Morocco,Iroquois,Danger,minor,We feel that the Iroquois present a minor problem to our plans
+0,86,Morocco,Korea,Danger,minor,The danger that the Koreans represent is characterized as minor by our sources
+0,87,Morocco,Germany,Danger,minor,We suspect that the Germans represent a minor danger to our activities
+0,87,Germany,Korea,Danger,moderate,The threat that the Koreans constitute is labeled as moderate by our diplomatic cables
+0,89,Songhai,Korea,Danger,minor,The risk that the Koreans present is portrayed as minor by our sources
+0,89,Inca,Iroquois,Danger,minor,The problem that the Iroquois present is represented as minor by our intelligence officers
+0,90,Inca,Korea,Danger,minor,The problem that the Koreans embody is represented as minor by our spies
+0,91,Songhai,Morocco,Danger,minor,We think that the Moroccans comprise a minor obstacle to our pursuits
+0,91,Songhai,Iroquois,Danger,severe,The danger that the Iroquois embody is defined as severe by our intelligence officers
+0,93,Songhai,Inca,Danger,minor,We imagine that the Incas are a minor risk to our interests
+0,93,Germany,Iroquois,Danger,minor,The obstacle that the Iroquois present is characterized as minor by our diplomatic cables
+0,95,Iroquois,Germany,Danger,moderate,We imagine that the Germans constitute a moderate danger to our pursuits
+0,96,Inca,Iroquois,Danger,minor,The Incas feel that the Iroquois have become a minor problem to the Incas ambitions
+0,96,Songhai,Korea,Danger,major,We estimate that the Koreans present a major obstacle to our pursuits
+0,96,Korea,Songhai,Danger,minor,We think that the Songhai constitute a minor obstacle to our strategies
+0,98,Songhai,Iroquois,Danger,severe,The risk that the Iroquois represent is labeled as severe by our diplomatic cables
+0,98,Germany,Korea,Danger,moderate,The problem that the Koreans embody is labeled as moderate by our spies
+0,98,Iroquois,Korea,Danger,major,The obstacle that the Koreans embody is labeled as major by our sources
+0,99,Inca,Germany,Danger,major,We infer that the Germans compose a major danger to our activities
+0,99,Morocco,Korea,Danger,minor,The threat that the Koreans show is defined as minor by the Moroccans diplomatic cables
+0,99,Korea,Morocco,Danger,moderate,The obstacle that the Moroccans show is portrayed as moderate by our diplomatic cables
+0,100,Morocco,Iroquois,Danger,major,The risk that the Iroquois constitute is defined as major by our agents
+0,100,Inca,Morocco,Danger,major,The Incas feel that the Moroccans are a major hazard to the Incas strategies
+0,100,Germany,Morocco,Danger,minor,The obstacle that the Moroccans embody is represented as minor by our sources
+0,100,Korea,Iroquois,Danger,major,The danger that the Iroquois constitute is described as major by our diplomatic cables
+0,101,Morocco,Germany,Danger,minor,We feel that the Germans are a minor risk to our activities
+0,102,Iroquois,Morocco,Danger,moderate,The obstacle that the Moroccans represent is portrayed as moderate by our intelligence officers
+0,103,Iroquois,Korea,Danger,major,The hazard that the Koreans show is characterized as major by our diplomatic cables
+0,104,Morocco,Inca,Danger,major,We infer that the Incas constitute a major problem to our plans
+0,104,Morocco,Korea,Danger,minor,The risk that the Koreans represent is described as minor by our sources
+0,105,Germany,Songhai,Danger,major,The danger that the Songhai represent is described as major by the Germans spies
+0,105,Inca,Iroquois,Danger,minor,The hazard that the Iroquois show is described as minor by our spies
+0,106,Inca,Korea,Danger,minor,We estimate that the Koreans amount to a minor risk to our plans
+0,107,Songhai,Morocco,Danger,minor,The danger that the Moroccans embody is described as minor by our sources
+0,107,Germany,Morocco,Danger,minor,We imagine that the Moroccans have become a minor hazard to our plans
+0,107,Iroquois,Korea,Danger,major,We suspect that the Koreans constitute a major hazard to our pursuits
+0,108,Korea,Germany,Danger,moderate,The hazard that the Germans constitute is labeled as moderate by our diplomatic cables
+0,111,Korea,Germany,Danger,moderate,The hazard that the Germans embody is defined as moderate by the Koreans diplomatic cables
+0,113,Morocco,Korea,Danger,minor,The risk that the Koreans constitute is defined as minor by our intelligence officers
+0,115,Germany,Inca,Danger,major,We think that the Incas constitute a major problem to our pursuits
+0,115,Germany,Iroquois,Danger,minor,We suspect that the Iroquois constitute a minor danger to our strategies
+0,116,Morocco,Iroquois,Danger,minor,The threat that the Iroquois show is characterized as minor by our diplomatic cables
+0,117,Iroquois,Songhai,Danger,major,We infer that the Songhai have become a major obstacle to our ambitions
+0,117,Iroquois,Inca,Danger,moderate,We infer that the Incas present a moderate hazard to our activities
+0,118,Inca,Songhai,Danger,moderate,The risk that the Songhai constitute is labeled as moderate by our spies
+0,118,Morocco,Songhai,Danger,minor,We feel that the Songhai have become a minor risk to our ambitions
+0,119,Morocco,Iroquois,Danger,minor,The risk that the Iroquois embody is described as minor by the Moroccans sources
+0,119,Songhai,Iroquois,Danger,major,We suspect that the Iroquois are a major obstacle to our activities
+0,120,Songhai,Germany,Danger,minor,We infer that the Germans amount to a minor obstacle to our plans
+0,121,Korea,Morocco,Danger,minor,We suspect that the Moroccans amount to a minor obstacle to our pursuits
+0,122,Inca,Korea,Danger,minor,We suspect that the Koreans comprise a minor threat to our pursuits
+0,122,Morocco,Korea,Danger,minor,We imagine that the Koreans comprise a minor problem to our strategies
+0,123,Iroquois,Korea,Danger,major,We imagine that the Koreans present a major threat to our interests
+0,124,Songhai,Korea,Danger,minor,The threat that the Koreans embody is defined as minor by our intelligence officers
+0,124,Germany,Morocco,Danger,minor,The Germans suspect that the Moroccans represent a minor danger to the Germans plans
+0,125,Morocco,Songhai,Danger,major,The Moroccans estimate that the Songhai comprise a major hazard to the Moroccans ambitions
+0,126,Songhai,Iroquois,Danger,severe,The problem that the Iroquois constitute is characterized as severe by our sources
+0,126,Korea,Germany,Danger,moderate,We feel that the Germans are a moderate problem to our activities
+0,127,Morocco,Songhai,Danger,major,The problem that the Songhai constitute is represented as major by our diplomatic cables
+0,127,Iroquois,Songhai,Danger,major,The obstacle that the Songhai embody is characterized as major by our intelligence officers
+0,127,Iroquois,Germany,Danger,moderate,We believe that the Germans represent a moderate risk to our strategies
+0,127,Inca,Songhai,Danger,moderate,The risk that the Songhai represent is defined as moderate by the Incas diplomatic cables
+0,128,Morocco,Inca,Danger,severe,The threat that the Incas show is portrayed as severe by the Moroccans spies
+0,128,Iroquois,Inca,Danger,moderate,The risk that the Incas present is portrayed as moderate by our sources
+0,129,Morocco,Germany,Danger,minor,We believe that the Germans have become a minor hazard to our pursuits
+0,129,Songhai,Inca,Danger,minor,The Songhai feel that the Incas comprise a minor obstacle to the Songhais activities
+0,130,Songhai,Morocco,Danger,minor,The Songhai believe that the Moroccans amount to a minor threat to the Songhais strategies
+0,131,Songhai,Morocco,Danger,minor,The problem that the Moroccans show is described as minor by our diplomatic cables
+0,131,Germany,Inca,Danger,major,We suspect that the Incas represent a major risk to our strategies
+0,132,Morocco,Iroquois,Danger,severe,The danger that the Iroquois present is represented as severe by our agents
+0,132,Korea,Morocco,Danger,moderate,The risk that the Moroccans show is labeled as moderate by our spies
+0,133,Songhai,Iroquois,Danger,severe,The threat that the Iroquois constitute is represented as severe by our intelligence officers
+0,134,Inca,Songhai,Danger,minor,The danger that the Songhai embody is defined as minor by our spies
+0,135,Iroquois,Germany,Danger,moderate,The threat that the Germans embody is defined as moderate by our diplomatic cables
+0,136,Iroquois,Korea,Danger,major,We infer that the Koreans compose a major obstacle to our plans
+0,137,Germany,Iroquois,Danger,major,The problem that the Iroquois represent is represented as major by our intelligence officers
+0,137,Korea,Iroquois,Danger,severe,The danger that the Iroquois show is labeled as severe by our agents
+0,138,Songhai,Inca,Danger,moderate,The risk that the Incas represent is described as moderate by our intelligence officers
+0,138,Songhai,Korea,Danger,minor,The danger that the Koreans show is labeled as minor by our sources
+0,138,Inca,Korea,Danger,major,We suspect that the Koreans compose a major hazard to our ambitions
+0,138,Germany,Morocco,Danger,minor,The threat that the Moroccans present is described as minor by the Germans intelligence officers
+0,138,Korea,Songhai,Danger,minor,We suspect that the Songhai present a minor threat to our plans
+0,139,Inca,Morocco,Danger,major,We believe that the Moroccans are a major problem to our ambitions
+0,139,Iroquois,Korea,Danger,severe,The Iroquois suspect that the Koreans are a severe obstacle to the Iroquois interests
+0,139,Inca,Germany,Danger,major,We infer that the Germans have become a major hazard to our pursuits
+0,139,Germany,Inca,Danger,minor,The risk that the Incas present is labeled as minor by our agents
+0,139,Songhai,Korea,Danger,minor,The Songhai think that the Koreans present a minor obstacle to the Songhais plans
+0,140,Morocco,Korea,Danger,major,We think that the Koreans comprise a major danger to our plans
+0,142,Inca,Songhai,Danger,minor,We estimate that the Songhai have become a minor problem to our strategies
+0,142,Germany,Morocco,Danger,minor,We feel that the Moroccans present a minor risk to our interests
+0,143,Morocco,Songhai,Danger,major,The hazard that the Songhai embody is characterized as major by the Moroccans spies
+0,143,Iroquois,Germany,Danger,moderate,We think that the Germans amount to a moderate risk to our pursuits
+0,144,Korea,Germany,Danger,moderate,The threat that the Germans represent is represented as moderate by our intelligence officers
+0,145,Songhai,Korea,Danger,minor,The hazard that the Koreans constitute is portrayed as minor by our spies
+0,145,Inca,Germany,Danger,major,The risk that the Germans show is characterized as major by the Incas intelligence officers
+0,145,Inca,Iroquois,Danger,minor,The risk that the Iroquois present is defined as minor by our intelligence officers
+0,147,Songhai,Morocco,Danger,minor,The danger that the Moroccans present is described as minor by our diplomatic cables
+0,147,Songhai,Iroquois,Danger,major,We estimate that the Iroquois have become a major problem to our ambitions
+0,148,Morocco,Iroquois,Danger,major,We believe that the Iroquois constitute a major problem to our ambitions
+0,149,Inca,Germany,Danger,major,We believe that the Germans have become a major risk to our interests
+0,149,Morocco,Inca,Danger,major,The obstacle that the Incas present is labeled as major by our spies
+0,149,Morocco,Korea,Danger,minor,The hazard that the Koreans present is portrayed as minor by our agents
+0,149,Germany,Morocco,Danger,minor,We think that the Moroccans comprise a minor risk to our ambitions
+0,150,Korea,Songhai,Danger,major,The danger that the Songhai present is portrayed as major by the Koreans sources
+0,150,Inca,Morocco,Danger,major, The problem that the Moroccans constitute is defined as major by our intelligence officers
+0,150,Iroquois,Inca,Danger,moderate,We estimate that the Incas comprise a moderate threat to our interests
+0,151,Iroquois,Germany,Danger,moderate,The threat that the Germans embody is labeled as moderate by our agents
+0,152,Songhai,Korea,Danger,minor,The obstacle that the Koreans represent is labeled as minor by our spies
+0,153,Germany,Korea,Danger,moderate,The danger that the Koreans constitute is portrayed as moderate by our spies
+0,154,Songhai,Iroquois,Danger,major,We suspect that the Iroquois compose a major hazard to our strategies
+0,154,Morocco,Songhai,Danger,minor,We suspect that the Songhai have become a minor problem to our ambitions
+0,154,Iroquois,Morocco,Danger,minor,The threat that the Moroccans represent is defined as minor by the Iroquois agents
+0,155,Songhai,Morocco,Danger,minor,The problem that the Moroccans constitute is labeled as minor by our sources
+0,155,Germany,Inca,Danger,major,We estimate that the Incas comprise a major hazard to our pursuits
+0,156,Iroquois,Korea,Danger,severe,The problem that the Koreans constitute is portrayed as severe by our spies
+0,157,Iroquois,Songhai,Danger,severe,We suspect that the Songhai comprise a severe risk to our activities
+0,158,Inca,Songhai,Danger,moderate,The danger that the Songhai embody is characterized as moderate by our sources
+0,158,Morocco,Korea,Danger,minor,The obstacle that the Koreans show is portrayed as minor by our spies
+0,159,Songhai,Korea,Danger,major,We imagine that the Koreans are a major danger to our ambitions
+0,159,Inca,Germany,Danger,major,We feel that the Germans are a major danger to our strategies
+0,161,Songhai,Iroquois,Danger,severe,We estimate that the Iroquois amount to a severe danger to our activities
+0,161,Inca,Iroquois,Danger,major,The threat that the Iroquois present is labeled as major by our spies
+0,162,Germany,Songhai,Danger,major,The threat that the Songhai constitute is defined as major by our intelligence officers
+0,163,Songhai,Morocco,Danger,minor,The risk that the Moroccans embody is represented as minor by the Songhais spies
+0,163,Germany,Inca,Danger,major,The threat that the Incas present is portrayed as major by our diplomatic cables
+0,164,Songhai,Iroquois,Danger,severe,The threat that the Iroquois present is labeled as severe by the Songhais intelligence officers
+0,165,Iroquois,Morocco,Danger,minor,We imagine that the Moroccans compose a minor danger to our activities
+0,166,Songhai,Korea,Danger,major,The hazard that the Koreans represent is portrayed as major by our agents
+0,166,Inca,Songhai,Danger,minor,The problem that the Songhai embody is portrayed as minor by our intelligence officers
+0,167,Iroquois,Songhai,Danger,severe,The obstacle that the Songhai embody is labeled as severe by our sources
+0,167,Iroquois,Germany,Danger,moderate,The risk that the Germans show is represented as moderate by our spies
+0,169,Inca,Germany,Danger,major,We think that the Germans have become a major hazard to our activities
+0,169,Korea,Inca,Danger,moderate,The obstacle that the Incas present is described as moderate by our diplomatic cables
+0,169,Iroquois,Germany,Danger,moderate,The Iroquois imagine that the Germans have become a moderate obstacle to the Iroquois activities
+0,171,Songhai,Morocco,Danger,minor,The obstacle that the Moroccans present is represented as minor by our spies
+0,171,Morocco,Inca,Danger,minor,The threat that the Incas embody is defined as minor by our spies
+0,171,Morocco,Germany,Danger,moderate,We estimate that the Germans represent a moderate danger to our pursuits
+0,171,Korea,Germany,Danger,moderate,The obstacle that the Germans embody is represented as moderate by our spies
+0,172,Iroquois,Inca,Danger,moderate,We suspect that the Incas present a moderate risk to our activities
+0,172,Iroquois,Morocco,Danger,minor,The hazard that the Moroccans constitute is represented as minor by our sources
+0,173,Songhai,Korea,Danger,major,We believe that the Koreans represent a major problem to our activities
+0,173,Iroquois,Korea,Danger,severe,We think that the Koreans constitute a severe danger to our activities
+0,174,Songhai,Inca,Danger,moderate,We feel that the Incas have become a moderate risk to our activities
+0,174,Iroquois,Korea,Danger,severe,The hazard that the Koreans show is described as severe by our intelligence officers
+0,174,Germany,Morocco,Danger,major,The risk that the Moroccans present is defined as major by the Germans sources
+0,174,Korea,Iroquois,Danger,major,The danger that the Iroquois show is characterized as major by our sources
+0,175,Inca,Korea,Danger,major,The threat that the Koreans constitute is represented as major by the Incas agents
+0,175,Germany,Korea,Danger,minor,We think that the Koreans present a minor risk to our ambitions
+0,175,Iroquois,Germany,Danger,moderate,The problem that the Germans represent is represented as moderate by our sources
+0,176,Korea,Morocco,Danger,minor,The problem that the Moroccans constitute is defined as minor by our diplomatic cables
+0,177,Germany,Morocco,Danger,minor,We believe that the Moroccans constitute a minor threat to our interests
+0,178,Inca,Korea,Danger,major,The Incas suspect that the Koreans have become a major hazard to the Incas pursuits
+0,179,Korea,Inca,Danger,moderate,The threat that the Incas constitute is represented as moderate by our spies
+0,179,Iroquois,Morocco,Danger,major,We suspect that the Moroccans present a major problem to our interests
+0,180,Korea,Inca,Danger,moderate,The danger that the Incas constitute is represented as moderate by the Koreans sources
+0,180,Korea,Songhai,Danger,minor,The hazard that the Songhai represent is represented as minor by our diplomatic cables
+0,180,Korea,Germany,Danger,moderate,We imagine that the Germans are a moderate risk to our interests
+0,181,Germany,Iroquois,Danger,minor,We imagine that the Iroquois compose a minor threat to our interests
+0,182,Songhai,Iroquois,Danger,severe,We estimate that the Iroquois represent a severe danger to our strategies
+0,182,Inca,Songhai,Danger,minor,The risk that the Songhai embody is defined as minor by our spies
+0,182,Morocco,Inca,Danger,minor,We think that the Incas have become a minor threat to our strategies
+0,182,Morocco,Germany,Danger,minor,The threat that the Germans constitute is portrayed as minor by the Moroccans diplomatic cables
+0,183,Songhai,Germany,Danger,severe,The obstacle that the Germans embody is described as severe by our diplomatic cables
+0,183,Iroquois,Inca,Danger,moderate,We imagine that the Incas compose a moderate obstacle to our activities
+0,184,Inca,Morocco,Danger,major,The obstacle that the Moroccans represent is described as major by our agents
+0,185,Inca,Iroquois,Danger,minor,The problem that the Iroquois present is represented as minor by our spies
+0,185,Morocco,Germany,Danger,minor,We suspect that the Germans amount to a minor danger to our plans
+0,185,Korea,Iroquois,Danger,major,The threat that the Iroquois constitute is portrayed as major by our intelligence officers
+0,186,Inca,Korea,Danger,minor,The hazard that the Koreans constitute is described as minor by our diplomatic cables
+0,186,Iroquois,Morocco,Danger,minor,The risk that the Moroccans present is characterized as minor by our agents
+0,187,Korea,Songhai,Danger,major,We infer that the Songhai represent a major risk to our strategies
+0,189,Korea,Germany,Danger,moderate,The problem that the Germans present is characterized as moderate by our spies
+0,189,Inca,Iroquois,Danger,minor,The risk that the Iroquois embody is represented as minor by the Incas diplomatic cables
+0,189,Songhai,Korea,Danger,major,The hazard that the Koreans show is described as major by our agents
+0,190,Inca,Songhai,Danger,minor,We imagine that the Songhai constitute a minor obstacle to our strategies
+0,190,Songhai,Iroquois,Danger,major,The obstacle that the Iroquois constitute is portrayed as major by our spies
+0,192,Morocco,Germany,Danger,minor,We think that the Germans are a minor problem to our pursuits
+0,192,Germany,Iroquois,Danger,minor,The obstacle that the Iroquois represent is represented as minor by our agents
+0,193,Iroquois,Korea,Danger,severe,The Iroquois infer that the Koreans amount to a severe threat to the Iroquois plans
+0,193,Iroquois,Morocco,Danger,major,We estimate that the Moroccans are a major obstacle to our plans
+0,194,Korea,Iroquois,Danger,major,We suspect that the Iroquois represent a major danger to our interests
+0,195,Songhai,Korea,Danger,severe,The threat that the Koreans show is labeled as severe by our diplomatic cables
+0,195,Germany,Inca,Danger,major,The threat that the Incas show is described as major by our spies
+0,198,Inca,Songhai,Danger,moderate,The hazard that the Songhai represent is represented as moderate by our intelligence officers
+0,198,Iroquois,Korea,Danger,critical,The threat that the Koreans present is characterized as critical by our diplomatic cables
+0,199,Songhai,Iroquois,Danger,major,The problem that the Iroquois present is described as major by the Songhais diplomatic cables
+0,199,Morocco,Germany,Danger,minor,The danger that the Germans present is portrayed as minor by our spies
+0,199,Inca,Songhai,Danger,moderate,The problem that the Songhai present is described as moderate by the Incas diplomatic cables
+0,199,Iroquois,Germany,Danger,minor,We feel that the Germans present a minor hazard to our interests
+0,200,Iroquois,Morocco,Danger,major,We estimate that the Moroccans are a major hazard to our activities
+0,201,Songhai,Germany,Danger,critical,The hazard that the Germans represent is characterized as critical by our intelligence officers
+0,201,Inca,Iroquois,Danger,minor,The risk that the Iroquois present is characterized as minor by our spies
+0,202,Germany,Iroquois,Danger,minor,The Germans believe that the Iroquois present a minor obstacle to the Germans strategies
+0,202,Inca,Korea,Danger,moderate,We infer that the Koreans represent a moderate problem to our ambitions
+0,203,Morocco,Songhai,Danger,moderate,The Moroccans feel that the Songhai are a moderate risk to the Moroccans strategies
+0,204,Songhai,Iroquois,Danger,severe,The hazard that the Iroquois represent is represented as severe by our spies
+0,204,Songhai,Korea,Danger,critical,The Songhai think that the Koreans are a critical hazard to the Songhais activities
+0,204,Morocco,Iroquois,Danger,minor,The risk that the Iroquois constitute is defined as minor by our diplomatic cables
+0,205,Iroquois,Inca,Danger,moderate,The threat that the Incas present is labeled as moderate by our spies
+0,207,Korea,Songhai,Danger,major,The threat that the Songhai show is portrayed as major by the Koreans diplomatic cables
+0,208,Germany,Korea,Danger,moderate,We suspect that the Koreans are a moderate threat to our plans
+0,208,Iroquois,Songhai,Danger,severe,The problem that the Songhai represent is represented as severe by our agents
+0,209,Germany,Iroquois,Danger,minor,The danger that the Iroquois represent is characterized as minor by the Germans diplomatic cables
+0,209,Inca,Germany,Danger,major,The threat that the Germans constitute is labeled as major by our agents
+0,210,Songhai,Inca,Danger,moderate,The threat that the Incas show is portrayed as moderate by our agents
+0,210,Songhai,Germany,Danger,severe,The problem that the Germans constitute is labeled as severe by our spies
+0,210,Songhai,Inca,Danger,moderate,The threat that the Incas constitute is represented as moderate by the Songhais diplomatic cables
+0,211,Germany,Inca,Danger,major,We feel that the Incas compose a major obstacle to our interests
+0,212,Germany,Morocco,Danger,major,We believe that the Moroccans compose a major problem to our interests
+0,213,Korea,Inca,Danger,moderate,The Koreans believe that the Incas comprise a moderate danger to the Koreans ambitions
+0,214,Iroquois,Morocco,Danger,major,The risk that the Moroccans present is defined as major by our sources
+0,215,Morocco,Inca,Danger,minor,The problem that the Incas embody is represented as minor by our intelligence officers
+0,215,Songhai,Morocco,Danger,major,The Songhai feel that the Moroccans are a major risk to the Songhais activities
+0,215,Korea,Morocco,Danger,severe,We think that the Moroccans comprise a severe threat to our ambitions
+0,216,Songhai,Korea,Danger,minor,The danger that the Koreans represent is represented as minor by our sources
+0,216,Korea,Germany,Danger,moderate,We feel that the Germans present a moderate obstacle to our activities
+0,217,Inca,Morocco,Danger,severe,We infer that the Moroccans are a severe problem to our pursuits
+0,217,Inca,Iroquois,Danger,minor,We infer that the Iroquois amount to a minor threat to our strategies
+0,217,Morocco,Songhai,Danger,minor,We think that the Songhai have become a minor obstacle to our plans
+0,218,Songhai,Iroquois,Danger,severe,We feel that the Iroquois comprise a severe obstacle to our activities
+0,218,Iroquois,Songhai,Danger,severe,We believe that the Songhai comprise a severe hazard to our pursuits
+0,219,Songhai,Morocco,Danger,major,We imagine that the Moroccans represent a major problem to our plans
+0,219,Songhai,Germany,Danger,severe,We imagine that the Germans have become a severe hazard to our strategies
+0,219,Korea,Morocco,Danger,severe,The Koreans infer that the Moroccans comprise a severe danger to the Koreans pursuits
+0,219,Inca,Korea,Danger,major,We estimate that the Koreans represent a major threat to our ambitions
+0,219,Germany,Inca,Danger,major,We believe that the Incas present a major obstacle to our plans
+0,219,Germany,Morocco,Danger,severe,The danger that the Moroccans embody is labeled as severe by our diplomatic cables
+0,219,Germany,Korea,Danger,moderate,The risk that the Koreans represent is characterized as moderate by our spies
+0,220,Morocco,Iroquois,Danger,minor,We suspect that the Iroquois present a minor problem to our interests
+0,220,Korea,Inca,Danger,minor,We infer that the Incas constitute a minor obstacle to our plans
+0,222,Inca,Songhai,Danger,minor,The danger that the Songhai embody is defined as minor by our intelligence officers
+0,222,Songhai,Germany,Danger,severe,The Songhai suspect that the Germans constitute a severe hazard to the Songhais ambitions
+0,223,Iroquois,Germany,Danger,minor,We feel that the Germans amount to a minor hazard to our activities
+0,225,Germany,Korea,Danger,moderate,The danger that the Koreans show is represented as moderate by the Germans sources
+0,225,Germany,Iroquois,Danger,minor,The threat that the Iroquois present is characterized as minor by our sources
+0,225,Korea,Germany,Danger,moderate,We infer that the Germans compose a moderate hazard to our plans
+0,226,Morocco,Inca,Danger,minor,We imagine that the Incas present a minor threat to our activities
+0,226,Germany,Songhai,Danger,severe,The hazard that the Songhai present is represented as severe by our spies
+0,227,Germany,Inca,Danger,major,The problem that the Incas represent is characterized as major by the Germans intelligence officers
+0,227,Germany,Inca,Danger,major,We believe that the Incas represent a major hazard to our interests
+0,227,Korea,Inca,Danger,minor,We infer that the Incas have become a minor problem to our interests
+0,229,Inca,Germany,Danger,major,We feel that the Germans amount to a major hazard to our activities
+0,231,Korea,Inca,Danger,minor,We infer that the Incas comprise a minor obstacle to our interests
+0,232,Songhai,Iroquois,Danger,major,We imagine that the Iroquois constitute a major danger to our pursuits
+0,233,Germany,Morocco,Danger,major,We feel that the Moroccans comprise a major danger to our activities
+0,234,Korea,Germany,Danger,moderate,The danger that the Germans embody is labeled as moderate by our intelligence officers
+0,235,Morocco,Songhai,Danger,major,We feel that the Songhai represent a major problem to our pursuits
+0,235,Germany,Inca,Danger,major,The danger that the Incas embody is represented as major by our diplomatic cables
+0,235,Iroquois,Morocco,Danger,severe,The danger that the Moroccans represent is labeled as severe by our agents
+0,237,Songhai,Inca,Danger,moderate,The problem that the Incas represent is portrayed as moderate by our intelligence officers
+0,237,Morocco,Inca,Danger,major,We infer that the Incas have become a major obstacle to our ambitions
+0,237,Korea,Songhai,Danger,severe,The problem that the Songhai constitute is described as severe by our diplomatic cables
+0,238,Iroquois,Songhai,Danger,critical,The problem that the Songhai show is defined as critical by our agents
+0,238,Germany,Songhai,Danger,severe,The Germans think that the Songhai constitute a severe obstacle to the Germans activities
+0,238,Iroquois,Inca,Danger,moderate,The threat that the Incas present is portrayed as moderate by our spies
+0,238,Iroquois,Korea,Danger,critical,The risk that the Koreans constitute is described as critical by our spies
+0,239,Songhai,Iroquois,Danger,major,The risk that the Iroquois constitute is represented as major by our intelligence officers
+0,239,Inca,Morocco,Danger,severe,The danger that the Moroccans represent is represented as severe by our intelligence officers
+0,239,Korea,Iroquois,Danger,minor,We estimate that the Iroquois amount to a minor hazard to our pursuits
+0,239,Iroquois,Germany,Danger,minor,The obstacle that the Germans constitute is described as minor by our spies
+0,239,Songhai,Inca,Danger,moderate,The Songhai estimate that the Incas are a moderate problem to the Songhais pursuits
+0,241,Morocco,Germany,Danger,minor,The threat that the Germans embody is portrayed as minor by our intelligence officers
+0,243,Korea,Germany,Danger,major,We think that the Germans present a major danger to our plans
+0,244,Songhai,Korea,Danger,minor,We imagine that the Koreans represent a minor danger to our pursuits
+0,244,Morocco,Iroquois,Danger,minor,The danger that the Iroquois show is described as minor by our spies
+0,246,Songhai,Iroquois,Danger,major,We feel that the Iroquois present a major threat to our pursuits
+0,246,Inca,Songhai,Danger,major,The obstacle that the Songhai present is described as major by our agents
+0,246,Iroquois,Korea,Danger,critical,The risk that the Koreans present is labeled as critical by our intelligence officers
+0,247,Germany,Iroquois,Danger,minor,The risk that the Iroquois present is described as minor by our intelligence officers
+0,248,Morocco,Inca,Danger,minor,The hazard that the Incas embody is described as minor by our sources
+0,248,Morocco,Germany,Danger,major,The problem that the Germans show is portrayed as major by our intelligence officers
+0,248,Iroquois,Germany,Danger,severe,The threat that the Germans present is characterized as severe by our intelligence officers
+0,249,Inca,Germany,Danger,minor,The risk that the Germans present is portrayed as minor by our spies
+0,249,Iroquois,Inca,Danger,minor,The obstacle that the Incas show is described as minor by our sources
+0,249,Germany,Iroquois,Danger,moderate,The danger that the Iroquois constitute is defined as moderate by our sources
+0,250,Germany,Songhai,Danger,severe,The danger that the Songhai represent is represented as severe by the Germans intelligence officers
+0,250,Germany,Songhai,Danger,severe,The obstacle that the Songhai show is characterized as severe by our sources
+0,250,Iroquois,Songhai,Danger,critical,The Iroquois feel that the Songhai have become a critical obstacle to the Iroquois pursuits
+0,251,Songhai,Morocco,Danger,minor,The hazard that the Moroccans embody is described as minor by our spies
+0,251,Korea,Songhai,Danger,severe,We believe that the Songhai amount to a severe problem to our activities
+0,252,Germany,Korea,Danger,minor,The risk that the Koreans represent is labeled as minor by our spies
+0,253,Morocco,Songhai,Danger,major,We infer that the Songhai represent a major obstacle to our interests
+0,253,Iroquois,Korea,Danger,critical,The danger that the Koreans represent is portrayed as critical by the Iroquois diplomatic cables
+0,254,Iroquois,Korea,Danger,critical,The obstacle that the Koreans show is labeled as critical by our sources
+0,254,Germany,Songhai,Danger,major,The problem that the Songhai present is characterized as major by our agents
+0,255,Songhai,Inca,Danger,moderate,The hazard that the Incas present is characterized as moderate by our agents
+0,255,Songhai,Germany,Danger,severe,We suspect that the Germans have become a severe danger to our activities
+0,255,Korea,Songhai,Danger,major,We imagine that the Songhai present a major risk to our pursuits
+0,257,Inca,Iroquois,Danger,moderate,We suspect that the Iroquois present a moderate risk to our pursuits
+0,257,Korea,Iroquois,Danger,moderate,We estimate that the Iroquois comprise a moderate threat to our activities
+0,257,Germany,Morocco,Danger,minor,The threat that the Moroccans present is described as minor by the Germans sources
+0,259,Songhai,Morocco,Danger,minor,The danger that the Moroccans show is portrayed as minor by our agents
+0,259,Inca,Germany,Danger,moderate,The threat that the Germans constitute is represented as moderate by our agents
+0,259,Inca,Korea,Danger,minor,We infer that the Koreans comprise a minor problem to our pursuits
+0,259,Germany,Inca,Danger,major,The danger that the Incas represent is portrayed as major by our sources
+0,259,Germany,Iroquois,Danger,moderate,The obstacle that the Iroquois constitute is labeled as moderate by our spies
+0,260,Songhai,Iroquois,Danger,moderate,We believe that the Iroquois compose a moderate threat to our plans
+0,260,Iroquois,Korea,Danger,severe,The hazard that the Koreans embody is labeled as severe by our spies
+0,261,Korea,Inca,Danger,minor,The problem that the Incas embody is portrayed as minor by our agents
+0,263,Germany,Korea,Danger,minor,We estimate that the Koreans present a minor threat to our interests
+0,264,Iroquois,Morocco,Danger,critical,We infer that the Moroccans comprise a critical hazard to our activities
+0,264,Iroquois,Germany,Danger,severe,We infer that the Germans represent a severe threat to our pursuits
+0,264,Inca,Korea,Danger,minor,The threat that the Koreans present is labeled as minor by the Incas diplomatic cables
+0,265,Inca,Iroquois,Danger,minor,The problem that the Iroquois show is represented as minor by our intelligence officers
+0,266,Songhai,Korea,Danger,severe,We suspect that the Koreans comprise a severe problem to our interests
+0,266,Korea,Songhai,Danger,major,The hazard that the Songhai constitute is defined as major by our diplomatic cables
+0,266,Korea,Morocco,Danger,minor,We imagine that the Moroccans present a minor hazard to our pursuits
+0,267,Iroquois,Morocco,Danger,severe,The Iroquois estimate that the Moroccans constitute a severe problem to the Iroquois activities
+0,267,Morocco,Korea,Danger,major,We feel that the Koreans present a major obstacle to our plans
+0,268,Iroquois,Songhai,Danger,minor,We imagine that the Songhai present a minor problem to our ambitions
+0,269,Inca,Germany,Danger,moderate,The danger that the Germans show is described as moderate by our agents
+0,269,Morocco,Iroquois,Danger,moderate,The obstacle that the Iroquois represent is described as moderate by our diplomatic cables
+0,270,Inca,Songhai,Danger,minor,We believe that the Songhai amount to a minor threat to our pursuits
+0,270,Korea,Morocco,Danger,major,The problem that the Moroccans represent is portrayed as major by the Koreans spies
+0,270,Morocco,Germany,Danger,major,We estimate that the Germans compose a major problem to our pursuits
+0,271,Morocco,Germany,Danger,major,We believe that the Germans constitute a major risk to our pursuits
+0,271,Iroquois,Inca,Danger,minor,We estimate that the Incas compose a minor obstacle to our interests
+0,271,Songhai,Inca,Danger,moderate,The Songhai imagine that the Incas present a moderate risk to the Songhais strategies
+0,272,Inca,Morocco,Danger,severe,We feel that the Moroccans present a severe danger to our activities
+0,272,Iroquois,Germany,Danger,severe,The danger that the Germans represent is portrayed as severe by our agents
+0,273,Iroquois,Morocco,Danger,severe,The problem that the Moroccans present is labeled as severe by the Iroquois agents
+0,273,Inca,Iroquois,Danger,minor,We believe that the Iroquois comprise a minor hazard to our strategies
+0,273,Korea,Songhai,Danger,major,We suspect that the Songhai comprise a major hazard to our interests
+0,275,Songhai,Morocco,Danger,major,The threat that the Moroccans embody is characterized as major by our spies
+0,275,Inca,Korea,Danger,major,The problem that the Koreans embody is represented as major by our spies
+0,275,Korea,Iroquois,Danger,major,The obstacle that the Iroquois constitute is portrayed as major by our sources
+0,276,Morocco,Korea,Danger,major,We infer that the Koreans comprise a major problem to our strategies
+0,276,Morocco,Iroquois,Danger,moderate,We feel that the Iroquois amount to a moderate danger to our strategies
+0,276,Iroquois,Morocco,Danger,critical,The obstacle that the Moroccans show is characterized as critical by our sources
+0,278,Morocco,Iroquois,Danger,major,We think that the Iroquois compose a major hazard to our ambitions
+0,278,Morocco,Germany,Danger,major,The threat that the Germans represent is labeled as major by our agents
+0,278,Morocco,Korea,Danger,major,We infer that the Koreans present a major obstacle to our pursuits
+0,278,Germany,Inca,Danger,severe,The hazard that the Incas constitute is characterized as severe by our spies
+0,278,Germany,Morocco,Danger,major,The danger that the Moroccans show is represented as major by our intelligence officers
+0,278,Korea,Inca,Danger,moderate,We feel that the Incas are a moderate risk to our plans
+0,279,Korea,Songhai,Danger,severe,The Koreans believe that the Songhai present a severe hazard to the Koreans activities
+0,279,Korea,Germany,Danger,moderate,The danger that the Germans constitute is represented as moderate by our spies
+0,279,Iroquois,Morocco,Danger,major,We feel that the Moroccans compose a major hazard to our strategies
+0,279,Inca,Germany,Danger,major,We suspect that the Germans amount to a major obstacle to our pursuits
+0,280,Iroquois,Germany,Danger,minor,The obstacle that the Germans represent is characterized as minor by our sources
+0,281,Inca,Iroquois,Danger,major,The hazard that the Iroquois show is described as major by our agents
+0,281,Morocco,Inca,Danger,minor,We infer that the Incas are a minor problem to our interests
+0,282,Songhai,Inca,Danger,moderate,The danger that the Incas show is characterized as moderate by our diplomatic cables
+0,282,Iroquois,Inca,Danger,minor,The obstacle that the Incas show is represented as minor by our diplomatic cables
+0,283,Songhai,Morocco,Danger,minor,We think that the Moroccans constitute a minor danger to our plans
+0,284,Germany,Songhai,Danger,critical,The threat that the Songhai present is described as critical by our intelligence officers
+0,284,Germany,Inca,Danger,major,The problem that the Incas embody is portrayed as major by our intelligence officers
+0,285,Germany,Morocco,Danger,major,The threat that the Moroccans embody is portrayed as major by our agents
+0,285,Germany,Korea,Danger,minor,We suspect that the Koreans comprise a minor threat to our activities
+0,286,Inca,Songhai,Danger,severe,The hazard that the Songhai show is represented as severe by our diplomatic cables
+0,286,Korea,Inca,Danger,moderate,The Koreans believe that the Incas have become a moderate obstacle to the Koreans strategies
+0,286,Morocco,Germany,Danger,major,We suspect that the Germans have become a major risk to our pursuits
+0,286,Morocco,Iroquois,Danger,major,We feel that the Iroquois compose a major danger to our ambitions
+0,288,Songhai,Korea,Danger,minor,We feel that the Koreans have become a minor hazard to our pursuits
+0,288,Songhai,Iroquois,Danger,severe,We believe that the Iroquois represent a severe problem to our activities
+0,288,Iroquois,Songhai,Danger,critical,We believe that the Songhai constitute a critical obstacle to our strategies
+0,288,Iroquois,Germany,Danger,major,The problem that the Germans embody is labeled as major by our diplomatic cables
+0,289,Morocco,Songhai,Danger,major,The hazard that the Songhai present is defined as major by our agents
+0,289,Korea,Morocco,Danger,minor,We estimate that the Moroccans represent a minor risk to our activities
+0,289,Germany,Morocco,Danger,major,The hazard that the Moroccans show is labeled as major by the Germans agents
+0,290,Inca,Germany,Danger,critical,We infer that the Germans have become a critical risk to our ambitions
+0,291,Songhai,Inca,Danger,moderate,The danger that the Incas embody is portrayed as moderate by our intelligence officers
+0,291,Inca,Iroquois,Danger,major,The Incas imagine that the Iroquois compose a major problem to the Incas interests
+0,292,Songhai,Germany,Danger,minor,We suspect that the Germans comprise a minor hazard to our pursuits
+0,292,Germany,Morocco,Danger,major,The hazard that the Moroccans present is portrayed as major by our agents
+0,293,Korea,Iroquois,Danger,severe,We estimate that the Iroquois have become a severe danger to our interests
+0,293,Iroquois,Morocco,Danger,major,The hazard that the Moroccans present is represented as major by our diplomatic cables
+0,294,Inca,Morocco,Danger,major,We feel that the Moroccans amount to a major threat to our activities
+0,295,Korea,Songhai,Danger,severe,The hazard that the Songhai embody is portrayed as severe by our spies
+0,296,Iroquois,Songhai,Danger,severe,We suspect that the Songhai compose a severe danger to our strategies
+0,297,Inca,Iroquois,Danger,minor,We infer that the Iroquois constitute a minor hazard to our interests
+0,297,Korea,Germany,Danger,minor,We infer that the Germans amount to a minor threat to our plans
+0,297,Songhai,Iroquois,Danger,major,We believe that the Iroquois represent a major hazard to our strategies
+0,298,Korea,Morocco,Danger,severe,We imagine that the Moroccans present a severe risk to our ambitions
+0,299,Inca,Morocco,Danger,critical,The problem that the Moroccans show is represented as critical by the Incas agents
+0,300,Inca,Germany,Danger,critical,We estimate that the Germans have become a critical danger to our strategies
+0,300,Songhai,Germany,Danger,severe,The risk that the Germans embody is described as severe by the Songhais spies
+0,300,Inca,Germany,Danger,critical,The Incas feel that the Germans constitute a critical obstacle to the Incas plans
+0,300,Iroquois,Morocco,Danger,critical,The hazard that the Moroccans show is described as critical by our agents
+0,300,Inca,Korea,Danger,major,The hazard that the Koreans embody is characterized as major by our agents
+0,301,Songhai,Korea,Danger,severe,The risk that the Koreans present is described as severe by the Songhais intelligence officers
+0,301,Korea,Morocco,Danger,severe,We infer that the Moroccans comprise a severe risk to our interests
+0,301,Germany,Inca,Danger,major,The problem that the Incas represent is described as major by our spies
+0,304,Iroquois,Germany,Danger,critical,We estimate that the Germans compose a critical threat to our strategies
+0,305,Inca,Iroquois,Danger,moderate,We infer that the Iroquois compose a moderate risk to our plans
+0,305,Morocco,Korea,Danger,major,The obstacle that the Koreans constitute is represented as major by our spies
+0,307,Songhai,Morocco,Danger,major,The problem that the Moroccans show is portrayed as major by our sources
+0,307,Inca,Korea,Danger,major,The Incas infer that the Koreans amount to a major danger to the Incas plans
+0,307,Morocco,Songhai,Danger,minor,We estimate that the Songhai compose a minor threat to our activities
+0,307,Germany,Korea,Danger,minor,The obstacle that the Koreans constitute is represented as minor by our spies
+0,308,Morocco,Germany,Danger,severe,The problem that the Germans represent is characterized as severe by our diplomatic cables
+0,309,Songhai,Korea,Danger,major,The risk that the Koreans constitute is defined as major by our spies
+0,309,Germany,Inca,Danger,severe,We infer that the Incas are a severe threat to our activities
+0,309,Germany,Songhai,Danger,severe,The Germans estimate that the Songhai present a severe hazard to the Germans ambitions
+0,310,Songhai,Iroquois,Danger,minor,The threat that the Iroquois represent is labeled as minor by our diplomatic cables
+0,312,Korea,Inca,Danger,minor,The risk that the Incas present is represented as minor by our diplomatic cables
+0,312,Korea,Morocco,Danger,severe,We imagine that the Moroccans comprise a severe problem to our ambitions
+0,313,Korea,Inca,Danger,moderate,The danger that the Incas represent is described as moderate by our sources
+0,313,Korea,Morocco,Danger,minor,We suspect that the Moroccans comprise a minor threat to our ambitions
+0,313,Germany,Korea,Danger,minor,The hazard that the Koreans represent is portrayed as minor by our sources
+0,314,Germany,Morocco,Danger,major, We estimate that the Moroccans are a major hazard to our interests
+0,315,Morocco,Germany,Danger,major,We think that the Germans have become a major threat to our plans
+0,316,Germany,Songhai,Danger,critical,The danger that the Songhai represent is characterized as critical by our spies
+0,316,Korea,Germany,Danger,major,The danger that the Germans present is labeled as major by our diplomatic cables
+0,318,Songhai,Inca,Danger,moderate,We suspect that the Incas are a moderate risk to our ambitions
+0,318,Inca,Songhai,Danger,severe,The risk that the Songhai embody is labeled as severe by our spies
+0,318,Inca,Korea,Danger,severe,The problem that the Koreans represent is defined as severe by our agents
+0,319,Songhai,Germany,Danger,severe,The hazard that the Germans represent is represented as severe by our agents
+0,321,Germany,Morocco,Danger,major,The threat that the Moroccans show is portrayed as major by our intelligence officers
+0,323,Songhai,Germany,Danger,severe,The danger that the Germans embody is portrayed as severe by our spies
+0,324,Korea,Morocco,Danger,major,The problem that the Moroccans represent is represented as major by our sources
+0,325,Germany,Inca,Danger,major,The danger that the Incas present is described as major by our diplomatic cables
+0,326,Inca,Songhai,Danger,minor,We believe that the Songhai constitute a minor threat to our interests
+0,328,Germany,Morocco,Danger,minor,We suspect that the Moroccans compose a minor hazard to our pursuits
+0,330,Germany,Korea,Danger,minor,The danger that the Koreans represent is represented as minor by our sources
+0,330,Korea,Songhai,Danger,minor,The hazard that the Songhai embody is labeled as minor by our sources
+0,332,Songhai,Morocco,Danger,major,The obstacle that the Moroccans represent is portrayed as major by our sources
+0,332,Inca,Songhai,Danger,moderate,We imagine that the Songhai comprise a moderate problem to our activities
+0,333,Germany,Songhai,Danger,major,The risk that the Songhai show is defined as major by our agents
+0,333,Germany,Inca,Danger,severe,The threat that the Incas embody is labeled as severe by our sources
+0,333,Korea,Inca,Danger,severe,We imagine that the Incas represent a severe threat to our pursuits
+0,334,Korea,Germany,Danger,major,The risk that the Germans represent is labeled as major by our spies
+0,335,Inca,Songhai,Danger,minor,The obstacle that the Songhai constitute is defined as minor by our spies
+0,335,Inca,Korea,Danger,major,The hazard that the Koreans present is characterized as major by our agents
+0,335,Morocco,Songhai,Danger,moderate,The hazard that the Songhai present is defined as moderate by our spies
+0,336,Morocco,Inca,Danger,major,We think that the Incas compose a major problem to our activities
+0,336,Songhai,Korea,Danger,severe,The threat that the Koreans show is defined as severe by the Songhais agents
+0,337,Korea,Songhai,Danger,moderate,The risk that the Songhai present is described as moderate by our spies
+0,338,Inca,Morocco,Danger,severe,The danger that the Moroccans present is portrayed as severe by our sources
+0,340,Inca,Morocco,Danger,severe,The Incas feel that the Moroccans amount to a severe obstacle to the Incas interests
+0,341,Germany,Songhai,Danger,major,The danger that the Songhai represent is portrayed as major by our diplomatic cables
+0,342,Morocco,Korea,Danger,severe,The obstacle that the Koreans represent is represented as severe by our sources
+0,342,Germany,Morocco,Danger,major, The problem that the Moroccans show is described as major by our intelligence officers
+0,342,Germany,Korea,Danger,major,The threat that the Koreans embody is labeled as major by our spies
+0,343,Korea,Germany,Danger,major,The obstacle that the Germans present is described as major by the Koreans sources
+0,344,Korea,Inca,Danger,severe,The risk that the Incas present is labeled as severe by our spies
+0,344,Korea,Morocco,Danger,major,The obstacle that the Moroccans constitute is defined as major by our intelligence officers
+0,344,Korea,Germany,Danger,major,The obstacle that the Germans show is characterized as major by our intelligence officers
+0,345,Inca,Korea,Danger,minor,The risk that the Koreans present is defined as minor by the Incas spies
+0,346,Inca,Korea,Danger,major,The problem that the Koreans present is represented as major by the Incas spies
+0,348,Korea,Morocco,Danger,minor, The hazard that the Moroccans present is represented as minor by our diplomatic cables
+0,349,Inca,Morocco,Danger,severe,The risk that the Moroccans embody is portrayed as severe by our agents
+0,349,Germany,Morocco,Danger,major,We imagine that the Moroccans compose a major threat to our interests
+0,351,Korea,Songhai,Danger,severe,We infer that the Songhai comprise a severe danger to our pursuits
+0,352,Morocco,Korea,Danger,severe,We feel that the Koreans comprise a severe risk to our interests
+0,353,Germany,Morocco,Danger,major,The problem that the Moroccans constitute is described as major by the Germans intelligence officers
+0,354,Korea,Inca,Danger,severe,The risk that the Incas embody is characterized as severe by our diplomatic cables
+0,356,Germany,Morocco,Danger,major,We infer that the Moroccans present a major risk to our activities
+0,357,Germany,Inca,Danger,severe,The hazard that the Incas represent is labeled as severe by our sources
+0,358,Morocco,Inca,Danger,severe,We suspect that the Incas are a severe problem to our activities
+0,358,Germany,Songhai,Danger,critical,The hazard that the Songhai represent is represented as critical by our intelligence officers
+0,359,Korea,Morocco,Danger,major,The obstacle that the Moroccans constitute is characterized as major by our spies
+0,360,Inca,Songhai,Danger,major,The problem that the Songhai constitute is defined as major by our agents
+0,360,Inca,Korea,Danger,minor,The danger that the Koreans present is described as minor by our intelligence officers
+0,361,Morocco,Korea,Danger,minor,We estimate that the Koreans comprise a minor problem to our ambitions
+0,362,Morocco,Songhai,Danger,major,We feel that the Songhai amount to a major risk to our activities
+0,363,Germany,Morocco,Danger,major,The problem that the Moroccans represent is labeled as major by our intelligence officers
+0,365,Germany,Korea,Danger,minor,The Germans estimate that the Koreans amount to a minor obstacle to the Germans pursuits
+0,365,Songhai,Korea,Danger,moderate,The risk that the Koreans embody is portrayed as moderate by our agents
+0,365,Germany,Korea,Danger,minor,The danger that the Koreans show is described as minor by our intelligence officers
+0,366,Germany,Songhai,Danger,critical,The danger that the Songhai present is characterized as critical by our spies
+0,366,Korea,Inca,Danger,critical,The hazard that the Incas show is labeled as critical by our diplomatic cables
+0,369,Germany,Korea,Danger,major,The hazard that the Koreans show is portrayed as major by the Germans diplomatic cables
+0,370,Morocco,Korea,Danger,major,The risk that the Koreans present is represented as major by our agents
+0,370,Germany,Morocco,Danger,severe,The hazard that the Moroccans constitute is represented as severe by our spies
+0,370,Korea,Morocco,Danger,critical,The hazard that the Moroccans present is characterized as critical by our spies
+0,371,Inca,Morocco,Danger,severe,We suspect that the Moroccans amount to a severe obstacle to our ambitions
+0,371,Inca,Germany,Danger,major,The threat that the Germans present is represented as major by our diplomatic cables
+0,371,Morocco,Germany,Danger,major,We estimate that the Germans compose a major threat to our strategies
+0,372,Korea,Germany,Danger,severe,We believe that the Germans represent a severe problem to our ambitions
+0,373,Songhai,Morocco,Danger,major,We suspect that the Moroccans compose a major threat to our activities
+0,374,Songhai,Inca,Danger,critical,We believe that the Incas compose a critical hazard to our strategies
+0,374,Germany,Songhai,Danger,critical,We feel that the Songhai amount to a critical problem to our interests
+0,375,Korea,Inca,Danger,critical,We suspect that the Incas present a critical obstacle to our strategies
+0,376,Inca,Songhai,Danger,major,We believe that the Songhai present a major danger to our ambitions
+0,377,Inca,Korea,Danger,major,We imagine that the Koreans amount to a major risk to our plans
+0,377,Germany,Morocco,Danger,severe,The obstacle that the Moroccans represent is defined as severe by our sources
+0,378,Korea,Morocco,Danger,severe,The obstacle that the Moroccans show is defined as severe by our sources
+0,381,Morocco,Songhai,Danger,moderate,The hazard that the Songhai constitute is characterized as moderate by our spies
+0,382,Songhai,Morocco,Danger,major,We believe that the Moroccans have become a major obstacle to our plans
+0,382,Inca,Morocco,Danger,major,The hazard that the Moroccans embody is defined as major by our sources
+0,382,Korea,Morocco,Danger,major,The threat that the Moroccans represent is described as major by our spies
+0,382,Songhai,Morocco,Danger,major,The obstacle that the Moroccans embody is represented as major by the Songhais agents
+0,383,Songhai,Inca,Danger,major,The problem that the Incas show is portrayed as major by our spies
+0,384,Germany,Morocco,Danger,major,The risk that the Moroccans constitute is represented as major by our intelligence officers
+0,385,Morocco,Germany,Danger,major,We infer that the Germans represent a major threat to our ambitions
+0,385,Korea,Inca,Danger,critical,We infer that the Incas compose a critical problem to our plans
+0,386,Korea,Songhai,Danger,severe,The problem that the Songhai show is labeled as severe by our agents
+0,388,Morocco,Korea,Danger,major,The Moroccans suspect that the Koreans compose a major obstacle to the Moroccans strategies
+0,388,Germany,Korea,Danger,minor,The threat that the Koreans constitute is labeled as minor by our intelligence officers
+0,390,Songhai,Morocco,Danger,major,We feel that the Moroccans present a major problem to our plans
+0,390,Morocco,Songhai,Danger,moderate,The problem that the Songhai constitute is defined as moderate by our intelligence officers
+0,390,Germany,Songhai,Danger,severe,We estimate that the Songhai comprise a severe hazard to our ambitions
+0,390,Korea,Germany,Danger,major,We imagine that the Germans are a major hazard to our strategies
+0,392,Germany,Songhai,Danger,severe,The obstacle that the Songhai present is defined as severe by the Germans spies
+0,392,Inca,Songhai,Danger,major,We infer that the Songhai comprise a major threat to our pursuits
+0,392,Inca,Germany,Danger,major,We infer that the Germans compose a major threat to our activities
+0,392,Songhai,Korea,Danger,minor,The problem that the Koreans present is characterized as minor by the Songhais spies
+0,392,Morocco,Germany,Danger,major,We think that the Germans constitute a major obstacle to our pursuits
+0,394,Inca,Korea,Danger,major,The threat that the Koreans show is portrayed as major by our diplomatic cables
+0,398,Germany,Songhai,Danger,severe,The risk that the Songhai embody is characterized as severe by our intelligence officers
+0,398,Germany,Inca,Danger,critical,We infer that the Incas constitute a critical threat to our ambitions
+0,399,Germany,Korea,Danger,minor,We imagine that the Koreans have become a minor obstacle to our pursuits
+0,400,Korea,Songhai,Danger,severe,The problem that the Songhai show is described as severe by our spies
+0,401,Songhai,Inca,Danger,severe,The danger that the Incas present is labeled as severe by our diplomatic cables
+0,401,Songhai,Germany,Danger,severe,We think that the Germans present a severe risk to our strategies
+0,402,Inca,Korea,Danger,minor,The risk that the Koreans show is characterized as minor by our spies
+0,406,Inca,Korea,Danger,minor,The Incas infer that the Koreans represent a minor hazard to the Incas strategies
+0,406,Morocco,Germany,Danger,severe,The problem that the Germans constitute is described as severe by our spies
+0,406,Korea,Inca,Danger,critical,We suspect that the Incas comprise a critical obstacle to our strategies
+0,407,Songhai,Korea,Danger,minor,We think that the Koreans constitute a minor danger to our ambitions
+0,407,Songhai,Korea,Danger,minor,The problem that the Koreans show is represented as minor by the Songhais intelligence officers
+0,408,Morocco,Korea,Danger,minor,We feel that the Koreans represent a minor problem to our plans
+0,409,Morocco,Songhai,Danger,major,The problem that the Songhai embody is described as major by our sources
+0,410,Songhai,Inca,Danger,severe,We think that the Incas are a severe hazard to our ambitions
+0,410,Inca,Korea,Danger,minor,The obstacle that the Koreans present is described as minor by our agents
+0,410,Germany,Korea,Danger,major,The danger that the Koreans show is labeled as major by our diplomatic cables
+0,412,Germany,Inca,Danger,critical,We imagine that the Incas constitute a critical threat to our plans
+0,413,Inca,Germany,Danger,severe,The risk that the Germans show is labeled as severe by our sources
+0,414,Morocco,Songhai,Danger,major,The Moroccans believe that the Songhai constitute a major hazard to the Moroccans strategies
+0,414,Korea,Songhai,Danger,critical,We estimate that the Songhai present a critical obstacle to our plans
+0,415,Korea,Morocco,Danger,severe,The risk that the Moroccans present is portrayed as severe by our sources
+0,415,Korea,Inca,Danger,major,The risk that the Incas present is described as major by our diplomatic cables
+0,416,Germany,Inca,Danger,severe,We estimate that the Incas are a severe danger to our activities
+0,417,Korea,Inca,Danger,severe,We imagine that the Incas represent a severe threat to our interests
+0,417,Korea,Germany,Danger,minor,The danger that the Germans present is portrayed as minor by our intelligence officers
+0,419,Songhai,Inca,Danger,severe,The hazard that the Incas constitute is portrayed as severe by our agents
+0,419,Songhai,Germany,Danger,minor,The danger that the Germans show is described as minor by our spies
+0,420,Germany,Morocco,Danger,major,We think that the Moroccans are a major risk to our plans
+0,420,Inca,Songhai,Danger,severe,The danger that the Songhai constitute is defined as severe by the Incas agents
+0,422,Germany,Songhai,Danger,critical,The risk that the Songhai represent is labeled as critical by our diplomatic cables
+0,423,Songhai,Morocco,Danger,severe,The hazard that the Moroccans constitute is labeled as severe by our agents
+0,423,Morocco,Korea,Danger,severe,The Moroccans estimate that the Koreans constitute a severe hazard to the Moroccans ambitions
+0,423,Inca,Germany,Danger,major,The hazard that the Germans embody is defined as major by our intelligence officers
+0,424,Inca,Songhai,Danger,severe,We believe that the Songhai represent a severe risk to our strategies
+0,426,Inca,Morocco,Danger,critical,The danger that the Moroccans represent is defined as critical by our agents
+0,426,Morocco,Korea,Danger,severe,The danger that the Koreans constitute is labeled as severe by our sources
+0,426,Korea,Morocco,Danger,severe,We think that the Moroccans represent a severe obstacle to our interests
+0,426,Korea,Germany,Danger,minor,The obstacle that the Germans embody is labeled as minor by our spies
+0,427,Morocco,Songhai,Danger,major,The problem that the Songhai show is portrayed as major by our intelligence officers
+0,428,Songhai,Inca,Danger,severe,We believe that the Incas compose a severe obstacle to our ambitions
+0,428,Songhai,Germany,Danger,major,The risk that the Germans present is represented as major by our agents
+0,428,Morocco,Germany,Danger,major,The danger that the Germans constitute is represented as major by our sources
+0,430,Germany,Morocco,Danger,critical,The risk that the Moroccans show is represented as critical by our spies
+0,432,Germany,Inca,Danger,major,We think that the Incas constitute a major threat to our activities
+0,432,Korea,Morocco,Danger,major,The danger that the Moroccans embody is labeled as major by our spies
+0,433,Inca,Korea,Danger,major,The problem that the Koreans present is represented as major by our agents
+0,433,Morocco,Korea,Danger,minor,We think that the Koreans comprise a minor hazard to our pursuits
+0,433,Korea,Inca,Danger,major,We feel that the Incas comprise a major risk to our interests
+0,434,Inca,Germany,Danger,severe,The hazard that the Germans show is labeled as severe by our agents
+0,435,Songhai,Korea,Danger,minor,We believe that the Koreans are a minor risk to our activities
+0,436,Inca,Korea,Danger,severe,We believe that the Koreans have become a severe danger to our strategies
+0,436,Morocco,Songhai,Danger,major,The threat that the Songhai present is represented as major by our sources
+0,436,Korea,Songhai,Danger,severe,The Koreans suspect that the Songhai comprise a severe risk to the Koreans interests
+0,437,Inca,Morocco,Danger,critical,We imagine that the Moroccans compose a critical obstacle to our strategies
+0,439,Songhai,Morocco,Danger,severe,The problem that the Moroccans represent is portrayed as severe by our sources
+0,441,Germany,Inca,Danger,critical,We suspect that the Incas amount to a critical danger to our plans
+0,443,Germany,Korea,Danger,minor,The danger that the Koreans embody is described as minor by our sources
+0,443,Songhai,Inca,Danger,severe,The Songhai infer that the Incas amount to a severe risk to the Songhais interests
+0,444,Inca,Germany,Danger,severe,The obstacle that the Germans embody is characterized as severe by our agents
+0,444,Inca,Korea,Danger,major,We infer that the Koreans present a major danger to our plans
+0,444,Germany,Korea,Danger,minor,We infer that the Koreans present a minor hazard to our interests
+0,445,Morocco,Korea,Danger,minor,We infer that the Koreans amount to a minor danger to our plans
+0,445,Inca,Germany,Danger,major,We think that the Germans present a major obstacle to our interests
+0,446,Songhai,Germany,Danger,major,The hazard that the Germans show is portrayed as major by our sources
+0,446,Morocco,Inca,Danger,minor,We suspect that the Incas constitute a minor danger to our pursuits
+0,448,Inca,Morocco,Danger,critical,The danger that the Moroccans show is characterized as critical by our spies
+0,448,Korea,Inca,Danger,severe,We estimate that the Incas comprise a severe threat to our interests
+0,449,Korea,Songhai,Danger,critical,The problem that the Songhai present is labeled as critical by our diplomatic cables
+0,449,Korea,Morocco,Danger,severe,The risk that the Moroccans embody is characterized as severe by our intelligence officers
+0,450,Morocco,Germany,Danger,minor,We think that the Germans represent a minor danger to our strategies
+0,450,Korea,Inca,Danger,severe,The Koreans estimate that the Incas constitute a severe problem to the Koreans strategies
+0,454,Morocco,Korea,Danger,minor,We believe that the Koreans amount to a minor threat to our interests
+0,454,Germany,Songhai,Danger,critical,We believe that the Songhai are a critical problem to our plans
+0,454,Korea,Germany,Danger,severe,The danger that the Germans show is labeled as severe by our spies
+0,454,Morocco,Germany,Danger,minor,The Moroccans think that the Germans compose a minor danger to the Moroccans strategies
+0,455,Inca,Germany,Danger,severe,We infer that the Germans constitute a severe obstacle to our activities
+0,455,Songhai,Morocco,Danger,severe,The Songhai feel that the Moroccans represent a severe hazard to the Songhais ambitions
+0,456,Songhai,Korea,Danger,moderate,We estimate that the Koreans present a moderate risk to our pursuits
+0,456,Germany,Morocco,Danger,critical,The obstacle that the Moroccans represent is defined as critical by our sources
+0,457,Morocco,Inca,Danger,minor,We believe that the Incas represent a minor danger to our strategies
+0,458,Germany,Inca,Danger,severe,The risk that the Incas represent is described as severe by our spies
+0,458,Korea,Inca,Danger,major,The problem that the Incas constitute is labeled as major by our diplomatic cables
+0,460,Korea,Morocco,Danger,major,The obstacle that the Moroccans represent is portrayed as major by our diplomatic cables
+0,462,Germany,Songhai,Danger,critical,We suspect that the Songhai amount to a critical hazard to our pursuits
+0,462,Morocco,Korea,Danger,minor,The hazard that the Koreans present is defined as minor by our intelligence officers
+0,462,Korea,Morocco,Danger,critical,The threat that the Moroccans embody is portrayed as critical by our agents
+0,463,Germany,Morocco,Danger,critical,The problem that the Moroccans constitute is labeled as critical by our sources
+0,463,Korea,Songhai,Danger,critical,We suspect that the Songhai amount to a critical obstacle to our pursuits
+0,463,Korea,Germany,Danger,major,The danger that the Germans show is described as major by our diplomatic cables
+0,464,Morocco,Germany,Danger,minor,The threat that the Germans constitute is defined as minor by our intelligence officers
+0,464,Morocco,Korea,Danger,major,We feel that the Koreans comprise a major problem to our ambitions
+0,464,Inca,Korea,Danger,major,The danger that the Koreans embody is represented as major by our spies
+0,466,Inca,Germany,Danger,severe,The risk that the Germans present is labeled as severe by our spies
+0,466,Germany,Korea,Danger,severe,We think that the Koreans constitute a severe threat to our pursuits
+0,468,Morocco,Inca,Danger,severe,We think that the Incas present a severe problem to our plans
+0,469,Korea,Inca,Danger,critical,We infer that the Incas present a critical obstacle to our plans
+0,470,Songhai,Korea,Danger,severe,We infer that the Koreans amount to a severe problem to our activities
+0,470,Inca,Morocco,Danger,critical,We infer that the Moroccans represent a critical problem to our pursuits
+0,470,Germany,Songhai,Danger,critical,The threat that the Songhai present is characterized as critical by our spies
+0,470,Inca,Korea,Danger,critical,The threat that the Koreans show is defined as critical by the Incas intelligence officers
+0,470,Germany,Morocco,Danger,critical,The threat that the Moroccans present is labeled as critical by our sources
+0,470,Korea,Songhai,Danger,critical,We imagine that the Songhai comprise a critical danger to our strategies
+0,471,Morocco,Germany,Danger,major,We feel that the Germans have become a major obstacle to our interests
+0,472,Morocco,Songhai,Danger,major,The threat that the Songhai represent is portrayed as major by our sources
+0,472,Korea,Morocco,Danger,critical,We infer that the Moroccans present a critical risk to our ambitions
+0,472,Germany,Songhai,Danger,critical,The hazard that the Songhai represent is represented as critical by our sources
+0,473,Songhai,Inca,Danger,critical,The threat that the Incas embody is characterized as critical by our sources
+0,477,Songhai,Korea,Danger,severe,The danger that the Koreans show is labeled as severe by our sources
+0,477,Inca,Korea,Danger,severe,The threat that the Koreans constitute is described as severe by our intelligence officers
+0,479,Germany,Songhai,Danger,severe,We estimate that the Songhai represent a severe danger to our plans
+0,479,Korea,Inca,Danger,critical,We suspect that the Incas amount to a critical obstacle to our activities
+0,480,Inca,Songhai,Danger,major,The obstacle that the Songhai represent is defined as major by our spies
+0,481,Inca,Morocco,Danger,critical,We estimate that the Moroccans amount to a critical problem to our pursuits
+0,481,Germany,Korea,Danger,severe,The risk that the Koreans constitute is described as severe by the Germans agents
+0,481,Morocco,Songhai,Danger,major,We feel that the Songhai present a major threat to our activities
+0,482,Songhai,Inca,Danger,critical,The Songhai suspect that the Incas present a critical risk to the Songhais strategies
+0,483,Korea,Morocco,Danger,critical,The problem that the Moroccans represent is portrayed as critical by our agents
+0,483,Inca,Germany,Danger,major,The problem that the Germans show is labeled as major by our intelligence officers
+0,483,Germany,Inca,Danger,severe,The danger that the Incas represent is characterized as severe by our sources
+0,487,Songhai,Morocco,Danger,critical,We estimate that the Moroccans represent a critical danger to our ambitions
+0,487,Inca,Germany,Danger,major,The hazard that the Germans represent is defined as major by our intelligence officers
+0,487,Germany,Songhai,Danger,critical,The risk that the Songhai embody is represented as critical by our sources
+0,488,Inca,Songhai,Danger,major,We suspect that the Songhai compose a major hazard to our ambitions
+0,490,Morocco,Songhai,Danger,major,The threat that the Songhai present is portrayed as major by our agents
+0,491,Germany,Inca,Danger,critical,We think that the Incas represent a critical hazard to our activities
+0,491,Inca,Morocco,Danger,critical,The Incas estimate that the Moroccans represent a critical risk to the Incas interests
+0,491,Germany,Morocco,Danger,critical,We estimate that the Moroccans compose a critical problem to our activities
+0,491,Korea,Songhai,Danger,severe,The problem that the Songhai present is labeled as severe by our agents
+0,492,Songhai,Germany,Danger,minor,We imagine that the Germans are a minor threat to our ambitions
+0,492,Inca,Morocco,Danger,critical,We feel that the Moroccans represent a critical problem to our pursuits
+0,493,Inca,Korea,Danger,critical,The problem that the Koreans represent is described as critical by our diplomatic cables
+0,494,Korea,Morocco,Danger,critical,The risk that the Moroccans present is characterized as critical by our spies
+0,498,Korea,Songhai,Danger,severe,We infer that the Songhai comprise a severe problem to our plans
+0,499,Morocco,Germany,Danger,minor,The problem that the Germans constitute is labeled as minor by our spies

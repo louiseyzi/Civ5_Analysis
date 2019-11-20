@@ -1,0 +1,454 @@
+,Turn,Civ1,Civ2,Relation,Value,Cable
+0,7,Songhai,Iroquois,Confidence,Completely sure,Our diplomatic cables are thoroughly confident in this estimate
+0,7,Iroquois,Songhai,Confidence,Unsure,This hypothesis comes from a not at all sure source
+0,10,Morocco,Songhai,Confidence,Somewhat sure,This assessment comes from a somewhat sure source
+0,10,Germany,Songhai,Confidence,Somewhat sure,Our intelligence officers are somewhat certain in this estimate
+0,12,Songhai,Germany,Confidence,Unsure,Our agents are not at all convinced in this hypothesis
+0,16,Germany,Iroquois,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,17,Morocco,Germany,Confidence,Unsure,Our intelligence officers are not at all certain in this assessment
+0,18,Korea,Germany,Confidence,Very sure,Our intelligence officers are quite sure in this hypothesis
+0,18,Iroquois,Korea,Confidence,Completely sure,This estimate comes from a thoroughly certain source
+0,19,Inca,Germany,Confidence,Very sure,Our agents are very convinced in this report
+0,19,Morocco,Songhai,Confidence,Unsure,Our agents are not at all convinced in this hypothesis
+0,19,Korea,Songhai,Confidence,Unsure,Our agents are not at all certain in this hypothesis
+0,26,Iroquois,Korea,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,27,Songhai,Morocco,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,28,Korea,Iroquois,Confidence,Unsure,This report comes from a not very sure source
+0,29,Inca,Germany,Confidence,Completely sure,Our spies are not very confident in this estimate
+0,30,Songhai,Germany,Confidence,Unsure,Our sources are not very convinced in this hypothesis
+0,30,Germany,Morocco,Confidence,Unsure,This assessment comes from a not at all certain source
+0,32,Songhai,Morocco,Confidence,Unsure,The Songhais intelligence officers are not very sure in this assessment
+0,33,Morocco,Korea,Confidence,Unsure,The Moroccans spies are not at all certain in this assessment
+0,35,Songhai,Morocco,Confidence,Unsure,This assessment comes from a not very certain source
+0,35,Germany,Inca,Confidence,Completely sure,This assessment comes from a not very confident source
+0,36,Korea,Germany,Confidence,Very sure,Our intelligence officers are very certain in this assessment
+0,37,Germany,Morocco,Confidence,Somewhat sure,Our sources are somewhat convinced in this report
+0,39,Iroquois,Morocco,Confidence,Unsure,This report comes from a not very convinced source
+0,41,Morocco,Korea,Confidence,Unsure,Our agents are not at all convinced in this assessment
+0,43,Germany,Inca,Confidence,Completely sure,This hypothesis comes from a thoroughly convinced source
+0,45,Morocco,Germany,Confidence,Somewhat sure,This estimate comes from a somewhat convinced source
+0,45,Korea,Germany,Confidence,Completely sure,This estimate comes from a somewhat confident source
+0,46,Iroquois,Morocco,Confidence,Somewhat sure,Our diplomatic cables are somewhat sure in this hypothesis
+0,47,Korea,Songhai,Confidence,Somewhat sure,Our sources are somewhat certain in this assessment
+0,49,Songhai,Iroquois,Confidence,Completely sure,Our intelligence officers are not at all confident in this estimate
+0,49,Germany,Iroquois,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,49,Korea,Inca,Confidence,Unsure,Our intelligence officers are not very sure in this hypothesis
+0,50,Morocco,Korea,Confidence,Unsure,Our diplomatic cables are not at all sure in this report
+0,51,Germany,Morocco,Confidence,Unsure,This hypothesis comes from a not at all certain source
+0,51,Iroquois,Inca,Confidence,Unsure,This estimate comes from a not very convinced source
+0,52,Morocco,Iroquois,Confidence,Unsure,This hypothesis comes from a not at all certain source
+0,54,Songhai,Korea,Confidence,Somewhat sure,This estimate comes from a somewhat sure source
+0,55,Iroquois,Germany,Confidence,Completely sure,Our agents are not at all confident in this assessment
+0,56,Songhai,Iroquois,Confidence,Unsure,This hypothesis comes from a not at all sure source
+0,58,Germany,Morocco,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,58,Iroquois,Korea,Confidence,Completely sure,This assessment comes from a not very confident source
+0,59,Songhai,Morocco,Confidence,Completely sure,Our sources are not very confident in this estimate
+0,59,Germany,Inca,Confidence,Completely sure,This assessment comes from a quite confident source
+0,59,Korea,Inca,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,62,Iroquois,Inca,Confidence,Unsure,Our spies are not very certain in this assessment
+0,63,Iroquois,Germany,Confidence,Unsure,This assessment comes from a not at all certain source
+0,64,Songhai,Iroquois,Confidence,Unsure,The Songhais sources are not at all sure in this assessment
+0,65,Germany,Morocco,Confidence,Unsure,This estimate comes from a not very sure source
+0,65,Korea,Morocco,Confidence,Unsure,The Koreans agents are not at all certain in this report
+0,66,Inca,Korea,Confidence,Somewhat sure,This estimate comes from a somewhat certain source
+0,66,Korea,Morocco,Confidence,Unsure,This assessment comes from a not very sure source
+0,66,Korea,Morocco,Confidence,Completely sure,This estimate comes from a somewhat confident source
+0,67,Songhai,Morocco,Confidence,Unsure,This report comes from a not very certain source
+0,67,Iroquois,Morocco,Confidence,Unsure,Our agents are not very certain in this estimate
+0,68,Morocco,Iroquois,Confidence,Unsure,Our agents are not at all certain in this report
+0,70,Inca,Songhai,Confidence,Unsure,This assessment comes from a not at all sure source
+0,72,Germany,Morocco,Confidence,Somewhat sure,Our agents are somewhat convinced in this report
+0,72,Korea,Germany,Confidence,Unsure,Our sources are not at all sure in this assessment
+0,73,Korea,Iroquois,Confidence,Completely sure,Our agents are not at all confident in this assessment
+0,74,Inca,Songhai,Confidence,Unsure,The Incas spies are not at all certain in this estimate
+0,75,Songhai,Morocco,Confidence,Somewhat sure,This hypothesis comes from a somewhat certain source
+0,75,Songhai,Germany,Confidence,Somewhat sure,This report comes from a somewhat convinced source
+0,76,Germany,Korea,Confidence,Somewhat sure,This report comes from a somewhat convinced source
+0,77,Songhai,Iroquois,Confidence,Completely sure,Our sources are not at all confident in this report
+0,77,Korea,Morocco,Confidence,Somewhat sure,This hypothesis comes from a somewhat sure source
+0,79,Korea,Inca,Confidence,Completely sure,Our spies are not very confident in this hypothesis
+0,82,Morocco,Inca,Confidence,Unsure,This report comes from a not very sure source
+0,83,Songhai,Morocco,Confidence,Somewhat sure,This estimate comes from a somewhat certain source
+0,84,Morocco,Inca,Confidence,Unsure,The Moroccans agents are not very convinced in this assessment
+0,86,Germany,Songhai,Confidence,Somewhat sure,The Germans agents are somewhat convinced in this estimate
+0,86,Morocco,Korea,Confidence,Somewhat sure,Our diplomatic cables are somewhat sure in this assessment
+0,87,Morocco,Germany,Confidence,Somewhat sure,Our sources are somewhat sure in this assessment
+0,87,Germany,Korea,Confidence,Somewhat sure,This estimate comes from a somewhat convinced source
+0,87,Songhai,Germany,Confidence,Unsure,The Songhais intelligence officers are not very convinced in this assessment
+0,89,Korea,Songhai,Confidence,Completely sure,Our agents are not at all confident in this hypothesis
+0,89,Korea,Inca,Confidence,Unsure,This report comes from a not very sure source
+0,91,Songhai,Iroquois,Confidence,Unsure,This report comes from a not at all sure source
+0,91,Morocco,Songhai,Confidence,Unsure,This estimate comes from a not at all certain source
+0,91,Korea,Iroquois,Confidence,Completely sure,Our sources are not at all confident in this assessment
+0,93,Songhai,Germany,Confidence,Somewhat sure,Our intelligence officers are somewhat sure in this hypothesis
+0,96,Korea,Songhai,Confidence,Unsure,Our spies are not at all sure in this estimate
+0,98,Inca,Korea,Confidence,Unsure,This assessment comes from a not at all convinced source
+0,99,Songhai,Morocco,Confidence,Unsure,This estimate comes from a not at all certain source
+0,100,Korea,Iroquois,Confidence,Unsure,This assessment comes from a not at all sure source
+0,102,Songhai,Inca,Confidence,Unsure,This assessment comes from a not very certain source
+0,102,Songhai,Germany,Confidence,Unsure,Our intelligence officers are not at all certain in this hypothesis
+0,102,Songhai,Germany,Confidence,Unsure,This assessment comes from a not at all convinced source
+0,102,Morocco,Songhai,Confidence,Somewhat sure,The Moroccans agents are somewhat convinced in this report
+0,102,Inca,Songhai,Confidence,Unsure,Our diplomatic cables are not at all convinced in this hypothesis
+0,103,Korea,Songhai,Confidence,Unsure,This assessment comes from a not at all convinced source
+0,103,Iroquois,Germany,Confidence,Unsure,This estimate comes from a not at all sure source
+0,104,Morocco,Korea,Confidence,Somewhat sure,Our intelligence officers are somewhat convinced in this report
+0,104,Korea,Iroquois,Confidence,Somewhat sure,This report comes from a somewhat convinced source
+0,105,Songhai,Iroquois,Confidence,Somewhat sure,This report comes from a somewhat sure source
+0,107,Germany,Inca,Confidence,Unsure,This report comes from a not very certain source
+0,107,Iroquois,Songhai,Confidence,Unsure,Our spies are not at all certain in this assessment
+0,108,Morocco,Germany,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,108,Morocco,Iroquois,Confidence,Unsure,This report comes from a not at all certain source
+0,108,Korea,Germany,Confidence,Unsure,Our diplomatic cables are not at all certain in this estimate
+0,109,Inca,Germany,Confidence,Unsure,This assessment comes from a not at all sure source
+0,109,Iroquois,Germany,Confidence,Unsure,The Iroquois spies are not at all sure in this estimate
+0,109,Korea,Inca,Confidence,Completely sure,Our sources are not very confident in this report
+0,109,Iroquois,Morocco,Confidence,Somewhat sure,This hypothesis comes from a somewhat certain source
+0,109,Iroquois,Morocco,Confidence,Unsure,Our intelligence officers are not at all certain in this estimate
+0,110,Korea,Songhai,Confidence,Unsure,This hypothesis comes from a not at all sure source
+0,111,Iroquois,Germany,Confidence,Completely sure,This assessment comes from a not at all confident source
+0,112,Germany,Iroquois,Confidence,Completely sure,The Germans spies are not very confident in this report
+0,113,Morocco,Korea,Confidence,Somewhat sure,Our agents are somewhat certain in this hypothesis
+0,114,Germany,Songhai,Confidence,Unsure,Our agents are not at all sure in this report
+0,115,Songhai,Morocco,Confidence,Somewhat sure,This report comes from a somewhat sure source
+0,115,Germany,Inca,Confidence,Unsure,Our diplomatic cables are not very certain in this assessment
+0,116,Inca,Morocco,Confidence,Completely sure,This estimate comes from a somewhat confident source
+0,117,Korea,Germany,Confidence,Unsure,Our diplomatic cables are not at all convinced in this report
+0,117,Iroquois,Songhai,Confidence,Unsure,This hypothesis comes from a not at all certain source
+0,117,Iroquois,Inca,Confidence,Unsure,Our spies are not very sure in this assessment
+0,118,Morocco,Songhai,Confidence,Unsure,The Moroccans spies are not at all convinced in this report
+0,119,Songhai,Iroquois,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,119,Inca,Germany,Confidence,Unsure,Our intelligence officers are not at all certain in this hypothesis
+0,119,Korea,Inca,Confidence,Unsure,Our spies are not very sure in this assessment
+0,122,Germany,Songhai,Confidence,Unsure,This hypothesis comes from a not at all certain source
+0,123,Iroquois,Morocco,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,124,Morocco,Iroquois,Confidence,Unsure,Our sources are not at all certain in this hypothesis
+0,124,Germany,Songhai,Confidence,Completely sure,The Germans intelligence officers are not at all confident in this hypothesis
+0,126,Songhai,Iroquois,Confidence,Completely sure,This hypothesis comes from a not at all confident source
+0,126,Inca,Songhai,Confidence,Unsure,Our sources are not at all convinced in this hypothesis
+0,126,Morocco,Inca,Confidence,Unsure,This estimate comes from a not very sure source
+0,126,Germany,Iroquois,Confidence,Completely sure,Our diplomatic cables are not at all confident in this assessment
+0,126,Korea,Germany,Confidence,Unsure,This assessment comes from a not at all certain source
+0,127,Iroquois,Germany,Confidence,Unsure,This hypothesis comes from a not at all convinced source
+0,128,Germany,Morocco,Confidence,Unsure,This estimate comes from a not at all certain source
+0,128,Iroquois,Inca,Confidence,Completely sure,Our diplomatic cables are not very confident in this assessment
+0,129,Songhai,Inca,Confidence,Unsure,This estimate comes from a not very sure source
+0,129,Songhai,Germany,Confidence,Unsure,Our sources are not at all sure in this report
+0,129,Korea,Inca,Confidence,Completely sure,This hypothesis comes from a not very confident source
+0,129,Korea,Iroquois,Confidence,Completely sure,This assessment comes from a somewhat confident source
+0,129,Morocco,Inca,Confidence,Unsure,This assessment comes from a not very sure source
+0,130,Iroquois,Morocco,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,131,Songhai,Morocco,Confidence,Unsure,Our spies are not at all certain in this report
+0,131,Morocco,Korea,Confidence,Unsure,The Moroccans intelligence officers are not very certain in this report
+0,131,Morocco,Korea,Confidence,Completely sure,This report comes from a somewhat confident source
+0,131,Germany,Inca,Confidence,Unsure,Our diplomatic cables are not very certain in this assessment
+0,131,Iroquois,Korea,Confidence,Unsure,The Iroquois sources are not at all sure in this report
+0,136,Morocco,Germany,Confidence,Unsure,Our intelligence officers are not at all sure in this hypothesis
+0,137,Germany,Songhai,Confidence,Unsure,The Germans sources are not very sure in this report
+0,137,Iroquois,Songhai,Confidence,Unsure,Our spies are not at all sure in this hypothesis
+0,137,Iroquois,Morocco,Confidence,Unsure,This estimate comes from a not at all certain source
+0,138,Songhai,Inca,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,138,Songhai,Korea,Confidence,Somewhat sure,Our diplomatic cables are somewhat convinced in this assessment
+0,139,Songhai,Morocco,Confidence,Completely sure,This hypothesis comes from a somewhat confident source
+0,139,Iroquois,Inca,Confidence,Very sure,This hypothesis comes from a quite convinced source
+0,145,Inca,Iroquois,Confidence,Completely sure,This hypothesis comes from a somewhat confident source
+0,147,Songhai,Germany,Confidence,Completely sure,Our diplomatic cables are not at all confident in this report
+0,147,Songhai,Iroquois,Confidence,Completely sure,Our intelligence officers are not at all confident in this assessment
+0,147,Iroquois,Inca,Confidence,Somewhat sure,The Iroquois agents are somewhat sure in this estimate
+0,148,Songhai,Korea,Confidence,Unsure,The Songhais diplomatic cables are not very certain in this hypothesis
+0,149,Inca,Germany,Confidence,Unsure,This report comes from a not at all certain source
+0,149,Inca,Germany,Confidence,Unsure,This hypothesis comes from a not at all sure source
+0,149,Morocco,Inca,Confidence,Unsure,This report comes from a not very convinced source
+0,149,Korea,Inca,Confidence,Unsure,This assessment comes from a not at all certain source
+0,149,Korea,Inca,Confidence,Completely sure,Our spies are not very confident in this hypothesis
+0,151,Korea,Germany,Confidence,Somewhat sure,The Koreans intelligence officers are somewhat sure in this estimate
+0,151,Iroquois,Germany,Confidence,Completely sure,Our intelligence officers are not at all confident in this estimate
+0,153,Inca,Iroquois,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,153,Germany,Korea,Confidence,Somewhat sure,This estimate comes from a somewhat sure source
+0,154,Morocco,Songhai,Confidence,Unsure,Our diplomatic cables are not at all certain in this assessment
+0,154,Germany,Songhai,Confidence,Completely sure,This report comes from a not at all confident source
+0,156,Songhai,Germany,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,157,Morocco,Germany,Confidence,Unsure,Our diplomatic cables are not at all convinced in this estimate
+0,158,Morocco,Korea,Confidence,Completely sure,This report comes from a somewhat confident source
+0,158,Morocco,Korea,Confidence,Completely sure,This report comes from a not at all confident source
+0,159,Korea,Songhai,Confidence,Unsure,Our diplomatic cables are not at all certain in this hypothesis
+0,162,Inca,Morocco,Confidence,Somewhat sure,Our sources are somewhat sure in this estimate
+0,162,Germany,Songhai,Confidence,Unsure,Our diplomatic cables are not at all convinced in this hypothesis
+0,163,Songhai,Morocco,Confidence,Completely sure,Our diplomatic cables are somewhat confident in this report
+0,164,Morocco,Germany,Confidence,Unsure,This report comes from a not at all convinced source
+0,164,Morocco,Iroquois,Confidence,Unsure,Our intelligence officers are not at all certain in this assessment
+0,164,Germany,Korea,Confidence,Somewhat sure,Our intelligence officers are somewhat convinced in this hypothesis
+0,165,Songhai,Germany,Confidence,Unsure,Our intelligence officers are not at all sure in this assessment
+0,166,Songhai,Korea,Confidence,Somewhat sure,Our agents are somewhat sure in this report
+0,167,Morocco,Korea,Confidence,Somewhat sure,Our sources are somewhat sure in this estimate
+0,167,Iroquois,Germany,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,170,Inca,Korea,Confidence,Completely sure,This report comes from a somewhat confident source
+0,170,Germany,Songhai,Confidence,Unsure,This hypothesis comes from a not at all sure source
+0,170,Germany,Iroquois,Confidence,Somewhat sure,This assessment comes from a somewhat sure source
+0,171,Korea,Inca,Confidence,Somewhat sure,The Koreans intelligence officers are somewhat certain in this report
+0,171,Morocco,Germany,Confidence,Unsure,This report comes from a not at all convinced source
+0,172,Morocco,Songhai,Confidence,Unsure,This hypothesis comes from a not at all sure source
+0,172,Morocco,Iroquois,Confidence,Unsure,This assessment comes from a not very sure source
+0,173,Songhai,Korea,Confidence,Unsure,This hypothesis comes from a not very convinced source
+0,174,Songhai,Inca,Confidence,Somewhat sure,This estimate comes from a somewhat sure source
+0,174,Songhai,Germany,Confidence,Unsure,Our intelligence officers are not at all certain in this hypothesis
+0,175,Songhai,Iroquois,Confidence,Unsure,Our agents are not at all convinced in this report
+0,177,Germany,Morocco,Confidence,Unsure,Our spies are not very certain in this estimate
+0,177,Iroquois,Songhai,Confidence,Unsure,Our agents are not at all certain in this assessment
+0,179,Songhai,Morocco,Confidence,Unsure,Our sources are not very sure in this assessment
+0,180,Korea,Songhai,Confidence,Unsure,Our intelligence officers are not at all certain in this report
+0,181,Germany,Iroquois,Confidence,Unsure,This report comes from a not at all sure source
+0,183,Iroquois,Inca,Confidence,Somewhat sure,This report comes from a somewhat certain source
+0,186,Germany,Korea,Confidence,Very sure,This hypothesis comes from a much convinced source
+0,189,Iroquois,Songhai,Confidence,Somewhat sure,This hypothesis comes from a somewhat convinced source
+0,190,Songhai,Iroquois,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,191,Germany,Morocco,Confidence,Completely sure,This estimate comes from a not very confident source
+0,191,Iroquois,Morocco,Confidence,Unsure,The Iroquois agents are not very certain in this hypothesis
+0,191,Songhai,Germany,Confidence,Unsure,The Songhais intelligence officers are not at all sure in this report
+0,192,Morocco,Germany,Confidence,Unsure,Our sources are not at all certain in this hypothesis
+0,193,Inca,Iroquois,Confidence,Unsure,Our diplomatic cables are not at all certain in this assessment
+0,193,Morocco,Inca,Confidence,Very sure,Our sources are very convinced in this assessment
+0,194,Germany,Songhai,Confidence,Completely sure,This report comes from a somewhat confident source
+0,194,Korea,Iroquois,Confidence,Unsure,Our intelligence officers are not at all convinced in this hypothesis
+0,194,Iroquois,Morocco,Confidence,Somewhat sure,The Iroquois intelligence officers are somewhat sure in this report
+0,194,Korea,Morocco,Confidence,Somewhat sure,Our agents are somewhat convinced in this assessment
+0,195,Songhai,Morocco,Confidence,Somewhat sure,Our sources are somewhat certain in this estimate
+0,195,Songhai,Korea,Confidence,Very sure,This assessment comes from a much sure source
+0,195,Inca,Morocco,Confidence,Completely sure,This estimate comes from a somewhat confident source
+0,195,Korea,Songhai,Confidence,Completely sure,Our agents are somewhat confident in this assessment
+0,197,Songhai,Korea,Confidence,Somewhat sure,The Songhais diplomatic cables are somewhat certain in this hypothesis
+0,198,Germany,Morocco,Confidence,Completely sure,This report comes from a somewhat confident source
+0,198,Morocco,Germany,Confidence,Unsure,The Moroccans spies are not at all certain in this estimate
+0,199,Morocco,Songhai,Confidence,Completely sure,This hypothesis comes from a not at all confident source
+0,199,Iroquois,Germany,Confidence,Unsure,This hypothesis comes from a not at all sure source
+0,201,Songhai,Germany,Confidence,Unsure,This report comes from a not at all certain source
+0,202,Germany,Songhai,Confidence,Unsure,This assessment comes from a not at all sure source
+0,202,Korea,Songhai,Confidence,Completely sure,This assessment comes from a not at all confident source
+0,203,Germany,Iroquois,Confidence,Unsure,Our intelligence officers are not at all certain in this assessment
+0,206,Inca,Morocco,Confidence,Somewhat sure,Our diplomatic cables are somewhat convinced in this report
+0,207,Korea,Germany,Confidence,Completely sure,Our sources are not at all confident in this estimate
+0,209,Korea,Songhai,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,210,Songhai,Germany,Confidence,Unsure,Our spies are not at all certain in this assessment
+0,213,Morocco,Korea,Confidence,Somewhat sure,This report comes from a somewhat sure source
+0,214,Germany,Korea,Confidence,Unsure,The Germans agents are not at all sure in this report
+0,215,Morocco,Inca,Confidence,Somewhat sure,Our spies are somewhat convinced in this estimate
+0,215,Iroquois,Germany,Confidence,Completely sure,This assessment comes from a not at all confident source
+0,218,Iroquois,Songhai,Confidence,Completely sure,This hypothesis comes from a not at all confident source
+0,219,Germany,Korea,Confidence,Completely sure,Our diplomatic cables are very confident in this assessment
+0,223,Songhai,Korea,Confidence,Unsure,This assessment comes from a not at all sure source
+0,223,Germany,Songhai,Confidence,Somewhat sure,The Germans spies are somewhat certain in this hypothesis
+0,225,Korea,Germany,Confidence,Completely sure,This estimate comes from a thoroughly confident source
+0,227,Songhai,Morocco,Confidence,Completely sure,This estimate comes from a somewhat confident source
+0,228,Iroquois,Morocco,Confidence,Completely sure,This assessment comes from a somewhat confident source
+0,230,Germany,Korea,Confidence,Completely sure,Our spies are acutely confident in this hypothesis
+0,231,Morocco,Korea,Confidence,Somewhat sure,This estimate comes from a somewhat convinced source
+0,234,Morocco,Germany,Confidence,Very sure,This assessment comes from a much certain source
+0,234,Germany,Songhai,Confidence,Unsure,Our sources are not at all certain in this report
+0,235,Iroquois,Morocco,Confidence,Completely sure,This hypothesis comes from a very confident source
+0,236,Germany,Iroquois,Confidence,Unsure,This estimate comes from a not at all sure source
+0,237,Songhai,Germany,Confidence,Very sure,Our intelligence officers are much convinced in this hypothesis
+0,239,Inca,Germany,Confidence,Completely sure,Our agents are quite confident in this hypothesis
+0,239,Korea,Iroquois,Confidence,Unsure,This assessment comes from a not at all sure source
+0,241,Morocco,Germany,Confidence,Very sure,This report comes from a quite convinced source
+0,242,Iroquois,Morocco,Confidence,Completely sure,This assessment comes from a somewhat confident source
+0,243,Iroquois,Inca,Confidence,Unsure,The Iroquois sources are not at all sure in this assessment
+0,243,Korea,Germany,Confidence,Very sure,This report comes from a much certain source
+0,244,Songhai,Korea,Confidence,Completely sure,This estimate comes from a much confident source
+0,244,Morocco,Songhai,Confidence,Completely sure,Our sources are somewhat confident in this estimate
+0,244,Korea,Morocco,Confidence,Somewhat sure,This estimate comes from a somewhat sure source
+0,246,Songhai,Inca,Confidence,Very sure,This estimate comes from a quite convinced source
+0,250,Germany,Songhai,Confidence,Unsure,This hypothesis comes from a not at all certain source
+0,251,Songhai,Korea,Confidence,Unsure,Our intelligence officers are not very certain in this estimate
+0,251,Korea,Songhai,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,251,Korea,Inca,Confidence,Completely sure,Our agents are acutely convinced in this hypothesis
+0,252,Germany,Korea,Confidence,Completely sure,This report comes from a not very confident source
+0,254,Iroquois,Morocco,Confidence,Completely sure,Our agents are not at all confident in this estimate
+0,255,Songhai,Korea,Confidence,Completely sure,Our agents are not very confident in this hypothesis
+0,256,Korea,Germany,Confidence,Completely sure,The Koreans spies are not at all confident in this estimate
+0,257,Korea,Iroquois,Confidence,Unsure,Our intelligence officers are not at all sure in this assessment
+0,258,Morocco,Korea,Confidence,Unsure,Our agents are not very certain in this hypothesis
+0,259,Songhai,Morocco,Confidence,Completely sure,Our diplomatic cables are not at all confident in this hypothesis
+0,259,Songhai,Korea,Confidence,Unsure,This hypothesis comes from a not very certain source
+0,259,Germany,Inca,Confidence,Unsure,This report comes from a not very convinced source
+0,259,Korea,Songhai,Confidence,Completely sure,Our intelligence officers are not at all confident in this report
+0,260,Iroquois,Korea,Confidence,Completely sure,This hypothesis comes from a not very confident source
+0,260,Iroquois,Korea,Confidence,Completely sure,This report comes from a not very confident source
+0,261,Inca,Morocco,Confidence,Somewhat sure,Our spies are somewhat certain in this report
+0,261,Morocco,Iroquois,Confidence,Unsure,Our intelligence officers are not at all convinced in this hypothesis
+0,265,Korea,Iroquois,Confidence,Completely sure,The Koreans sources are quite confident in this estimate
+0,266,Songhai,Korea,Confidence,Completely sure,Our sources are not very confident in this report
+0,266,Korea,Songhai,Confidence,Completely sure,This report comes from a not very confident source
+0,266,Germany,Morocco,Confidence,Unsure,The Germans spies are not at all sure in this assessment
+0,267,Inca,Korea,Confidence,Unsure,This assessment comes from a not very certain source
+0,267,Germany,Songhai,Confidence,Unsure,This report comes from a not at all sure source
+0,269,Morocco,Iroquois,Confidence,Unsure,This report comes from a not at all convinced source
+0,272,Inca,Morocco,Confidence,Somewhat sure,This estimate comes from a somewhat sure source
+0,272,Iroquois,Germany,Confidence,Completely sure,This report comes from an acutely convinced source
+0,273,Songhai,Korea,Confidence,Completely sure,Our spies are not very confident in this estimate
+0,273,Inca,Iroquois,Confidence,Completely sure,Our agents are not at all confident in this assessment
+0,273,Korea,Songhai,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,274,Songhai,Iroquois,Confidence,Completely sure,Our agents are not at all confident in this assessment
+0,276,Morocco,Iroquois,Confidence,Completely sure,This estimate comes from a not at all confident source
+0,276,Korea,Songhai,Confidence,Unsure,This estimate comes from a not at all sure source
+0,276,Iroquois,Morocco,Confidence,Somewhat sure,This report comes from a somewhat sure source
+0,278,Germany,Inca,Confidence,Somewhat sure,This hypothesis comes from a somewhat certain source
+0,278,Iroquois,Inca,Confidence,Completely sure,The Iroquois spies are thoroughly convinced in this hypothesis
+0,278,Korea,Inca,Confidence,Somewhat sure,This assessment comes from a somewhat convinced source
+0,279,Iroquois,Korea,Confidence,Unsure,Our sources are not very certain in this assessment
+0,281,Morocco,Inca,Confidence,Somewhat sure,Our intelligence officers are somewhat certain in this assessment
+0,282,Korea,Inca,Confidence,Very sure,The Koreans agents are very convinced in this hypothesis
+0,283,Songhai,Germany,Confidence,Unsure,This assessment comes from a not at all certain source
+0,283,Songhai,Germany,Confidence,Completely sure,This estimate comes from a thoroughly sure source
+0,285,Germany,Korea,Confidence,Completely sure,This estimate comes from a not very confident source
+0,286,Morocco,Iroquois,Confidence,Unsure,Our intelligence officers are not at all convinced in this estimate
+0,287,Iroquois,Korea,Confidence,Unsure,Our agents are not very sure in this hypothesis
+0,291,Songhai,Morocco,Confidence,Somewhat sure,Our intelligence officers are somewhat sure in this report
+0,292,Inca,Korea,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,292,Germany,Inca,Confidence,Completely sure,This estimate comes from a somewhat confident source
+0,293,Iroquois,Inca,Confidence,Completely sure,This hypothesis comes from a somewhat confident source
+0,295,Korea,Songhai,Confidence,Unsure,Our spies are not at all certain in this report
+0,296,Iroquois,Germany,Confidence,Unsure,This assessment comes from a not very certain source
+0,296,Iroquois,Korea,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,299,Morocco,Germany,Confidence,Unsure,Our intelligence officers are not very certain in this estimate
+0,301,Inca,Korea,Confidence,Completely sure,Our spies are thoroughly sure in this report
+0,301,Morocco,Germany,Confidence,Unsure,Our agents are not very sure in this assessment
+0,301,Morocco,Germany,Confidence,Completely sure,This estimate comes from an acutely sure source
+0,303,Songhai,Iroquois,Confidence,Unsure,This estimate comes from a not at all convinced source
+0,303,Germany,Iroquois,Confidence,Unsure,Our sources are not at all convinced in this assessment
+0,306,Korea,Germany,Confidence,Unsure,This hypothesis comes from a not very convinced source
+0,307,Germany,Morocco,Confidence,Somewhat sure,This estimate comes from a somewhat sure source
+0,308,Germany,Songhai,Confidence,Completely sure,This report comes from a not at all confident source
+0,309,Inca,Korea,Confidence,Very sure,Our sources are very convinced in this estimate
+0,311,Inca,Germany,Confidence,Unsure,This report comes from a not very certain source
+0,312,Korea,Inca,Confidence,Unsure,Our intelligence officers are not very convinced in this estimate
+0,313,Korea,Morocco,Confidence,Somewhat sure,This estimate comes from a somewhat convinced source
+0,313,Inca,Korea,Confidence,Very sure,Our sources are much sure in this hypothesis
+0,315,Morocco,Germany,Confidence,Unsure,Our intelligence officers are not very sure in this estimate
+0,316,Songhai,Korea,Confidence,Very sure,Our spies are very sure in this assessment
+0,316,Inca,Songhai,Confidence,Very sure,The Incas agents are quite sure in this estimate
+0,316,Morocco,Songhai,Confidence,Somewhat sure,This estimate comes from a somewhat certain source
+0,317,Germany,Inca,Confidence,Unsure,This assessment comes from a not at all convinced source
+0,318,Songhai,Inca,Confidence,Unsure,Our diplomatic cables are not very certain in this assessment
+0,321,Germany,Morocco,Confidence,Completely sure,This estimate comes from a not very confident source
+0,323,Germany,Songhai,Confidence,Unsure,Our agents are not at all certain in this estimate
+0,325,Germany,Songhai,Confidence,Unsure,This assessment comes from a not at all convinced source
+0,326,Inca,Korea,Confidence,Unsure,Our diplomatic cables are not very convinced in this estimate
+0,327,Inca,Morocco,Confidence,Unsure,This assessment comes from a not very certain source
+0,329,Morocco,Germany,Confidence,Unsure,This estimate comes from a not very certain source
+0,330,Korea,Songhai,Confidence,Unsure,Our agents are not at all sure in this assessment
+0,332,Songhai,Morocco,Confidence,Unsure,Our intelligence officers are not at all convinced in this report
+0,332,Inca,Songhai,Confidence,Unsure,Our sources are not at all convinced in this report
+0,333,Germany,Korea,Confidence,Unsure,Our intelligence officers are not very convinced in this assessment
+0,337,Morocco,Korea,Confidence,Unsure,The Moroccans diplomatic cables are not very certain in this estimate
+0,341,Morocco,Germany,Confidence,Unsure,The Moroccans intelligence officers are not very certain in this assessment
+0,341,Germany,Inca,Confidence,Completely sure,This report comes from an acutely confident source
+0,343,Korea,Germany,Confidence,Unsure,This assessment comes from a not very convinced source
+0,344,Korea,Songhai,Confidence,Unsure,This hypothesis comes from a not at all convinced source
+0,344,Korea,Inca,Confidence,Completely sure,Our agents are quite confident in this hypothesis
+0,345,Germany,Korea,Confidence,Unsure,This report comes from a not very certain source
+0,345,Germany,Songhai,Confidence,Unsure,This report comes from a not at all convinced source
+0,346,Songhai,Morocco,Confidence,Completely sure,This assessment comes from a not very confident source
+0,349,Germany,Morocco,Confidence,Unsure,Our agents are not very sure in this estimate
+0,353,Songhai,Inca,Confidence,Very sure,This assessment comes from a much certain source
+0,354,Germany,Korea,Confidence,Unsure,Our spies are not very sure in this report
+0,356,Songhai,Inca,Confidence,Completely sure,This hypothesis comes from an acutely convinced source
+0,356,Germany,Morocco,Confidence,Unsure,This report comes from a not very convinced source
+0,357,Songhai,Morocco,Confidence,Completely sure,This assessment comes from a not very confident source
+0,357,Morocco,Germany,Confidence,Unsure,This assessment comes from a not very convinced source
+0,360,Inca,Morocco,Confidence,Completely sure,Our intelligence officers are not very confident in this assessment
+0,360,Inca,Korea,Confidence,Unsure,Our spies are not very convinced in this assessment
+0,361,Morocco,Korea,Confidence,Unsure,Our spies are not very certain in this estimate
+0,364,Korea,Inca,Confidence,Completely sure,Our intelligence officers are thoroughly sure in this report
+0,365,Songhai,Inca,Confidence,Completely sure,Our diplomatic cables are thoroughly certain in this estimate
+0,365,Germany,Inca,Confidence,Very sure,This estimate comes from a quite convinced source
+0,368,Inca,Songhai,Confidence,Unsure,This report comes from a not very certain source
+0,370,Morocco,Korea,Confidence,Unsure,Our diplomatic cables are not very sure in this report
+0,371,Inca,Germany,Confidence,Completely sure,Our agents are not very confident in this hypothesis
+0,371,Morocco,Songhai,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,372,Korea,Songhai,Confidence,Very sure,This estimate comes from a much convinced source
+0,373,Songhai,Morocco,Confidence,Completely sure,This estimate comes from a not very confident source
+0,375,Korea,Inca,Confidence,Completely sure,This estimate comes from a quite confident source
+0,378,Morocco,Germany,Confidence,Unsure,Our diplomatic cables are not very convinced in this estimate
+0,378,Korea,Morocco,Confidence,Unsure,This assessment comes from a not very sure source
+0,379,Songhai,Korea,Confidence,Completely sure,Our agents are not very confident in this hypothesis
+0,379,Songhai,Korea,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,379,Morocco,Korea,Confidence,Unsure,This assessment comes from a not very sure source
+0,381,Morocco,Songhai,Confidence,Unsure,This assessment comes from a not very sure source
+0,382,Korea,Morocco,Confidence,Completely sure,This estimate comes from a not very confident source
+0,383,Songhai,Inca,Confidence,Completely sure,Our spies are most confident in this assessment
+0,384,Germany,Morocco,Confidence,Unsure,Our spies are not very certain in this assessment
+0,385,Korea,Inca,Confidence,Completely sure,This report comes from a quite confident source
+0,386,Inca,Korea,Confidence,Unsure,This hypothesis comes from a not very certain source
+0,386,Korea,Songhai,Confidence,Unsure,This assessment comes from a not very convinced source
+0,389,Morocco,Korea,Confidence,Unsure,Our diplomatic cables are not very certain in this assessment
+0,390,Morocco,Songhai,Confidence,Completely sure,This hypothesis comes from a not very confident source
+0,390,Korea,Inca,Confidence,Unsure,The Koreans diplomatic cables are not very convinced in this report
+0,392,Songhai,Inca,Confidence,Very sure,This estimate comes from a quite convinced source
+0,393,Inca,Morocco,Confidence,Unsure,This hypothesis comes from a not very convinced source
+0,393,Korea,Songhai,Confidence,Unsure,Our intelligence officers are not very certain in this assessment
+0,398,Germany,Inca,Confidence,Very sure,Our intelligence officers are much sure in this report
+0,400,Korea,Songhai,Confidence,Unsure,This estimate comes from a not very sure source
+0,401,Songhai,Germany,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,401,Inca,Germany,Confidence,Unsure,The Incas agents are not very convinced in this report
+0,404,Korea,Morocco,Confidence,Unsure,This estimate comes from a not very convinced source
+0,407,Inca,Korea,Confidence,Unsure,The Incas spies are not very convinced in this hypothesis
+0,408,Inca,Songhai,Confidence,Unsure,This hypothesis comes from a not very certain source
+0,408,Korea,Germany,Confidence,Completely sure,This hypothesis comes from a most certain source
+0,410,Inca,Korea,Confidence,Unsure,Our sources are not very sure in this report
+0,412,Inca,Germany,Confidence,Completely sure,This estimate comes from a very confident source
+0,412,Germany,Inca,Confidence,Completely sure,This estimate comes from a most confident source
+0,413,Germany,Morocco,Confidence,Unsure,Our spies are not very convinced in this hypothesis
+0,415,Songhai,Morocco,Confidence,Unsure,Our intelligence officers are not very sure in this assessment
+0,415,Korea,Inca,Confidence,Very sure,This estimate comes from a very certain source
+0,416,Germany,Korea,Confidence,Unsure,The Germans intelligence officers are not very convinced in this estimate
+0,417,Morocco,Korea,Confidence,Completely sure,Our spies are acutely certain in this report
+0,421,Songhai,Korea,Confidence,Very sure,This hypothesis comes from a very sure source
+0,421,Morocco,Germany,Confidence,Completely sure,This hypothesis comes from a not very confident source
+0,421,Germany,Korea,Confidence,Completely sure,Our diplomatic cables are quite confident in this assessment
+0,426,Inca,Morocco,Confidence,Unsure,This report comes from a not very convinced source
+0,427,Korea,Songhai,Confidence,Unsure,The Koreans intelligence officers are not very sure in this hypothesis
+0,427,Inca,Morocco,Confidence,Very sure,The Incas intelligence officers are quite sure in this report
+0,427,Korea,Inca,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,428,Songhai,Inca,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,430,Morocco,Germany,Confidence,Unsure,Our agents are not very sure in this report
+0,430,Germany,Morocco,Confidence,Unsure,This assessment comes from a not very convinced source
+0,431,Songhai,Morocco,Confidence,Unsure,This hypothesis comes from a not very sure source
+0,432,Songhai,Korea,Confidence,Very sure,The Songhais spies are very convinced in this report
+0,433,Morocco,Korea,Confidence,Unsure,The Moroccans agents are not very convinced in this estimate
+0,434,Inca,Germany,Confidence,Completely sure,Our sources are not very confident in this estimate
+0,435,Morocco,Songhai,Confidence,Unsure,The Moroccans spies are not very convinced in this estimate
+0,436,Germany,Songhai,Confidence,Very sure,The Germans diplomatic cables are much certain in this hypothesis
+0,436,Morocco,Germany,Confidence,Unsure,Our intelligence officers are not very convinced in this estimate
+0,438,Korea,Morocco,Confidence,Unsure,This hypothesis comes from a not very convinced source
+0,444,Inca,Korea,Confidence,Very sure,Our spies are much sure in this hypothesis
+0,445,Morocco,Songhai,Confidence,Very sure,This assessment comes from a quite convinced source
+0,445,Inca,Germany,Confidence,Very sure,This hypothesis comes from a quite certain source
+0,446,Morocco,Inca,Confidence,Unsure,This report comes from a not very convinced source
+0,455,Songhai,Morocco,Confidence,Unsure,Our spies are not very sure in this assessment
+0,455,Songhai,Germany,Confidence,Somewhat sure,This assessment comes from a somewhat sure source
+0,456,Germany,Morocco,Confidence,Very sure,Our sources are quite convinced in this hypothesis
+0,456,Korea,Songhai,Confidence,Very sure,This estimate comes from a much convinced source
+0,459,Inca,Morocco,Confidence,Completely sure,Our diplomatic cables are very confident in this report
+0,460,Korea,Morocco,Confidence,Very sure,This estimate comes from a much convinced source
+0,460,Korea,Morocco,Confidence,Unsure,Our intelligence officers are not very certain in this estimate
+0,462,Korea,Morocco,Confidence,Very sure,Our sources are quite convinced in this estimate
+0,464,Morocco,Korea,Confidence,Completely sure,This estimate comes from a thoroughly sure source
+0,464,Inca,Korea,Confidence,Completely sure,Our sources are very confident in this report
+0,466,Germany,Korea,Confidence,Completely sure,This assessment comes from a most confident source
+0,470,Korea,Songhai,Confidence,Completely sure,Our intelligence officers are thoroughly convinced in this hypothesis
+0,473,Songhai,Germany,Confidence,Somewhat sure,This assessment comes from a somewhat convinced source
+0,474,Songhai,Germany,Confidence,Somewhat sure,Our agents are somewhat convinced in this report
+0,479,Morocco,Songhai,Confidence,Very sure,The Moroccans spies are much convinced in this hypothesis
+0,480,Inca,Songhai,Confidence,Completely sure,Our sources are not very confident in this estimate
+0,482,Germany,Inca,Confidence,Unsure,This assessment comes from a not very sure source
+0,483,Songhai,Germany,Confidence,Somewhat sure,Our intelligence officers are somewhat convinced in this hypothesis
+0,483,Korea,Morocco,Confidence,Completely sure,This report comes from a most certain source
+0,483,Germany,Inca,Confidence,Very sure,Our diplomatic cables are quite sure in this assessment
+0,487,Songhai,Morocco,Confidence,Completely sure,This assessment comes from a very confident source
+0,489,Germany,Korea,Confidence,Completely sure,This report comes from a most confident source
+0,489,Morocco,Inca,Confidence,Somewhat sure,The Moroccans sources are somewhat certain in this assessment
+0,490,Morocco,Songhai,Confidence,Completely sure,This report comes from a somewhat confident source
+0,491,Germany,Morocco,Confidence,Very sure,Our diplomatic cables are very sure in this assessment
+0,492,Morocco,Germany,Confidence,Unsure,Our sources are not very certain in this report
+0,498,Germany,Morocco,Confidence,Completely sure,This report comes from an acutely confident source
+0,499,Morocco,Germany,Confidence,Very sure,This estimate comes from a very sure source

@@ -1,0 +1,1167 @@
+,Turn,Civ1,Civ2,Relation,Value,Cable
+0,3,Songhai,Germany,Conquerability,average,We estimate the Germans to be an average target for attack
+0,6,Germany,Ife,Conquerability,favorable,We report Ife to be a favorable target for attack
+0,7,Iroquois,Songhai,Conquerability,average,We imagine the likelihood of forcefully dominating the Songhai to be average
+0,9,Korea,Germany,Conquerability,average,We figure the Germans to be an average target for attack
+0,10,Germany,Bogota,Conquerability,favorable,We consider the likelihood of forcefully dominating Bogota to be favorable
+0,12,Songhai,Germany,Conquerability,average,We estimate the Germans to be an average target for attack
+0,14,Songhai,Iroquois,Conquerability,average,We acknowledge the possibility of taking over the Iroquois to be average
+0,15,Iroquois,Germany,Conquerability,average,We regard the feasibility of taking over the Germans to be average
+0,17,Morocco,Germany,Conquerability,average,We consider the Germans to be an average target for attack
+0,17,Iroquois,Songhai,Conquerability,average,We regard the Songhai to be an average target for attack
+0,18,Germany,Songhai,Conquerability,average,We imagine the possibility of forcefully dominating the Songhai to be average
+0,18,Iroquois,Korea,Conquerability,average,We report the Koreans to be an average target for attack
+0,19,Songhai,Korea,Conquerability,average,We consider the Koreans to be an average target for attack
+0,19,Korea,Songhai,Conquerability,average,We see the probability of forcefully dominating the Songhai to be average
+0,19,Korea,Iroquois,Conquerability,average,We perceive the Iroquois to be an average target for attack
+0,19,Morocco,Ife,Conquerability,average,We see the prospect of taking over Ife to be average
+0,20,Morocco,Iroquois,Conquerability,average,We perceive the chance of conquering the Iroquois to be average
+0,21,Songhai,Germany,Conquerability,average,We imagine the probability of forcefully dominating the Germans to be average
+0,21,Songhai,Iroquois,Conquerability,average,We esteem the likelihood of taking over the Iroquois to be average
+0,21,Germany,Korea,Conquerability,average,We regard the hope of forcefully dominating the Koreans to be average
+0,22,Korea,Mombasa,Conquerability,favorable,We esteem the chance of conquering Mombasa to be favorable
+0,23,Iroquois,Germany,Conquerability,average,We believe the Germans to be an average target for attack
+0,24,Songhai,Panama City,Conquerability,average,We regard Panama City to be an average target for attack
+0,24,Korea,Bogota,Conquerability,favorable,We report Bogota to be a favorable target for attack
+0,25,Inca,Florence,Conquerability,favorable,We consider the chance of conquering Florence to be favorable
+0,26,Songhai,Korea,Conquerability,average,We figure the Koreans to be an average target for attack
+0,26,Germany,Songhai,Conquerability,average,We figure the Songhai to be an average target for attack
+0,26,Songhai,Germany,Conquerability,average,The Songhai regard the Germans to be an average target for attack
+0,26,Iroquois,Korea,Conquerability,average,We consider the Koreans to be an average target for attack
+0,27,Germany,Inca,Conquerability,average,We consider the Incas to be an average target for attack
+0,27,Iroquois,Songhai,Conquerability,average,We acknowledge the hope of taking over the Songhai to be average
+0,27,Songhai,Mombasa,Conquerability,average,We esteem the feasibility of forcefully dominating Mombasa to be average
+0,28,Songhai,Iroquois,Conquerability,average,We regard the Iroquois to be an average target for attack
+0,28,Inca,Morocco,Conquerability,average,We believe the Moroccans to be an average target for attack
+0,28,Morocco,Songhai,Conquerability,average,We look at the probability of forcefully dominating the Songhai to be average
+0,28,Korea,Iroquois,Conquerability,average,We regard the Iroquois to be an average target for attack
+0,29,Inca,Germany,Conquerability,average,We estimate the Germans to be an average target for attack
+0,30,Songhai,Inca,Conquerability,average,We imagine the likelihood of taking over the Incas to be average
+0,30,Songhai,Germany,Conquerability,average,We estimate the Germans to be an average target for attack
+0,30,Germany,Morocco,Conquerability,average,We regard the probability of forcefully dominating the Moroccans to be average
+0,31,Iroquois,Germany,Conquerability,average,We perceive the hope of taking over the Germans to be average
+0,32,Morocco,Korea,Conquerability,favorable,We regard the Koreans to be a favorable target for attack
+0,32,Germany,Korea,Conquerability,average,We believe the Koreans to be an average target for attack
+0,32,Iroquois,Morocco,Conquerability, bad,We regard the possibility of taking over the Moroccans to be bad
+0,33,Songhai,Korea,Conquerability,average,We see the probability of forcefully dominating the Koreans to be average
+0,33,Korea,Morocco,Conquerability, bad,We consider the Moroccans to be a bad target for attack
+0,34,Inca,Morocco,Conquerability, bad,The Incas believe the Moroccans to be a bad target for attack
+0,34,Germany,Songhai,Conquerability, bad,We esteem the chance of taking over the Songhai to be bad
+0,36,Germany,Kathmandu,Conquerability,average,We imagine the feasibility of forcefully dominating Kathmandu to be average
+0,37,Morocco,Songhai,Conquerability,average,We figure the Songhai to be an average target for attack
+0,37,Iroquois,Korea,Conquerability,average,The Iroquois consider the likelihood of forcefully dominating the Koreans to be average
+0,37,Songhai,Korea,Conquerability,favorable,The Songhai imagine the probability of forcefully dominating the Koreans to be favorable
+0,39,Iroquois,Germany,Conquerability,average,The Iroquois imagine the probability of forcefully dominating the Germans to be average
+0,39,Inca,Morocco,Conquerability, bad,We look at the probability of taking over the Moroccans to be bad
+0,39,Songhai,Singapore,Conquerability,soft,We perceive Singapore to be a soft target for attack
+0,39,Korea,Kyzyl,Conquerability,average,We see the prospect of forcefully dominating Kyzyl to be average
+0,39,Korea,Yerevan,Conquerability,average,We look at the probability of taking over Yerevan to be average
+0,40,Korea,Songhai,Conquerability, bad,We regard the probability of taking over the Songhai to be bad
+0,40,Morocco,Songhai,Conquerability,average,The Moroccans regard the Songhai to be an average target for attack
+0,41,Morocco,Korea,Conquerability,favorable,We figure the Koreans to be a favorable target for attack
+0,42,Germany,Songhai,Conquerability, bad,We look at the possibility of taking over the Songhai to be bad
+0,43,Inca,Germany,Conquerability,average,The Incas regard the hope of conquering the Germans to be average
+0,43,Germany,Inca,Conquerability,average,We perceive the feasibility of taking over the Incas to be average
+0,44,Morocco,Iroquois,Conquerability,favorable,We perceive the Iroquois to be a favorable target for attack
+0,44,Germany,Bogota,Conquerability,favorable,We believe Bogota to be a favorable target for attack
+0,45,Morocco,Germany,Conquerability,favorable,We figure the Germans to be a favorable target for attack
+0,45,Songhai,Kyzyl,Conquerability,average,We esteem the prospect of forcefully dominating Kyzyl to be average
+0,46,Morocco,Songhai,Conquerability,average,We estimate the Songhai to be an average target for attack
+0,47,Iroquois,Songhai,Conquerability,average,We consider the Songhai to be an average target for attack
+0,47,Songhai,Florence,Conquerability,soft,We regard the hope of taking over Florence to be soft
+0,48,Songhai,Germany,Conquerability,favorable,We consider the prospect of taking over the Germans to be favorable
+0,49,Inca,Germany,Conquerability,average,We report the Germans to be an average target for attack
+0,49,Morocco,Inca,Conquerability,favorable,We look at the probability of forcefully dominating the Incas to be favorable
+0,50,Iroquois,Korea,Conquerability,average,We consider the Koreans to be an average target for attack
+0,50,Inca,Kathmandu,Conquerability,favorable,We estimate Kathmandu to be a favorable target for attack
+0,51,Songhai,Morocco,Conquerability, bad,We esteem the likelihood of forcefully dominating the Moroccans to be bad
+0,52,Morocco,Bogota,Conquerability,soft,We see the possibility of taking over Bogota to be soft
+0,55,Iroquois,Germany,Conquerability,average,We believe the Germans to be an average target for attack
+0,55,Germany,Kathmandu,Conquerability,favorable,We look at the hope of forcefully dominating Kathmandu to be favorable
+0,55,Germany,Yerevan,Conquerability,favorable,We report Yerevan to be a favorable target for attack
+0,56,Songhai,Iroquois,Conquerability,average,We esteem the prospect of forcefully dominating the Iroquois to be average
+0,56,Iroquois,Budapest,Conquerability,average,We perceive Budapest to be an average target for attack
+0,57,Songhai,Germany,Conquerability,average,We regard the Germans to be an average target for attack
+0,57,Inca,Iroquois,Conquerability,average,We perceive the chance of taking over the Iroquois to be average
+0,57,Songhai,Florence,Conquerability,favorable,We imagine the probability of conquering Florence to be favorable
+0,57,Germany,Ife,Conquerability,average,We regard the feasibility of forcefully dominating Ife to be average
+0,58,Inca,Korea,Conquerability,average,We look at the prospect of conquering the Koreans to be average
+0,58,Korea,Morocco,Conquerability, bad,The Koreans consider the possibility of taking over the Moroccans to be bad
+0,58,Morocco,Kyzyl,Conquerability,favorable,We figure Kyzyl to be a favorable target for attack
+0,59,Songhai,Morocco,Conquerability, bad,We look at the hope of conquering the Moroccans to be bad
+0,59,Inca,Germany,Conquerability,average,We see the likelihood of conquering the Germans to be average
+0,59,Morocco,Germany,Conquerability,favorable,We perceive the chance of taking over the Germans to be favorable
+0,59,Korea,Inca,Conquerability,average,We acknowledge the feasibility of conquering the Incas to be average
+0,59,Inca,Singapore,Conquerability,favorable,We report Singapore to be a favorable target for attack
+0,59,Germany,Singapore,Conquerability,favorable,We regard Singapore to be a favorable target for attack
+0,60,Morocco,Iroquois,Conquerability,favorable,We regard the prospect of conquering the Iroquois to be favorable
+0,60,Korea,Bogota,Conquerability,favorable,We report Bogota to be a favorable target for attack
+0,61,Songhai,Singapore,Conquerability,favorable,We figure Singapore to be a favorable target for attack
+0,62,Inca,Songhai,Conquerability, bad,We consider the Songhai to be a bad target for attack
+0,62,Iroquois,Inca,Conquerability,average,We report the Incas to be an average target for attack
+0,63,Songhai,Iroquois,Conquerability,favorable,We figure the Iroquois to be a favorable target for attack
+0,63,Korea,Germany,Conquerability,average,We estimate the Germans to be an average target for attack
+0,64,Morocco,Songhai,Conquerability,favorable,We believe the Songhai to be a favorable target for attack
+0,64,Inca,Kathmandu,Conquerability,average,We see the feasibility of conquering Kathmandu to be average
+0,64,Inca,Panama City,Conquerability,favorable,We regard Panama City to be a favorable target for attack
+0,64,Morocco,Ife,Conquerability,favorable,We regard Ife to be a favorable target for attack
+0,64,Iroquois,Panama City,Conquerability,favorable,We consider the prospect of taking over Panama City to be favorable
+0,65,Germany,Morocco,Conquerability,average,We figure the Moroccans to be an average target for attack
+0,65,Inca,Mombasa,Conquerability,average, We imagine the hope of conquering Mombasa to be average
+0,65,Korea,Florence,Conquerability,favorable,We figure Florence to be a favorable target for attack
+0,66,Songhai,Inca,Conquerability,average,We see the likelihood of taking over the Incas to be average
+0,66,Inca,Korea,Conquerability,average,We believe the Koreans to be an average target for attack
+0,66,Iroquois,Kathmandu,Conquerability,average,We imagine the likelihood of forcefully dominating Kathmandu to be average
+0,67,Songhai,Morocco,Conquerability,average,We report the Moroccans to be an average target for attack
+0,67,Germany,Inca,Conquerability,average,We consider the Incas to be an average target for attack
+0,67,Iroquois,Morocco,Conquerability, bad,We regard the Moroccans to be a bad target for attack
+0,68,Morocco,Iroquois,Conquerability,average,We consider the Iroquois to be an average target for attack
+0,68,Songhai,Korea,Conquerability,favorable,The Songhai perceive the Koreans to be a favorable target for attack
+0,70,Songhai,Iroquois,Conquerability,average,We report the Iroquois to be an average target for attack
+0,70,Morocco,Iroquois,Conquerability,average,The Moroccans look at the feasibility of forcefully dominating the Iroquois to be average
+0,71,Morocco,Inca,Conquerability,average,We consider the probability of taking over the Incas to be average
+0,71,Iroquois,Germany,Conquerability,average,We figure the Germans to be an average target for attack
+0,71,Germany,Singapore,Conquerability,favorable,We figure Singapore to be a favorable target for attack
+0,72,Inca,Morocco,Conquerability,average,We estimate the Moroccans to be an average target for attack
+0,73,Inca,Iroquois,Conquerability,average,We figure the Iroquois to be an average target for attack
+0,73,Morocco,Songhai,Conquerability,average,We regard the Songhai to be an average target for attack
+0,73,Morocco,Germany,Conquerability,average,We perceive the Germans to be an average target for attack
+0,73,Korea,Iroquois,Conquerability, bad,We regard the Iroquois to be a bad target for attack
+0,73,Iroquois,Inca,Conquerability,average,We perceive the Incas to be an average target for attack
+0,74,Iroquois,Morocco,Conquerability,average,We report the Moroccans to be an average target for attack
+0,74,Inca,Panama City,Conquerability,average,We believe Panama City to be an average target for attack
+0,75,Songhai,Inca,Conquerability, bad,We acknowledge the probability of taking over the Incas to be bad
+0,75,Songhai,Korea,Conquerability,average,We see the chance of taking over the Koreans to be average
+0,75,Morocco,Yerevan,Conquerability, bad,We estimate Yerevan to be a bad target for attack
+0,76,Morocco,Iroquois,Conquerability, bad,We report the Iroquois to be a bad target for attack
+0,76,Inca,Florence,Conquerability,average,We figure Florence to be an average target for attack
+0,77,Inca,Germany,Conquerability,average,The Incas estimate the Germans to be an average target for attack
+0,77,Iroquois,Songhai,Conquerability,average,We imagine the hope of taking over the Songhai to be average
+0,78,Inca,Songhai,Conquerability,average,We consider the Songhai to be an average target for attack
+0,78,Songhai,Yerevan,Conquerability, bad,We see the feasibility of conquering Yerevan to be bad
+0,78,Inca,Kathmandu,Conquerability,favorable,We acknowledge the probability of taking over Kathmandu to be favorable
+0,79,Korea,Inca,Conquerability,average,We see the likelihood of conquering the Incas to be average
+0,79,Iroquois,Germany,Conquerability,average,We regard the feasibility of taking over the Germans to be average
+0,79,Iroquois,Ife,Conquerability,favorable,We regard Ife to be a favorable target for attack
+0,80,Morocco,Germany,Conquerability,average,We regard the probability of forcefully dominating the Germans to be average
+0,80,Iroquois,Kathmandu,Conquerability,favorable,We perceive the chance of conquering Kathmandu to be favorable
+0,81,Morocco,Kathmandu,Conquerability,average,We perceive Kathmandu to be an average target for attack
+0,82,Songhai,Korea,Conquerability,average,We consider the probability of taking over the Koreans to be average
+0,82,Inca,Korea,Conquerability,average,We imagine the prospect of forcefully dominating the Koreans to be average
+0,82,Germany,Songhai,Conquerability,average,We regard the Songhai to be an average target for attack
+0,82,Korea,Iroquois,Conquerability,average,We imagine the probability of conquering the Iroquois to be average
+0,83,Korea,Morocco,Conquerability,average,The Koreans esteem the likelihood of forcefully dominating the Moroccans to be average
+0,83,Songhai,Budapest,Conquerability,average,We acknowledge the feasibility of forcefully dominating Budapest to be average
+0,84,Songhai,Germany,Conquerability,average,We acknowledge the feasibility of conquering the Germans to be average
+0,84,Songhai,Iroquois,Conquerability, bad,We acknowledge the chance of conquering the Iroquois to be bad
+0,84,Iroquois,Inca,Conquerability,average,We believe the Incas to be an average target for attack
+0,84,Inca,Mombasa,Conquerability,average,We consider Mombasa to be an average target for attack
+0,85,Germany,Yerevan,Conquerability, bad,We believe Yerevan to be a bad target for attack
+0,87,Germany,Korea,Conquerability,average,We consider the Koreans to be an average target for attack
+0,87,Korea,Yerevan,Conquerability,average,We imagine the possibility of forcefully dominating Yerevan to be average
+0,88,Songhai,Bogota,Conquerability,average,We see the possibility of forcefully dominating Bogota to be average
+0,90,Iroquois,Korea,Conquerability,average,We acknowledge the hope of forcefully dominating the Koreans to be average
+0,90,Iroquois,Florence,Conquerability,favorable,We figure Florence to be a favorable target for attack
+0,91,Songhai,Morocco,Conquerability, bad,We imagine the possibility of taking over the Moroccans to be bad
+0,91,Morocco,Songhai,Conquerability,average,We acknowledge the likelihood of forcefully dominating the Songhai to be average
+0,91,Korea,Morocco,Conquerability,average,The Koreans perceive the Moroccans to be an average target for attack
+0,91,Korea,Iroquois,Conquerability,average,We regard the feasibility of forcefully dominating the Iroquois to be average
+0,92,Morocco,Iroquois,Conquerability,average,We perceive the Iroquois to be an average target for attack
+0,93,Songhai,Inca,Conquerability, bad,We believe the Incas to be a bad target for attack
+0,93,Songhai,Germany,Conquerability, bad,We perceive the likelihood of taking over the Germans to be bad
+0,93,Germany,Morocco,Conquerability,average,We consider the feasibility of conquering the Moroccans to be average
+0,93,Songhai,Budapest,Conquerability,average,We imagine the probability of taking over Budapest to be average
+0,93,Inca,Florence,Conquerability,favorable,We consider Florence to be a favorable target for attack
+0,94,Inca,Morocco,Conquerability,favorable,We estimate the Moroccans to be a favorable target for attack
+0,94,Morocco,Ife,Conquerability,favorable,We regard Ife to be a favorable target for attack
+0,95,Iroquois,Morocco,Conquerability,favorable,We consider the feasibility of taking over the Moroccans to be favorable
+0,95,Songhai,Yerevan,Conquerability, bad,We figure Yerevan to be a bad target for attack
+0,95,Germany,Yerevan,Conquerability,average,We believe Yerevan to be an average target for attack
+0,95,Iroquois,Mombasa,Conquerability,favorable,We acknowledge the probability of conquering Mombasa to be favorable
+0,96,Songhai,Korea,Conquerability, bad,We consider the Koreans to be a bad target for attack
+0,96,Korea,Songhai,Conquerability,favorable,We estimate the Songhai to be a favorable target for attack
+0,97,Inca,Iroquois,Conquerability,average,We consider the hope of forcefully dominating the Iroquois to be average
+0,97,Morocco,Panama City,Conquerability,favorable,We consider Panama City to be a favorable target for attack
+0,98,Songhai,Iroquois,Conquerability, bad,We regard the prospect of taking over the Iroquois to be bad
+0,98,Inca,Korea,Conquerability,average,We perceive the Koreans to be an average target for attack
+0,98,Germany,Songhai,Conquerability,favorable,We look at the prospect of forcefully dominating the Songhai to be favorable
+0,98,Germany,Korea,Conquerability,average,We see the possibility of taking over the Koreans to be average
+0,98,Morocco,Kyzyl,Conquerability,average,We report Kyzyl to be an average target for attack
+0,99,Korea,Germany,Conquerability,average,We report the Germans to be an average target for attack
+0,99,Korea,Panama City,Conquerability,soft,We regard Panama City to be a soft target for attack
+0,100,Morocco,Songhai,Conquerability,average,We see the possibility of conquering the Songhai to be average
+0,100,Morocco,Iroquois,Conquerability, bad,We perceive the hope of conquering the Iroquois to be bad
+0,100,Germany,Morocco,Conquerability,average,We acknowledge the feasibility of taking over the Moroccans to be average
+0,100,Korea,Iroquois,Conquerability,average,We see the probability of forcefully dominating the Iroquois to be average
+0,100,Morocco,Florence,Conquerability,favorable,We look at the likelihood of taking over Florence to be favorable
+0,101,Morocco,Germany,Conquerability,average,We figure the Germans to be an average target for attack
+0,102,Songhai,Inca,Conquerability, bad,We estimate the Incas to be a bad target for attack
+0,102,Songhai,Germany,Conquerability,average,We see the feasibility of forcefully dominating the Germans to be average
+0,103,Iroquois,Korea,Conquerability,average,We perceive the Koreans to be an average target for attack
+0,103,Iroquois,Korea,Conquerability,average,Our sources esteem the Koreans as an average target
+0,103,Inca,Singapore,Conquerability,favorable,We imagine the prospect of taking over Singapore to be favorable
+0,103,Korea,Kyzyl,Conquerability,favorable,We consider the chance of conquering Kyzyl to be favorable
+0,104,Morocco,Inca,Conquerability,average,We figure the Incas to be an average target for attack
+0,104,Morocco,Korea,Conquerability, bad,We regard the prospect of forcefully dominating the Koreans to be bad
+0,104,Germany,Iroquois,Conquerability, bad,We esteem the likelihood of conquering the Iroquois to be bad
+0,105,Songhai,Iroquois,Conquerability, bad,We figure the Iroquois to be a bad target for attack
+0,105,Inca,Morocco,Conquerability,favorable,We imagine the prospect of forcefully dominating the Moroccans to be favorable
+0,105,Morocco,Yerevan,Conquerability,average,We believe Yerevan to be an average target for attack
+0,106,Inca,Kathmandu,Conquerability,favorable,We see the hope of conquering Kathmandu to be favorable
+0,107,Songhai,Ife,Conquerability,favorable,We believe Ife to be a favorable target for attack
+0,107,Morocco,Budapest,Conquerability,favorable,We esteem the probability of forcefully dominating Budapest to be favorable
+0,108,Morocco,Germany,Conquerability,average,We esteem the hope of taking over the Germans to be average
+0,108,Korea,Germany,Conquerability,favorable,We look at the chance of conquering the Germans to be favorable
+0,109,Morocco,Korea,Conquerability, bad,The Moroccans consider the Koreans to be a bad target for attack
+0,109,Korea,Inca,Conquerability,favorable,We perceive the Incas to be a favorable target for attack
+0,109,Inca,Kyzyl,Conquerability,favorable,We look at the chance of forcefully dominating Kyzyl to be favorable
+0,109,Iroquois,Ife,Conquerability,soft,We esteem the feasibility of conquering Ife to be soft
+0,110,Inca,Budapest,Conquerability,favorable,We figure Budapest to be a favorable target for attack
+0,110,Morocco,Florence,Conquerability,favorable,We consider the feasibility of forcefully dominating Florence to be favorable
+0,111,Iroquois,Germany,Conquerability,favorable,We report the Germans to be a favorable target for attack
+0,112,Songhai,Iroquois,Conquerability, bad,We believe the Iroquois to be a bad target for attack
+0,112,Morocco,Panama City,Conquerability,soft,We consider the likelihood of forcefully dominating Panama City to be soft
+0,113,Songhai,Budapest,Conquerability,average,We figure Budapest to be an average target for attack
+0,114,Inca,Korea,Conquerability, bad,We estimate the Koreans to be a bad target for attack
+0,114,Korea,Bogota,Conquerability,soft,We consider the prospect of taking over Bogota to be soft
+0,115,Germany,Yerevan,Conquerability,average,We consider Yerevan to be an average target for attack
+0,116,Morocco,Iroquois,Conquerability,average,We report the Iroquois to be an average target for attack
+0,116,Morocco,Singapore,Conquerability,soft,We perceive Singapore to be a soft target for attack
+0,117,Songhai,Korea,Conquerability, bad,We esteem the probability of taking over the Koreans to be bad
+0,117,Korea,Songhai,Conquerability,favorable,We regard the probability of conquering the Songhai to be favorable
+0,117,Germany,Morocco,Conquerability, bad,The Germans see the likelihood of forcefully dominating the Moroccans to be bad
+0,117,Songhai,Mombasa,Conquerability,average,We esteem the hope of taking over Mombasa to be average
+0,118,Inca,Songhai,Conquerability,favorable,We look at the feasibility of taking over the Songhai to be favorable
+0,119,Inca,Germany,Conquerability,average,We look at the feasibility of taking over the Germans to be average
+0,119,Germany,Singapore,Conquerability,soft,We estimate Singapore to be a soft target for attack
+0,119,Iroquois,Singapore,Conquerability,soft,We regard Singapore to be a soft target for attack
+0,120,Songhai,Germany,Conquerability, bad,We see the possibility of taking over the Germans to be bad
+0,120,Iroquois,Morocco,Conquerability,average,The Iroquois figure the Moroccans to be an average target for attack
+0,120,Germany,Korea,Conquerability,average,We imagine the possibility of taking over the Koreans to be average
+0,121,Germany,Morocco,Conquerability, bad,We regard the Moroccans to be a bad target for attack
+0,121,Korea,Morocco,Conquerability,average,We perceive the chance of taking over the Moroccans to be average
+0,122,Songhai,Ife,Conquerability,average,We consider Ife to be an average target for attack
+0,122,Inca,Yerevan,Conquerability,favorable,We consider the feasibility of taking over Yerevan to be favorable
+0,122,Germany,Mombasa,Conquerability,favorable,We report Mombasa to be a favorable target for attack
+0,122,Germany,Kyzyl,Conquerability,favorable,We look at the feasibility of taking over Kyzyl to be favorable
+0,122,Iroquois,Kathmandu,Conquerability,soft,We acknowledge the prospect of forcefully dominating Kathmandu to be soft
+0,122,Iroquois,Yerevan,Conquerability,favorable,We perceive the feasibility of conquering Yerevan to be favorable
+0,123,Iroquois,Morocco,Conquerability,average,We consider the Moroccans to be an average target for attack
+0,123,Songhai,Budapest,Conquerability,average,We acknowledge the prospect of taking over Budapest to be average
+0,123,Korea,Yerevan,Conquerability,average,We perceive Yerevan to be an average target for attack
+0,123,Iroquois,Mombasa,Conquerability,favorable,We consider Mombasa to be a favorable target for attack
+0,124,Korea,Songhai,Conquerability,favorable,We perceive the Songhai to be a favorable target for attack
+0,124,Morocco,Ife,Conquerability,favorable,We figure Ife to be a favorable target for attack
+0,125,Inca,Singapore,Conquerability,soft,We figure Singapore to be a soft target for attack
+0,125,Korea,Budapest,Conquerability,favorable,We perceive the likelihood of taking over Budapest to be favorable
+0,126,Inca,Songhai,Conquerability,favorable,We consider the Songhai to be a favorable target for attack
+0,126,Morocco,Inca,Conquerability, bad,We believe the Incas to be a bad target for attack
+0,126,Inca,Songhai,Conquerability,favorable,The Incas consider the Songhai to be a favorable target for attack
+0,126,Korea,Germany,Conquerability,average,We regard the Germans to be an average target for attack
+0,126,Songhai,Panama City,Conquerability,favorable,We see the likelihood of taking over Panama City to be favorable
+0,126,Morocco,Budapest,Conquerability,favorable,We acknowledge the probability of conquering Budapest to be favorable
+0,126,Iroquois,Bogota,Conquerability,soft,We see the possibility of conquering Bogota to be soft
+0,127,Morocco,Songhai,Conquerability,average,We look at the prospect of forcefully dominating the Songhai to be average
+0,128,Iroquois,Inca,Conquerability,average,We esteem the hope of taking over the Incas to be average
+0,129,Inca,Germany,Conquerability,favorable,We report the Germans to be a favorable target for attack
+0,129,Inca,Iroquois,Conquerability,average,We believe the Iroquois to be an average target for attack
+0,129,Morocco,Inca,Conquerability, bad,Our intelligence officers perceive the Incas as a bad target
+0,130,Inca,Korea,Conquerability,favorable,We figure the Koreans to be a favorable target for attack
+0,131,Germany,Florence,Conquerability,favorable,We consider the probability of forcefully dominating Florence to be favorable
+0,132,Korea,Germany,Conquerability,average,The Koreans report the Germans to be an average target for attack
+0,132,Morocco,Iroquois,Conquerability, bad,We look at the chance of forcefully dominating the Iroquois to be bad
+0,132,Korea,Morocco,Conquerability,average,We perceive the Moroccans to be an average target for attack
+0,133,Songhai,Iroquois,Conquerability, bad,We perceive the chance of taking over the Iroquois to be bad
+0,133,Inca,Yerevan,Conquerability,favorable,We figure Yerevan to be a favorable target for attack
+0,134,Inca,Panama City,Conquerability,soft,We see the prospect of taking over Panama City to be soft
+0,135,Morocco,Yerevan,Conquerability,average,We consider Yerevan to be an average target for attack
+0,135,Iroquois,Yerevan,Conquerability,favorable,We look at the probability of conquering Yerevan to be favorable
+0,136,Morocco,Songhai,Conquerability,average,We regard the Songhai to be an average target for attack
+0,136,Morocco,Germany,Conquerability, bad,We regard the Germans to be a bad target for attack
+0,136,Iroquois,Korea,Conquerability,average,Our intelligence officers see the Koreans as an average target
+0,136,Iroquois,Korea,Conquerability,average,We look at the feasibility of forcefully dominating the Koreans to be average
+0,136,Morocco,Bogota,Conquerability,favorable,We perceive the possibility of taking over Bogota to be favorable
+0,136,Korea,Mombasa,Conquerability,average,We look at the feasibility of taking over Mombasa to be average
+0,136,Iroquois,Kathmandu,Conquerability,soft,We perceive the likelihood of forcefully dominating Kathmandu to be soft
+0,137,Iroquois,Songhai,Conquerability,favorable,We perceive the Songhai to be a favorable target for attack
+0,137,Korea,Iroquois,Conquerability,average,Our spies look at the Iroquois as an average target
+0,137,Inca,Kyzyl,Conquerability,favorable,We consider the prospect of conquering Kyzyl to be favorable
+0,138,Korea,Songhai,Conquerability,favorable,We regard the Songhai to be a favorable target for attack
+0,138,Songhai,Singapore,Conquerability,favorable,We consider the likelihood of conquering Singapore to be favorable
+0,138,Morocco,Kyzyl,Conquerability,favorable,We regard the likelihood of forcefully dominating Kyzyl to be favorable
+0,139,Inca,Morocco,Conquerability,average,We consider the Moroccans to be an average target for attack
+0,139,Songhai,Iroquois,Conquerability, bad,The Songhai perceive the likelihood of taking over the Iroquois to be bad
+0,139,Germany,Inca,Conquerability, bad,We esteem the prospect of forcefully dominating the Incas to be bad
+0,139,Korea,Inca,Conquerability,favorable,We esteem the feasibility of conquering the Incas to be favorable
+0,139,Korea,Iroquois,Conquerability,average,We regard the probability of taking over the Iroquois to be average
+0,139,Iroquois,Inca,Conquerability,favorable,We believe the Incas to be a favorable target for attack
+0,139,Morocco,Ife,Conquerability,average,We regard Ife to be an average target for attack
+0,140,Songhai,Iroquois,Conquerability, bad,We consider the prospect of conquering the Iroquois to be bad
+0,140,Morocco,Korea,Conquerability, bad,We estimate the Koreans to be a bad target for attack
+0,140,Morocco,Iroquois,Conquerability, bad,We acknowledge the likelihood of taking over the Iroquois to be bad
+0,140,Germany,Panama City,Conquerability,favorable,We look at the possibility of conquering Panama City to be favorable
+0,143,Korea,Morocco,Conquerability,favorable,We imagine the possibility of conquering the Moroccans to be favorable
+0,143,Songhai,Panama City,Conquerability,soft,We consider Panama City to be a soft target for attack
+0,144,Iroquois,Morocco,Conquerability,favorable,We figure the Moroccans to be a favorable target for attack
+0,144,Inca,Yerevan,Conquerability,average,We estimate Yerevan to be an average target for attack
+0,145,Germany,Iroquois,Conquerability, bad,The Germans believe the Iroquois to be a bad target for attack
+0,146,Inca,Korea,Conquerability,average,We look at the likelihood of forcefully dominating the Koreans to be average
+0,146,Germany,Songhai,Conquerability,average,We perceive the feasibility of conquering the Songhai to be average
+0,146,Korea,Morocco,Conquerability,favorable,The Koreans regard the Moroccans to be a favorable target for attack
+0,146,Germany,Bogota,Conquerability,favorable,We esteem the hope of conquering Bogota to be favorable
+0,147,Songhai,Morocco,Conquerability,average,We perceive the chance of forcefully dominating the Moroccans to be average
+0,147,Songhai,Germany,Conquerability,average,We report the Germans to be an average target for attack
+0,147,Germany,Korea,Conquerability,average,The Germans look at the chance of conquering the Koreans to be average
+0,147,Iroquois,Songhai,Conquerability,favorable,We regard the possibility of taking over the Songhai to be favorable
+0,147,Songhai,Florence,Conquerability,favorable,We consider Florence to be a favorable target for attack
+0,147,Inca,Singapore,Conquerability,favorable,We esteem the hope of conquering Singapore to be favorable
+0,148,Germany,Mombasa,Conquerability,average,We report Mombasa to be an average target for attack
+0,149,Inca,Germany,Conquerability,average,We imagine the probability of conquering the Germans to be average
+0,149,Songhai,Inca,Conquerability,average,The Songhai regard the Incas to be an average target for attack
+0,149,Germany,Morocco,Conquerability, bad,We imagine the feasibility of conquering the Moroccans to be bad
+0,149,Korea,Inca,Conquerability,average,We regard the Incas to be an average target for attack
+0,149,Songhai,Singapore,Conquerability,favorable,We figure Singapore to be a favorable target for attack
+0,150,Iroquois,Inca,Conquerability,average,We regard the chance of taking over the Incas to be average
+0,150,Inca,Budapest,Conquerability,favorable,We regard Budapest to be a favorable target for attack
+0,150,Morocco,Mombasa,Conquerability,average,We regard Mombasa to be an average target for attack
+0,151,Iroquois,Germany,Conquerability,average,We believe the Germans to be an average target for attack
+0,151,Iroquois,Singapore,Conquerability,favorable,We figure Singapore to be a favorable target for attack
+0,152,Korea,Songhai,Conquerability, bad,We see the hope of forcefully dominating the Songhai to be bad
+0,152,Songhai,Ife,Conquerability,average,We esteem the likelihood of conquering Ife to be average
+0,153,Germany,Korea,Conquerability, bad,We estimate the Koreans to be a bad target for attack
+0,154,Songhai,Iroquois,Conquerability,average,We estimate the Iroquois to be an average target for attack
+0,154,Inca,Korea,Conquerability, bad,We imagine the prospect of conquering the Koreans to be bad
+0,155,Songhai,Morocco,Conquerability,average,We estimate the Moroccans to be an average target for attack
+0,155,Inca,Yerevan,Conquerability,favorable,We esteem the hope of forcefully dominating Yerevan to be favorable
+0,155,Korea,Florence,Conquerability,soft,We regard Florence to be a soft target for attack
+0,156,Songhai,Germany,Conquerability,average,We estimate the Germans to be an average target for attack
+0,156,Morocco,Iroquois,Conquerability,average,We look at the prospect of forcefully dominating the Iroquois to be average
+0,156,Iroquois,Korea,Conquerability, bad,We regard the probability of forcefully dominating the Koreans to be bad
+0,157,Morocco,Iroquois,Conquerability,average,The Moroccans imagine the hope of forcefully dominating the Iroquois to be average
+0,157,Korea,Iroquois,Conquerability,average,We esteem the feasibility of taking over the Iroquois to be average
+0,157,Iroquois,Songhai,Conquerability,average,We regard the Songhai to be an average target for attack
+0,158,Germany,Korea,Conquerability,average,The Germans perceive the Koreans to be an average target for attack
+0,158,Iroquois,Korea,Conquerability, bad,We report the Koreans to be a bad target for attack
+0,158,Morocco,Kyzyl,Conquerability,favorable,We see the chance of conquering Kyzyl to be favorable
+0,159,Inca,Germany,Conquerability,favorable,We believe the Germans to be a favorable target for attack
+0,160,Songhai,Panama City,Conquerability,average,We report Panama City to be an average target for attack
+0,161,Songhai,Iroquois,Conquerability,average,We acknowledge the probability of conquering the Iroquois to be average
+0,161,Germany,Mombasa,Conquerability,average,We consider the hope of forcefully dominating Mombasa to be average
+0,162,Inca,Korea,Conquerability,average,We figure the Koreans to be an average target for attack
+0,162,Korea,Germany,Conquerability, bad,We esteem the probability of taking over the Germans to be bad
+0,162,Iroquois,Florence,Conquerability,favorable,We believe Florence to be a favorable target for attack
+0,163,Germany,Morocco,Conquerability, bad,We regard the feasibility of conquering the Moroccans to be bad
+0,163,Iroquois,Korea,Conquerability,average,The Iroquois perceive the prospect of taking over the Koreans to be average
+0,163,Songhai,Yerevan,Conquerability,average,We report Yerevan to be an average target for attack
+0,164,Morocco,Iroquois,Conquerability,average,We figure the Iroquois to be an average target for attack
+0,164,Inca,Panama City,Conquerability,favorable,We figure Panama City to be a favorable target for attack
+0,165,Songhai,Inca,Conquerability, bad,We figure the Incas to be a bad target for attack
+0,165,Korea,Iroquois,Conquerability,favorable,The Koreans report the Iroquois to be a favorable target for attack
+0,165,Korea,Morocco,Conquerability,average,We perceive the Moroccans to be an average target for attack
+0,165,Songhai,Morocco,Conquerability,average,The Songhai figure the Moroccans to be an average target for attack
+0,165,Iroquois,Morocco,Conquerability,average,We perceive the Moroccans to be an average target for attack
+0,165,Germany,Korea,Conquerability, bad,The Germans see the hope of conquering the Koreans to be bad
+0,166,Korea,Songhai,Conquerability,favorable,We see the likelihood of conquering the Songhai to be favorable
+0,167,Morocco,Korea,Conquerability, bad,We look at the likelihood of forcefully dominating the Koreans to be bad
+0,168,Songhai,Iroquois,Conquerability, bad,We regard the Iroquois to be a bad target for attack
+0,168,Iroquois,Kyzyl,Conquerability,average,We perceive Kyzyl to be an average target for attack
+0,169,Iroquois,Korea,Conquerability, bad,The Iroquois figure the Koreans to be a bad target for attack
+0,169,Germany,Kathmandu,Conquerability,favorable, We report Kathmandu to be a favorable target for attack
+0,170,Germany,Songhai,Conquerability, bad,We acknowledge the possibility of taking over the Songhai to be bad
+0,170,Germany,Morocco,Conquerability, bad,We look at the possibility of forcefully dominating the Moroccans to be bad
+0,170,Germany,Iroquois,Conquerability, bad,We consider the prospect of conquering the Iroquois to be bad
+0,170,Inca,Budapest,Conquerability,favorable,We regard the probability of conquering Budapest to be favorable
+0,171,Morocco,Germany,Conquerability,favorable,We esteem the hope of taking over the Germans to be favorable
+0,171,Germany,Inca,Conquerability, bad,We figure the Incas to be a bad target for attack
+0,171,Songhai,Mombasa,Conquerability,average,We consider Mombasa to be an average target for attack
+0,172,Morocco,Iroquois,Conquerability,average,We figure the Iroquois to be an average target for attack
+0,172,Iroquois,Morocco,Conquerability, bad,We perceive the possibility of conquering the Moroccans to be bad
+0,172,Inca,Bogota,Conquerability,favorable,We perceive the feasibility of forcefully dominating Bogota to be favorable
+0,174,Songhai,Germany,Conquerability,favorable,We esteem the possibility of taking over the Germans to be favorable
+0,174,Korea,Iroquois,Conquerability,favorable,We perceive the Iroquois to be a favorable target for attack
+0,174,Germany,Mombasa,Conquerability,average,We regard the possibility of forcefully dominating Mombasa to be average
+0,174,Iroquois,Yerevan,Conquerability,favorable,We consider the prospect of conquering Yerevan to be favorable
+0,175,Songhai,Iroquois,Conquerability,average, We report the Iroquois to be an average target for attack
+0,176,Inca,Kathmandu,Conquerability,favorable,We regard Kathmandu to be a favorable target for attack
+0,177,Inca,Iroquois,Conquerability,average,We estimate the Iroquois to be an average target for attack
+0,177,Inca,Morocco,Conquerability,average,The Incas perceive the feasibility of taking over the Moroccans to be average
+0,177,Iroquois,Songhai,Conquerability, bad,We estimate the Songhai to be a bad target for attack
+0,177,Songhai,Panama City,Conquerability,average, We estimate Panama City to be an average target for attack
+0,178,Morocco,Germany,Conquerability,average,The Moroccans perceive the Germans to be an average target for attack
+0,179,Songhai,Morocco,Conquerability,average,We esteem the chance of conquering the Moroccans to be average
+0,179,Korea,Inca,Conquerability,favorable,We estimate the Incas to be a favorable target for attack
+0,179,Iroquois,Morocco,Conquerability,average,We regard the feasibility of forcefully dominating the Moroccans to be average
+0,179,Inca,Ife,Conquerability,average,We see the probability of taking over Ife to be average
+0,179,Iroquois,Ife,Conquerability,favorable,We imagine the hope of conquering Ife to be favorable
+0,180,Korea,Songhai,Conquerability,favorable,We believe the Songhai to be a favorable target for attack
+0,180,Songhai,Yerevan,Conquerability,average,We figure Yerevan to be an average target for attack
+0,182,Inca,Germany,Conquerability, bad,The Incas report the Germans to be a bad target for attack
+0,182,Morocco,Inca,Conquerability, bad,We consider the Incas to be a bad target for attack
+0,183,Songhai,Inca,Conquerability, bad,We report the Incas to be a bad target for attack
+0,183,Songhai,Germany,Conquerability,average,We report the Germans to be an average target for attack
+0,183,Iroquois,Inca,Conquerability,average,We look at the possibility of taking over the Incas to be average
+0,183,Songhai,Budapest,Conquerability,favorable,We consider Budapest to be a favorable target for attack
+0,184,Morocco,Bogota,Conquerability,favorable,We believe Bogota to be a favorable target for attack
+0,185,Morocco,Germany,Conquerability, bad,We perceive the Germans to be a bad target for attack
+0,185,Korea,Iroquois,Conquerability,favorable,We figure the Iroquois to be a favorable target for attack
+0,185,Songhai,Kathmandu,Conquerability,soft,We consider Kathmandu to be a soft target for attack
+0,185,Morocco,Yerevan,Conquerability,average, We figure Yerevan to be an average target for attack
+0,185,Germany,Yerevan,Conquerability,favorable,We imagine the chance of forcefully dominating Yerevan to be favorable
+0,185,Korea,Kathmandu,Conquerability,soft,We perceive Kathmandu to be a soft target for attack
+0,186,Germany,Korea,Conquerability, bad,We believe the Koreans to be a bad target for attack
+0,188,Inca,Songhai,Conquerability,average,The Incas consider the Songhai to be an average target for attack
+0,188,Germany,Kathmandu,Conquerability,soft,We report Kathmandu to be a soft target for attack
+0,189,Inca,Germany,Conquerability, bad,We consider the Germans to be a bad target for attack
+0,189,Korea,Inca,Conquerability,favorable,We esteem the hope of taking over the Incas to be favorable
+0,189,Morocco,Inca,Conquerability, bad,The Moroccans report the Incas to be a bad target for attack
+0,189,Songhai,Korea,Conquerability,average,Our intelligence officers regard the Koreans as an average target
+0,189,Songhai,Korea,Conquerability,average,We consider the Koreans to be an average target for attack
+0,189,Korea,Songhai,Conquerability,average,Our sources acknowledge the Songhai as an average target
+0,190,Inca,Songhai,Conquerability, bad,We figure the Songhai to be a bad target for attack
+0,190,Iroquois,Korea,Conquerability, bad,We regard the chance of forcefully dominating the Koreans to be bad
+0,190,Songhai,Iroquois,Conquerability,favorable,Our spies acknowledge the Iroquois as a favorable target
+0,190,Songhai,Bogota,Conquerability,soft,We perceive Bogota to be a soft target for attack
+0,190,Inca,Kathmandu,Conquerability,favorable,We estimate Kathmandu to be a favorable target for attack
+0,191,Germany,Morocco,Conquerability,average,We acknowledge the feasibility of conquering the Moroccans to be average
+0,191,Inca,Singapore,Conquerability,favorable,We regard the prospect of taking over Singapore to be favorable
+0,192,Iroquois,Kathmandu,Conquerability,favorable,We perceive Kathmandu to be a favorable target for attack
+0,193,Inca,Iroquois,Conquerability,favorable,We perceive the possibility of forcefully dominating the Iroquois to be favorable
+0,193,Morocco,Inca,Conquerability,impossible,We report the Incas to be an impossible target for attack
+0,193,Songhai,Korea,Conquerability,average,The Songhai consider the prospect of taking over the Koreans to be average
+0,194,Germany,Songhai,Conquerability,average,We imagine the feasibility of conquering the Songhai to be average
+0,194,Iroquois,Inca,Conquerability, bad,We estimate the Incas to be a bad target for attack
+0,194,Korea,Morocco,Conquerability,favorable,Our diplomatic cables look at the Moroccans as a favorable target
+0,195,Songhai,Korea,Conquerability, bad,We consider the probability of conquering the Koreans to be bad
+0,195,Inca,Morocco,Conquerability,average,We believe the Moroccans to be an average target for attack
+0,195,Songhai,Iroquois,Conquerability,favorable,The Songhai imagine the feasibility of forcefully dominating the Iroquois to be favorable
+0,195,Germany,Inca,Conquerability, bad,We figure the Incas to be a bad target for attack
+0,196,Iroquois,Bogota,Conquerability,average,We perceive Bogota to be an average target for attack
+0,197,Germany,Korea,Conquerability,impossible,We esteem the hope of conquering the Koreans to be impossible
+0,197,Songhai,Florence,Conquerability,favorable,We consider Florence to be a favorable target for attack
+0,197,Inca,Ife,Conquerability,average,We perceive Ife to be an average target for attack
+0,198,Korea,Germany,Conquerability,soft,We report the Germans to be a soft target for attack
+0,198,Iroquois,Songhai,Conquerability,average,We figure the Songhai to be an average target for attack
+0,198,Iroquois,Korea,Conquerability, bad,We figure the Koreans to be a bad target for attack
+0,198,Morocco,Kyzyl,Conquerability,average,We acknowledge the possibility of taking over Kyzyl to be average
+0,199,Inca,Germany,Conquerability, bad,We consider the Germans to be a bad target for attack
+0,199,Morocco,Germany,Conquerability, bad,We esteem the likelihood of forcefully dominating the Germans to be bad
+0,199,Inca,Yerevan,Conquerability,average,We consider the possibility of forcefully dominating Yerevan to be average
+0,199,Iroquois,Singapore,Conquerability, bad,We figure Singapore to be a bad target for attack
+0,200,Iroquois,Morocco,Conquerability, bad,We consider the Moroccans to be a bad target for attack
+0,200,Morocco,Florence,Conquerability,favorable,We believe Florence to be a favorable target for attack
+0,200,Korea,Budapest,Conquerability,average,We report Budapest to be an average target for attack
+0,200,Iroquois,Yerevan,Conquerability, bad,We see the possibility of forcefully dominating Yerevan to be bad
+0,202,Songhai,Korea,Conquerability,impossible,We believe the Koreans to be an impossible target for attack
+0,202,Inca,Korea,Conquerability, bad,We regard the hope of forcefully dominating the Koreans to be bad
+0,202,Germany,Songhai,Conquerability,favorable,We consider the prospect of taking over the Songhai to be favorable
+0,202,Korea,Songhai,Conquerability,soft,We imagine the probability of taking over the Songhai to be soft
+0,203,Germany,Inca,Conquerability, bad,We esteem the possibility of taking over the Incas to be bad
+0,203,Songhai,Budapest,Conquerability,impossible,We perceive the chance of forcefully dominating Budapest to be impossible
+0,204,Songhai,Iroquois,Conquerability,average,We esteem the feasibility of forcefully dominating the Iroquois to be average
+0,205,Germany,Morocco,Conquerability,average,We look at the possibility of taking over the Moroccans to be average
+0,206,Inca,Morocco,Conquerability,average,We look at the probability of conquering the Moroccans to be average
+0,206,Morocco,Germany,Conquerability, bad,We consider the Germans to be a bad target for attack
+0,206,Iroquois,Korea,Conquerability, bad,We regard the probability of taking over the Koreans to be bad
+0,206,Inca,Korea,Conquerability, bad,Our spies esteem the Koreans as a bad target
+0,207,Iroquois,Germany,Conquerability, bad,We perceive the prospect of conquering the Germans to be bad
+0,207,Songhai,Kyzyl,Conquerability,average,We consider the possibility of taking over Kyzyl to be average
+0,207,Songhai,Bogota,Conquerability,average,We estimate Bogota to be an average target for attack
+0,208,Morocco,Songhai,Conquerability,favorable,We acknowledge the prospect of taking over the Songhai to be favorable
+0,208,Germany,Korea,Conquerability,impossible,We perceive the Koreans to be an impossible target for attack
+0,208,Iroquois,Songhai,Conquerability, bad,We consider the Songhai to be a bad target for attack
+0,208,Iroquois,Budapest,Conquerability,impossible, We consider Budapest to be an impossible target for attack
+0,210,Inca,Budapest,Conquerability,average,We esteem the hope of taking over Budapest to be average
+0,210,Iroquois,Bogota,Conquerability, bad,We report Bogota to be a bad target for attack
+0,211,Inca,Korea,Conquerability,average,We estimate the Koreans to be an average target for attack
+0,212,Morocco,Iroquois,Conquerability,soft,We regard the Iroquois to be a soft target for attack
+0,212,Korea,Iroquois,Conquerability,soft,We estimate the Iroquois to be a soft target for attack
+0,212,Germany,Budapest,Conquerability,average,We esteem the possibility of conquering Budapest to be average
+0,214,Inca,Songhai,Conquerability,average,We consider the prospect of forcefully dominating the Songhai to be average
+0,215,Morocco,Inca,Conquerability, bad,We perceive the probability of forcefully dominating the Incas to be bad
+0,215,Iroquois,Germany,Conquerability,impossible,We regard the hope of taking over the Germans to be impossible
+0,215,Morocco,Yerevan,Conquerability,average,We consider Yerevan to be an average target for attack
+0,215,Korea,Singapore,Conquerability,favorable,We acknowledge the feasibility of conquering Singapore to be favorable
+0,215,Korea,Budapest,Conquerability,average,We perceive the possibility of conquering Budapest to be average
+0,216,Iroquois,Inca,Conquerability,impossible,We look at the feasibility of taking over the Incas to be impossible
+0,216,Iroquois,Florence,Conquerability, bad,We see the possibility of forcefully dominating Florence to be bad
+0,217,Inca,Morocco,Conquerability,average,We consider the probability of conquering the Moroccans to be average
+0,217,Morocco,Songhai,Conquerability,favorable,We imagine the feasibility of conquering the Songhai to be favorable
+0,217,Korea,Kathmandu,Conquerability,soft,We perceive Kathmandu to be a soft target for attack
+0,218,Morocco,Inca,Conquerability,average,The Moroccans consider the Incas to be an average target for attack
+0,218,Iroquois,Inca,Conquerability,impossible,The Iroquois consider the prospect of conquering the Incas to be impossible
+0,218,Songhai,Kathmandu,Conquerability,favorable,We consider the chance of forcefully dominating Kathmandu to be favorable
+0,218,Morocco,Mombasa,Conquerability,average,We regard the hope of conquering Mombasa to be average
+0,219,Songhai,Morocco,Conquerability, bad,We report the Moroccans to be a bad target for attack
+0,219,Songhai,Germany,Conquerability,average,We acknowledge the chance of forcefully dominating the Germans to be average
+0,219,Germany,Morocco,Conquerability, bad,We believe the Moroccans to be a bad target for attack
+0,219,Germany,Korea,Conquerability,impossible,We report the Koreans to be an impossible target for attack
+0,220,Morocco,Germany,Conquerability, bad,We figure the Germans to be a bad target for attack
+0,220,Morocco,Songhai,Conquerability,average,The Moroccans esteem the chance of taking over the Songhai to be average
+0,221,Inca,Korea,Conquerability,average,The Incas regard the Koreans to be an average target for attack
+0,221,Morocco,Singapore,Conquerability,soft,We esteem the hope of forcefully dominating Singapore to be soft
+0,222,Inca,Songhai,Conquerability, bad,We regard the chance of conquering the Songhai to be bad
+0,222,Morocco,Korea,Conquerability,average,We regard the Koreans to be an average target for attack
+0,222,Korea,Morocco,Conquerability, bad,We imagine the feasibility of forcefully dominating the Moroccans to be bad
+0,222,Iroquois,Korea,Conquerability, bad,We figure the Koreans to be a bad target for attack
+0,222,Korea,Bogota,Conquerability,favorable,We regard Bogota to be a favorable target for attack
+0,223,Songhai,Korea,Conquerability,impossible,We believe the Koreans to be an impossible target for attack
+0,223,Iroquois,Germany,Conquerability,impossible,We esteem the chance of taking over the Germans to be impossible
+0,224,Inca,Panama City,Conquerability,favorable,We figure Panama City to be a favorable target for attack
+0,225,Inca,Iroquois,Conquerability,soft,We look at the prospect of forcefully dominating the Iroquois to be soft
+0,225,Songhai,Kyzyl,Conquerability,average,We regard Kyzyl to be an average target for attack
+0,225,Germany,Panama City,Conquerability,soft,We look at the possibility of taking over Panama City to be soft
+0,226,Morocco,Inca,Conquerability, bad,We figure the Incas to be a bad target for attack
+0,226,Songhai,Singapore,Conquerability,favorable,We consider the prospect of conquering Singapore to be favorable
+0,227,Songhai,Morocco,Conquerability, bad,We report the Moroccans to be a bad target for attack
+0,227,Inca,Korea,Conquerability,average,We figure the Koreans to be an average target for attack
+0,227,Songhai,Florence,Conquerability,favorable,We figure Florence to be a favorable target for attack
+0,228,Iroquois,Songhai,Conquerability,impossible,We consider the feasibility of forcefully dominating the Songhai to be impossible
+0,228,Iroquois,Morocco,Conquerability,impossible,We look at the feasibility of conquering the Moroccans to be impossible
+0,228,Songhai,Panama City,Conquerability,favorable,We regard Panama City to be a favorable target for attack
+0,228,Iroquois,Kyzyl,Conquerability,impossible,We estimate Kyzyl to be an impossible target for attack
+0,229,Inca,Florence,Conquerability,soft,We imagine the feasibility of conquering Florence to be soft
+0,230,Germany,Inca,Conquerability,favorable,The Germans esteem the probability of forcefully dominating the Incas to be favorable
+0,230,Iroquois,Korea,Conquerability, bad,We report the Koreans to be a bad target for attack
+0,230,Morocco,Florence,Conquerability,soft,We estimate Florence to be a soft target for attack
+0,230,Korea,Florence,Conquerability,average,We see the prospect of forcefully dominating Florence to be average
+0,231,Morocco,Korea,Conquerability,soft,We report the Koreans to be a soft target for attack
+0,231,Germany,Iroquois,Conquerability,soft,The Germans consider the Iroquois to be a soft target for attack
+0,231,Iroquois,Germany,Conquerability,impossible,We esteem the likelihood of forcefully dominating the Germans to be impossible
+0,231,Germany,Bogota,Conquerability,soft,We see the possibility of conquering Bogota to be soft
+0,231,Korea,Mombasa,Conquerability,average,We perceive Mombasa to be an average target for attack
+0,232,Inca,Kathmandu,Conquerability,favorable, We regard Kathmandu to be a favorable target for attack
+0,234,Germany,Songhai,Conquerability,soft,We perceive the Songhai to be a soft target for attack
+0,234,Korea,Germany,Conquerability,impossible,We consider the Germans to be an impossible target for attack
+0,234,Iroquois,Kathmandu,Conquerability,impossible,We perceive the hope of forcefully dominating Kathmandu to be impossible
+0,234,Iroquois,Panama City,Conquerability, bad,We estimate Panama City to be a bad target for attack
+0,235,Songhai,Morocco,Conquerability,average,We estimate the Moroccans to be an average target for attack
+0,235,Inca,Korea,Conquerability,average,We regard the Koreans to be an average target for attack
+0,235,Morocco,Songhai,Conquerability,average,We regard the Songhai to be an average target for attack
+0,235,Germany,Inca,Conquerability,soft,We believe the Incas to be a soft target for attack
+0,235,Iroquois,Morocco,Conquerability,impossible,We acknowledge the prospect of taking over the Moroccans to be impossible
+0,235,Morocco,Mombasa,Conquerability,favorable,We perceive the feasibility of forcefully dominating Mombasa to be favorable
+0,236,Morocco,Iroquois,Conquerability,soft,We consider the Iroquois to be a soft target for attack
+0,236,Germany,Iroquois,Conquerability,soft,We believe the Iroquois to be a soft target for attack
+0,236,Germany,Kyzyl,Conquerability,favorable,We regard Kyzyl to be a favorable target for attack
+0,237,Germany,Morocco,Conquerability,average,The Germans perceive the likelihood of forcefully dominating the Moroccans to be average
+0,237,Songhai,Korea,Conquerability,favorable,We believe the Koreans to be a favorable target for attack
+0,238,Iroquois,Songhai,Conquerability,impossible,We estimate the Songhai to be an impossible target for attack
+0,238,Iroquois,Inca,Conquerability,impossible,We figure the Incas to be an impossible target for attack
+0,239,Songhai,Iroquois,Conquerability,average,We see the hope of conquering the Iroquois to be average
+0,239,Inca,Morocco,Conquerability, bad,We regard the Moroccans to be a bad target for attack
+0,240,Morocco,Korea,Conquerability,soft,We believe the Koreans to be a soft target for attack
+0,241,Germany,Korea,Conquerability,soft,We esteem the chance of forcefully dominating the Koreans to be soft
+0,243,Korea,Germany,Conquerability,impossible,We perceive the Germans to be an impossible target for attack
+0,243,Songhai,Budapest,Conquerability,favorable,We believe Budapest to be a favorable target for attack
+0,243,Korea,Panama City,Conquerability,average,We look at the likelihood of taking over Panama City to be average
+0,243,Iroquois,Kyzyl,Conquerability,impossible,We acknowledge the chance of forcefully dominating Kyzyl to be impossible
+0,244,Korea,Songhai,Conquerability, bad,We perceive the Songhai to be a bad target for attack
+0,244,Morocco,Ife,Conquerability,soft,We esteem the prospect of conquering Ife to be soft
+0,245,Songhai,Panama City,Conquerability,favorable,We look at the prospect of taking over Panama City to be favorable
+0,245,Korea,Ife,Conquerability,favorable,We imagine the feasibility of taking over Ife to be favorable
+0,246,Songhai,Iroquois,Conquerability,soft,We see the possibility of taking over the Iroquois to be soft
+0,246,Inca,Songhai,Conquerability, bad,We look at the likelihood of taking over the Songhai to be bad
+0,246,Inca,Florence,Conquerability,favorable,We estimate Florence to be a favorable target for attack
+0,246,Iroquois,Budapest,Conquerability,impossible,We consider Budapest to be an impossible target for attack
+0,247,Germany,Morocco,Conquerability,average,We believe the Moroccans to be an average target for attack
+0,247,Korea,Singapore,Conquerability,favorable,We perceive Singapore to be a favorable target for attack
+0,248,Morocco,Inca,Conquerability,average,We esteem the chance of forcefully dominating the Incas to be average
+0,248,Songhai,Inca,Conquerability,favorable,The Songhai regard the feasibility of forcefully dominating the Incas to be favorable
+0,248,Korea,Iroquois,Conquerability,average,We believe the Iroquois to be an average target for attack
+0,248,Iroquois,Songhai,Conquerability,impossible,We regard the Songhai to be an impossible target for attack
+0,248,Iroquois,Germany,Conquerability, bad,We perceive the hope of conquering the Germans to be bad
+0,248,Iroquois,Germany,Conquerability, bad,Our spies regard the Germans as a bad target
+0,249,Inca,Germany,Conquerability,impossible,We imagine the possibility of forcefully dominating the Germans to be impossible
+0,249,Germany,Morocco,Conquerability,favorable,The Germans consider the Moroccans to be a favorable target for attack
+0,249,Iroquois,Morocco,Conquerability,impossible,We look at the probability of conquering the Moroccans to be impossible
+0,249,Morocco,Germany,Conquerability, bad,We perceive the Germans to be a bad target for attack
+0,249,Morocco,Germany,Conquerability, bad,Our agents regard the Germans as a bad target
+0,249,Korea,Inca,Conquerability,average,The Koreans regard the possibility of conquering the Incas to be average
+0,249,Germany,Iroquois,Conquerability,soft,Our diplomatic cables regard the Iroquois as a soft target
+0,249,Korea,Kathmandu,Conquerability, bad,We report Kathmandu to be a bad target for attack
+0,249,Iroquois,Ife,Conquerability,impossible,We regard Ife to be an impossible target for attack
+0,250,Inca,Budapest,Conquerability, bad,We consider Budapest to be a bad target for attack
+0,251,Inca,Korea,Conquerability,average,The Incas imagine the prospect of taking over the Koreans to be average
+0,251,Korea,Iroquois,Conquerability,average,The Koreans figure the Iroquois to be an average target for attack
+0,251,Songhai,Kathmandu,Conquerability,average,We consider Kathmandu to be an average target for attack
+0,251,Germany,Singapore,Conquerability,soft,We esteem the chance of forcefully dominating Singapore to be soft
+0,252,Germany,Korea,Conquerability,soft,We estimate the Koreans to be a soft target for attack
+0,252,Iroquois,Bogota,Conquerability,impossible,We acknowledge the hope of taking over Bogota to be impossible
+0,252,Iroquois,Yerevan,Conquerability,impossible,We regard the likelihood of conquering Yerevan to be impossible
+0,253,Songhai,Iroquois,Conquerability,soft,We look at the probability of forcefully dominating the Iroquois to be soft
+0,254,Inca,Songhai,Conquerability,average,We consider the Songhai to be an average target for attack
+0,254,Germany,Songhai,Conquerability,soft,We see the prospect of taking over the Songhai to be soft
+0,254,Iroquois,Morocco,Conquerability,impossible,We look at the possibility of forcefully dominating the Moroccans to be impossible
+0,255,Germany,Morocco,Conquerability,soft,We regard the Moroccans to be a soft target for attack
+0,255,Korea,Morocco,Conquerability,average,We estimate the Moroccans to be an average target for attack
+0,255,Iroquois,Inca,Conquerability,impossible,The Iroquois acknowledge the feasibility of conquering the Incas to be impossible
+0,255,Songhai,Germany,Conquerability, bad,Our diplomatic cables imagine the Germans as a bad target
+0,255,Songhai,Korea,Conquerability,favorable,We perceive the Koreans to be a favorable target for attack
+0,255,Korea,Songhai,Conquerability, bad,We regard the feasibility of conquering the Songhai to be bad
+0,256,Morocco,Germany,Conquerability,impossible,We perceive the Germans to be an impossible target for attack
+0,256,Iroquois,Germany,Conquerability, bad,We look at the feasibility of forcefully dominating the Germans to be bad
+0,257,Inca,Iroquois,Conquerability,average,We imagine the chance of forcefully dominating the Iroquois to be average
+0,257,Songhai,Ife,Conquerability,average,We believe Ife to be an average target for attack
+0,257,Germany,Florence,Conquerability,soft,We imagine the hope of forcefully dominating Florence to be soft
+0,257,Germany,Budapest,Conquerability,soft,We perceive the feasibility of conquering Budapest to be soft
+0,259,Songhai,Iroquois,Conquerability,soft,The Songhai perceive the likelihood of conquering the Iroquois to be soft
+0,259,Inca,Germany,Conquerability,impossible,We estimate the Germans to be an impossible target for attack
+0,259,Inca,Korea,Conquerability,average,We perceive the feasibility of forcefully dominating the Koreans to be average
+0,259,Morocco,Inca,Conquerability,average, We believe the Incas to be an average target for attack
+0,259,Inca,Iroquois,Conquerability,soft,The Incas estimate the Iroquois to be a soft target for attack
+0,259,Germany,Inca,Conquerability,soft,We acknowledge the hope of taking over the Incas to be soft
+0,259,Germany,Iroquois,Conquerability,soft,We report the Iroquois to be a soft target for attack
+0,259,Songhai,Singapore,Conquerability,favorable,We imagine the possibility of conquering Singapore to be favorable
+0,260,Songhai,Iroquois,Conquerability,soft,We consider the Iroquois to be a soft target for attack
+0,260,Iroquois,Korea,Conquerability, bad,We regard the Koreans to be a bad target for attack
+0,261,Inca,Morocco,Conquerability, bad,We consider the Moroccans to be a bad target for attack
+0,261,Morocco,Iroquois,Conquerability,soft,We believe the Iroquois to be a soft target for attack
+0,261,Korea,Germany,Conquerability, bad,We see the possibility of forcefully dominating the Germans to be bad
+0,261,Songhai,Mombasa,Conquerability,favorable,We regard Mombasa to be a favorable target for attack
+0,261,Germany,Ife,Conquerability,soft,We perceive Ife to be a soft target for attack
+0,262,Inca,Songhai,Conquerability,average,We acknowledge the chance of forcefully dominating the Songhai to be average
+0,262,Iroquois,Kathmandu,Conquerability,favorable,We estimate Kathmandu to be a favorable target for attack
+0,263,Germany,Korea,Conquerability,soft,We report the Koreans to be a soft target for attack
+0,263,Songhai,Germany,Conquerability, bad,The Songhai esteem the chance of forcefully dominating the Germans to be bad
+0,263,Inca,Florence,Conquerability,soft,We acknowledge the hope of conquering Florence to be soft
+0,263,Korea,Kyzyl,Conquerability,favorable,We perceive the prospect of conquering Kyzyl to be favorable
+0,263,Iroquois,Singapore,Conquerability,average, We figure Singapore to be an average target for attack
+0,264,Germany,Kathmandu,Conquerability,soft,We acknowledge the possibility of forcefully dominating Kathmandu to be soft
+0,265,Inca,Iroquois,Conquerability,soft,We esteem the possibility of taking over the Iroquois to be soft
+0,265,Inca,Yerevan,Conquerability,average,We perceive the hope of conquering Yerevan to be average
+0,265,Morocco,Yerevan,Conquerability,average,We regard Yerevan to be an average target for attack
+0,266,Korea,Songhai,Conquerability,average,We estimate the Songhai to be an average target for attack
+0,266,Korea,Morocco,Conquerability,favorable,We report the Moroccans to be a favorable target for attack
+0,266,Iroquois,Bogota,Conquerability,average,We report Bogota to be an average target for attack
+0,267,Germany,Songhai,Conquerability,favorable,We acknowledge the likelihood of conquering the Songhai to be favorable
+0,267,Songhai,Florence,Conquerability,soft,We figure Florence to be a soft target for attack
+0,268,Iroquois,Songhai,Conquerability,impossible,We perceive the Songhai to be an impossible target for attack
+0,269,Inca,Germany,Conquerability, bad,We report the Germans to be a bad target for attack
+0,269,Germany,Morocco,Conquerability,favorable,We regard the Moroccans to be a favorable target for attack
+0,270,Inca,Korea,Conquerability, bad,The Incas acknowledge the feasibility of conquering the Koreans to be bad
+0,270,Germany,Iroquois,Conquerability,soft,We regard the chance of taking over the Iroquois to be soft
+0,270,Songhai,Singapore,Conquerability,soft,We imagine the possibility of conquering Singapore to be soft
+0,270,Inca,Budapest,Conquerability,average,We perceive the hope of forcefully dominating Budapest to be average
+0,271,Morocco,Songhai,Conquerability, bad,We believe the Songhai to be a bad target for attack
+0,271,Iroquois,Korea,Conquerability,impossible,We consider the possibility of taking over the Koreans to be impossible
+0,273,Songhai,Inca,Conquerability,impossible,We regard the probability of forcefully dominating the Incas to be impossible
+0,274,Songhai,Iroquois,Conquerability,soft,We perceive the Iroquois to be a soft target for attack
+0,275,Iroquois,Songhai,Conquerability, bad,The Iroquois regard the Songhai to be a bad target for attack
+0,275,Inca,Korea,Conquerability, bad,We regard the Koreans to be a bad target for attack
+0,275,Songhai,Morocco,Conquerability, bad,The Songhai imagine the feasibility of conquering the Moroccans to be bad
+0,275,Germany,Yerevan,Conquerability,favorable,We consider the possibility of taking over Yerevan to be favorable
+0,276,Morocco,Iroquois,Conquerability,favorable,We perceive the probability of taking over the Iroquois to be favorable
+0,276,Germany,Songhai,Conquerability,average,We imagine the hope of conquering the Songhai to be average
+0,276,Inca,Germany,Conquerability,average,The Incas imagine the hope of taking over the Germans to be average
+0,276,Inca,Yerevan,Conquerability,favorable,We perceive Yerevan to be a favorable target for attack
+0,276,Germany,Panama City,Conquerability,average,We estimate Panama City to be an average target for attack
+0,277,Inca,Kyzyl,Conquerability,favorable,We imagine the prospect of conquering Kyzyl to be favorable
+0,278,Morocco,Germany,Conquerability,average,We regard the Germans to be an average target for attack
+0,278,Iroquois,Korea,Conquerability,impossible,The Iroquois esteem the chance of taking over the Koreans to be impossible
+0,278,Morocco,Germany,Conquerability,average,Our intelligence officers regard the Germans as an average target
+0,278,Morocco,Korea,Conquerability, bad,Our agents esteem the Koreans as a bad target
+0,278,Germany,Inca,Conquerability,average,Our sources consider the Incas as an average target
+0,278,Germany,Inca,Conquerability,average,We estimate the Incas to be an average target for attack
+0,278,Iroquois,Songhai,Conquerability, bad,The Iroquois figure the Songhai to be a bad target for attack
+0,278,Germany,Morocco,Conquerability,average,Our agents acknowledge the Moroccans as an average target
+0,278,Korea,Inca,Conquerability,favorable,Our agents perceive the Incas as a favorable target
+0,279,Morocco,Germany,Conquerability,average,We regard the likelihood of forcefully dominating the Germans to be average
+0,279,Iroquois,Morocco,Conquerability,impossible,We perceive the Moroccans to be an impossible target for attack
+0,279,Inca,Germany,Conquerability,soft,We report the Germans to be a soft target for attack
+0,279,Songhai,Mombasa,Conquerability,impossible,We see the likelihood of conquering Mombasa to be impossible
+0,279,Morocco,Kathmandu,Conquerability,favorable,We consider Kathmandu to be a favorable target for attack
+0,280,Morocco,Songhai,Conquerability,soft,We consider the possibility of taking over the Songhai to be soft
+0,280,Morocco,Florence,Conquerability,soft,We acknowledge the probability of forcefully dominating Florence to be soft
+0,281,Songhai,Iroquois,Conquerability,favorable,We consider the Iroquois to be a favorable target for attack
+0,281,Korea,Iroquois,Conquerability,soft,The Koreans acknowledge the likelihood of forcefully dominating the Iroquois to be soft
+0,281,Morocco,Inca,Conquerability,average,We see the probability of conquering the Incas to be average
+0,281,Korea,Songhai,Conquerability,soft,We regard the Songhai to be a soft target for attack
+0,282,Songhai,Inca,Conquerability,impossible,We look at the chance of conquering the Incas to be impossible
+0,282,Songhai,Yerevan,Conquerability,average,We estimate Yerevan to be an average target for attack
+0,284,Germany,Songhai,Conquerability,favorable,We look at the hope of conquering the Songhai to be favorable
+0,284,Korea,Iroquois,Conquerability,soft,We believe the Iroquois to be a soft target for attack
+0,285,Germany,Morocco,Conquerability,average,We perceive the Moroccans to be an average target for attack
+0,285,Songhai,Inca,Conquerability, bad,The Songhai believe the Incas to be a bad target for attack
+0,285,Morocco,Yerevan,Conquerability,favorable,We believe Yerevan to be a favorable target for attack
+0,286,Morocco,Iroquois,Conquerability,soft,We acknowledge the feasibility of taking over the Iroquois to be soft
+0,286,Morocco,Mombasa,Conquerability,favorable,We acknowledge the prospect of forcefully dominating Mombasa to be favorable
+0,287,Iroquois,Korea,Conquerability, bad,We regard the likelihood of forcefully dominating the Koreans to be bad
+0,288,Korea,Germany,Conquerability,favorable,We esteem the probability of forcefully dominating the Germans to be favorable
+0,288,Korea,Mombasa,Conquerability,favorable,We imagine the hope of taking over Mombasa to be favorable
+0,289,Iroquois,Ife,Conquerability,impossible,We perceive Ife to be an impossible target for attack
+0,290,Inca,Germany,Conquerability, bad,We figure the Germans to be a bad target for attack
+0,290,Inca,Budapest,Conquerability,average,We consider Budapest to be an average target for attack
+0,291,Inca,Kyzyl,Conquerability,favorable,We report Kyzyl to be a favorable target for attack
+0,292,Songhai,Germany,Conquerability, bad,We perceive the Germans to be a bad target for attack
+0,292,Inca,Korea,Conquerability, bad,We regard the Koreans to be a bad target for attack
+0,292,Korea,Iroquois,Conquerability,soft,The Koreans esteem the possibility of forcefully dominating the Iroquois to be soft
+0,292,Germany,Iroquois,Conquerability,soft,We consider the Iroquois to be a soft target for attack
+0,292,Korea,Inca,Conquerability,favorable,We figure the Incas to be a favorable target for attack
+0,293,Korea,Iroquois,Conquerability,soft,We estimate the Iroquois to be a soft target for attack
+0,293,Iroquois,Inca,Conquerability,impossible,We perceive the Incas to be an impossible target for attack
+0,293,Germany,Songhai,Conquerability,favorable,The Germans perceive the possibility of taking over the Songhai to be favorable
+0,293,Songhai,Budapest,Conquerability,average,We report Budapest to be an average target for attack
+0,293,Germany,Panama City,Conquerability,favorable,We figure Panama City to be a favorable target for attack
+0,293,Germany,Kyzyl,Conquerability,soft,We regard the feasibility of conquering Kyzyl to be soft
+0,294,Songhai,Germany,Conquerability, bad,The Songhai regard the feasibility of conquering the Germans to be bad
+0,294,Germany,Songhai,Conquerability,favorable,The Germans figure the Songhai to be a favorable target for attack
+0,294,Korea,Bogota,Conquerability,soft,We figure Bogota to be a soft target for attack
+0,295,Morocco,Korea,Conquerability, bad,We regard the probability of forcefully dominating the Koreans to be bad
+0,295,Iroquois,Korea,Conquerability, bad,We imagine the feasibility of conquering the Koreans to be bad
+0,295,Songhai,Kathmandu,Conquerability,favorable,We believe Kathmandu to be a favorable target for attack
+0,295,Korea,Singapore,Conquerability,soft,We estimate Singapore to be a soft target for attack
+0,296,Germany,Korea,Conquerability,impossible,We consider the Koreans to be an impossible target for attack
+0,296,Iroquois,Korea,Conquerability,impossible,Our sources esteem the Koreans as an impossible target
+0,296,Iroquois,Korea,Conquerability,impossible,We consider the likelihood of conquering the Koreans to be impossible
+0,297,Korea,Germany,Conquerability,favorable,We regard the Germans to be a favorable target for attack
+0,297,Songhai,Mombasa,Conquerability, bad,We estimate Mombasa to be a bad target for attack
+0,297,Inca,Florence,Conquerability,soft,We regard Florence to be a soft target for attack
+0,297,Korea,Panama City,Conquerability,favorable,We believe Panama City to be a favorable target for attack
+0,298,Morocco,Songhai,Conquerability,soft,We consider the Songhai to be a soft target for attack
+0,298,Korea,Morocco,Conquerability,soft,We regard the likelihood of conquering the Moroccans to be soft
+0,298,Inca,Yerevan,Conquerability,average,We esteem the feasibility of forcefully dominating Yerevan to be average
+0,298,Morocco,Kyzyl,Conquerability,favorable,We regard the hope of taking over Kyzyl to be favorable
+0,299,Songhai,Yerevan,Conquerability,favorable,We imagine the prospect of taking over Yerevan to be favorable
+0,300,Inca,Germany,Conquerability,impossible,We estimate the Germans to be an impossible target for attack
+0,300,Iroquois,Inca,Conquerability, bad,The Iroquois esteem the possibility of conquering the Incas to be bad
+0,300,Iroquois,Morocco,Conquerability,impossible,We acknowledge the hope of forcefully dominating the Moroccans to be impossible
+0,300,Inca,Korea,Conquerability, bad,We regard the Koreans to be a bad target for attack
+0,301,Korea,Morocco,Conquerability,favorable,We figure the Moroccans to be a favorable target for attack
+0,302,Inca,Songhai,Conquerability,impossible,We acknowledge the possibility of taking over the Songhai to be impossible
+0,302,Morocco,Iroquois,Conquerability,soft,We acknowledge the chance of taking over the Iroquois to be soft
+0,302,Inca,Germany,Conquerability, bad,We regard the Germans to be a bad target for attack
+0,302,Inca,Kathmandu,Conquerability, bad,We estimate Kathmandu to be a bad target for attack
+0,303,Germany,Korea,Conquerability,average,The Germans perceive the Koreans to be an average target for attack
+0,303,Korea,Germany,Conquerability,average,The Koreans look at the probability of conquering the Germans to be average
+0,303,Korea,Iroquois,Conquerability,soft,We perceive the chance of taking over the Iroquois to be soft
+0,303,Korea,Yerevan,Conquerability,soft,We believe Yerevan to be a soft target for attack
+0,304,Iroquois,Germany,Conquerability,impossible,We report the Germans to be an impossible target for attack
+0,304,Iroquois,Korea,Conquerability, bad,We imagine the probability of taking over the Koreans to be bad
+0,304,Inca,Germany,Conquerability, bad,The Incas esteem the feasibility of forcefully dominating the Germans to be bad
+0,304,Morocco,Ife,Conquerability,average,We figure Ife to be an average target for attack
+0,305,Inca,Morocco,Conquerability, bad,We regard the chance of taking over the Moroccans to be bad
+0,305,Inca,Kyzyl,Conquerability,average,We regard the likelihood of forcefully dominating Kyzyl to be average
+0,305,Morocco,Yerevan,Conquerability,favorable,We believe Yerevan to be a favorable target for attack
+0,305,Germany,Yerevan,Conquerability,soft,We regard the possibility of taking over Yerevan to be soft
+0,305,Korea,Budapest,Conquerability,favorable,We believe Budapest to be a favorable target for attack
+0,307,Iroquois,Morocco,Conquerability,impossible,We esteem the probability of forcefully dominating the Moroccans to be impossible
+0,307,Morocco,Panama City,Conquerability,favorable,We estimate Panama City to be a favorable target for attack
+0,308,Morocco,Germany,Conquerability, bad,We believe the Germans to be a bad target for attack
+0,309,Songhai,Inca,Conquerability, bad,We estimate the Incas to be a bad target for attack
+0,309,Korea,Songhai,Conquerability,favorable,We consider the Songhai to be a favorable target for attack
+0,309,Iroquois,Songhai,Conquerability,impossible,We acknowledge the feasibility of conquering the Songhai to be impossible
+0,310,Songhai,Germany,Conquerability, bad,We regard the Germans to be a bad target for attack
+0,310,Inca,Songhai,Conquerability,average,We believe the Songhai to be an average target for attack
+0,311,Germany,Singapore,Conquerability,soft,We regard the likelihood of conquering Singapore to be soft
+0,312,Korea,Inca,Conquerability,soft,We believe the Incas to be a soft target for attack
+0,312,Korea,Morocco,Conquerability,average,Our spies esteem the Moroccans as an average target
+0,312,Korea,Germany,Conquerability,average,Our intelligence officers look at the Germans as an average target
+0,312,Inca,Singapore,Conquerability,soft,We report Singapore to be a soft target for attack
+0,312,Germany,Ife,Conquerability,favorable,We look at the possibility of forcefully dominating Ife to be favorable
+0,312,Korea,Bogota,Conquerability,soft,We regard Bogota to be a soft target for attack
+0,313,Inca,Korea,Conquerability,average,Our intelligence officers consider the Koreans as an average target
+0,313,Inca,Korea,Conquerability,average,We believe the Koreans to be an average target for attack
+0,313,Morocco,Korea,Conquerability, bad,We look at the probability of conquering the Koreans to be bad
+0,313,Germany,Korea,Conquerability,soft,We consider the possibility of conquering the Koreans to be soft
+0,313,Songhai,Panama City,Conquerability, bad,We perceive Panama City to be a bad target for attack
+0,313,Korea,Kathmandu,Conquerability,soft,We regard the hope of conquering Kathmandu to be soft
+0,314,Songhai,Singapore,Conquerability,soft,We report Singapore to be a soft target for attack
+0,315,Songhai,Mombasa,Conquerability,average,We imagine the probability of taking over Mombasa to be average
+0,315,Germany,Yerevan,Conquerability,soft,We consider Yerevan to be a soft target for attack
+0,315,Korea,Panama City,Conquerability,soft,We see the feasibility of taking over Panama City to be soft
+0,315,Korea,Yerevan,Conquerability,soft,We estimate Yerevan to be a soft target for attack
+0,316,Songhai,Korea,Conquerability,impossible,We report the Koreans to be an impossible target for attack
+0,316,Inca,Morocco,Conquerability,average,We see the probability of conquering the Moroccans to be average
+0,316,Germany,Songhai,Conquerability,soft,We report the Songhai to be a soft target for attack
+0,317,Germany,Mombasa,Conquerability,soft,We believe Mombasa to be a soft target for attack
+0,317,Germany,Budapest,Conquerability,favorable,We perceive the chance of taking over Budapest to be favorable
+0,318,Germany,Songhai,Conquerability,soft,The Germans imagine the hope of conquering the Songhai to be soft
+0,319,Germany,Korea,Conquerability,average,We report the Koreans to be an average target for attack
+0,319,Morocco,Ife,Conquerability,average,We look at the hope of conquering Ife to be average
+0,320,Morocco,Mombasa,Conquerability,favorable,We imagine the probability of forcefully dominating Mombasa to be favorable
+0,321,Korea,Germany,Conquerability,average,The Koreans perceive the hope of forcefully dominating the Germans to be average
+0,321,Germany,Morocco,Conquerability,favorable,We perceive the Moroccans to be a favorable target for attack
+0,322,Inca,Bogota,Conquerability,favorable,We look at the prospect of conquering Bogota to be favorable
+0,323,Korea,Inca,Conquerability,average,We estimate the Incas to be an average target for attack
+0,323,Morocco,Songhai,Conquerability,favorable,We consider the Songhai to be a favorable target for attack
+0,323,Germany,Songhai,Conquerability,soft,We imagine the prospect of forcefully dominating the Songhai to be soft
+0,323,Germany,Songhai,Conquerability,soft,Our diplomatic cables perceive the Songhai as a soft target
+0,323,Inca,Ife,Conquerability,average,We regard the prospect of forcefully dominating Ife to be average
+0,324,Songhai,Morocco,Conquerability, bad,We consider the Moroccans to be a bad target for attack
+0,324,Morocco,Korea,Conquerability,average,We esteem the prospect of conquering the Koreans to be average
+0,324,Inca,Morocco,Conquerability,average,The Incas imagine the chance of taking over the Moroccans to be average
+0,324,Inca,Panama City,Conquerability,favorable,We believe Panama City to be a favorable target for attack
+0,325,Morocco,Inca,Conquerability, bad,We esteem the feasibility of forcefully dominating the Incas to be bad
+0,325,Germany,Korea,Conquerability,average,The Germans report the Koreans to be an average target for attack
+0,325,Germany,Songhai,Conquerability,soft,We look at the feasibility of conquering the Songhai to be soft
+0,325,Germany,Inca,Conquerability,favorable,We believe the Incas to be a favorable target for attack
+0,325,Germany,Yerevan,Conquerability,favorable,We regard Yerevan to be a favorable target for attack
+0,326,Songhai,Bogota,Conquerability,average,We imagine the probability of forcefully dominating Bogota to be average
+0,326,Morocco,Singapore,Conquerability,soft,We figure Singapore to be a soft target for attack
+0,327,Inca,Morocco,Conquerability,average,We perceive the Moroccans to be an average target for attack
+0,327,Korea,Singapore,Conquerability,soft,We report Singapore to be a soft target for attack
+0,328,Germany,Morocco,Conquerability,favorable,We consider the Moroccans to be a favorable target for attack
+0,328,Morocco,Bogota,Conquerability,favorable,We perceive Bogota to be a favorable target for attack
+0,329,Germany,Ife,Conquerability,favorable,We perceive Ife to be a favorable target for attack
+0,330,Songhai,Korea,Conquerability,impossible,We consider the chance of taking over the Koreans to be impossible
+0,330,Morocco,Florence,Conquerability,soft,We estimate Florence to be a soft target for attack
+0,331,Inca,Germany,Conquerability,average,We consider the likelihood of forcefully dominating the Germans to be average
+0,332,Songhai,Morocco,Conquerability,average,We consider the Moroccans to be an average target for attack
+0,332,Germany,Korea,Conquerability,average,The Germans regard the Koreans to be an average target for attack
+0,332,Songhai,Inca,Conquerability, bad,We estimate the Incas to be a bad target for attack
+0,332,Inca,Songhai,Conquerability,favorable,We report the Songhai to be a favorable target for attack
+0,333,Morocco,Korea,Conquerability,average,We see the possibility of forcefully dominating the Koreans to be average
+0,333,Korea,Inca,Conquerability, bad,We report the Incas to be a bad target for attack
+0,333,Songhai,Mombasa,Conquerability,soft,We regard the chance of conquering Mombasa to be soft
+0,333,Songhai,Kyzyl,Conquerability,favorable,We consider Kyzyl to be a favorable target for attack
+0,334,Inca,Panama City,Conquerability,soft,We estimate Panama City to be a soft target for attack
+0,334,Morocco,Ife,Conquerability,favorable,We figure Ife to be a favorable target for attack
+0,335,Inca,Korea,Conquerability,favorable,We believe the Koreans to be a favorable target for attack
+0,335,Germany,Singapore,Conquerability,soft,We report Singapore to be a soft target for attack
+0,335,Germany,Yerevan,Conquerability,favorable,We acknowledge the prospect of conquering Yerevan to be favorable
+0,335,Korea,Florence,Conquerability,soft, We perceive Florence to be a soft target for attack
+0,336,Songhai,Inca,Conquerability, bad,The Songhai consider the probability of taking over the Incas to be bad
+0,337,Korea,Songhai,Conquerability,average,We imagine the feasibility of conquering the Songhai to be average
+0,337,Morocco,Mombasa,Conquerability,soft,We figure Mombasa to be a soft target for attack
+0,338,Korea,Morocco,Conquerability,average,The Koreans imagine the likelihood of forcefully dominating the Moroccans to be average
+0,338,Morocco,Kyzyl,Conquerability,favorable,We consider the likelihood of taking over Kyzyl to be favorable
+0,340,Songhai,Morocco,Conquerability,average,We consider the Moroccans to be an average target for attack
+0,340,Morocco,Bogota,Conquerability,favorable,We report Bogota to be a favorable target for attack
+0,340,Germany,Kathmandu,Conquerability,soft,We believe Kathmandu to be a soft target for attack
+0,340,Korea,Ife,Conquerability,favorable,We believe Ife to be a favorable target for attack
+0,341,Inca,Germany,Conquerability,favorable,We see the prospect of conquering the Germans to be favorable
+0,341,Germany,Songhai,Conquerability,average,We figure the Songhai to be an average target for attack
+0,341,Germany,Inca,Conquerability,impossible,We see the prospect of forcefully dominating the Incas to be impossible
+0,341,Inca,Ife,Conquerability,soft,We estimate Ife to be a soft target for attack
+0,342,Songhai,Inca,Conquerability,impossible,The Songhai look at the feasibility of taking over the Incas to be impossible
+0,342,Germany,Korea,Conquerability,favorable,We report the Koreans to be a favorable target for attack
+0,343,Inca,Songhai,Conquerability,soft,We regard the possibility of conquering the Songhai to be soft
+0,343,Morocco,Korea,Conquerability,average,The Moroccans estimate the Koreans to be an average target for attack
+0,343,Korea,Inca,Conquerability,impossible,We perceive the feasibility of conquering the Incas to be impossible
+0,343,Morocco,Germany,Conquerability, bad,The Moroccans esteem the likelihood of taking over the Germans to be bad
+0,343,Germany,Mombasa,Conquerability,soft,We see the prospect of conquering Mombasa to be soft
+0,344,Songhai,Korea,Conquerability, bad, We perceive the possibility of taking over the Koreans to be bad
+0,344,Morocco,Songhai,Conquerability,average,We look at the possibility of conquering the Songhai to be average
+0,344,Korea,Morocco,Conquerability,soft,We regard the Moroccans to be a soft target for attack
+0,344,Korea,Germany,Conquerability, bad,We look at the likelihood of forcefully dominating the Germans to be bad
+0,345,Inca,Korea,Conquerability,favorable,We regard the Koreans to be a favorable target for attack
+0,345,Inca,Korea,Conquerability,favorable,Our intelligence officers acknowledge the Koreans as a favorable target
+0,345,Morocco,Korea,Conquerability,average,We believe the Koreans to be an average target for attack
+0,345,Germany,Korea,Conquerability,soft,We regard the Koreans to be a soft target for attack
+0,345,Germany,Songhai,Conquerability,soft,We perceive the Songhai to be a soft target for attack
+0,345,Inca,Korea,Conquerability,favorable,The Incas see the likelihood of taking over the Koreans to be favorable
+0,345,Germany,Yerevan,Conquerability,average,We consider Yerevan to be an average target for attack
+0,345,Korea,Mombasa,Conquerability,soft,We figure Mombasa to be a soft target for attack
+0,347,Inca,Morocco,Conquerability,soft,The Incas imagine the likelihood of conquering the Moroccans to be soft
+0,347,Morocco,Inca,Conquerability,impossible,We esteem the feasibility of taking over the Incas to be impossible
+0,348,Inca,Germany,Conquerability,favorable,The Incas esteem the chance of taking over the Germans to be favorable
+0,348,Inca,Florence,Conquerability,soft,We report Florence to be a soft target for attack
+0,349,Songhai,Morocco,Conquerability, bad,We consider the prospect of taking over the Moroccans to be bad
+0,349,Germany,Morocco,Conquerability,soft,We figure the Moroccans to be a soft target for attack
+0,350,Morocco,Germany,Conquerability, bad,We estimate the Germans to be a bad target for attack
+0,350,Germany,Songhai,Conquerability,favorable,We consider the probability of conquering the Songhai to be favorable
+0,350,Songhai,Yerevan,Conquerability, bad,We perceive Yerevan to be a bad target for attack
+0,350,Inca,Mombasa,Conquerability,soft,We regard the possibility of forcefully dominating Mombasa to be soft
+0,350,Inca,Budapest,Conquerability,average,We look at the chance of forcefully dominating Budapest to be average
+0,350,Morocco,Florence,Conquerability,soft,We estimate Florence to be a soft target for attack
+0,351,Songhai,Korea,Conquerability,impossible,We estimate the Koreans to be an impossible target for attack
+0,351,Songhai,Mombasa,Conquerability,soft,We report Mombasa to be a soft target for attack
+0,351,Korea,Panama City,Conquerability,average,We regard Panama City to be an average target for attack
+0,352,Morocco,Panama City,Conquerability, bad,We perceive Panama City to be a bad target for attack
+0,353,Korea,Germany,Conquerability,average,We consider the Germans to be an average target for attack
+0,353,Songhai,Inca,Conquerability, bad,We figure the Incas to be a bad target for attack
+0,353,Inca,Songhai,Conquerability,favorable,We see the hope of taking over the Songhai to be favorable
+0,353,Songhai,Budapest,Conquerability,impossible,We report Budapest to be an impossible target for attack
+0,353,Inca,Yerevan,Conquerability,soft,We figure Yerevan to be a soft target for attack
+0,354,Morocco,Mombasa,Conquerability,favorable,We perceive Mombasa to be a favorable target for attack
+0,355,Germany,Yerevan,Conquerability,favorable,We regard the prospect of conquering Yerevan to be favorable
+0,356,Songhai,Inca,Conquerability,impossible,We report the Incas to be an impossible target for attack
+0,356,Germany,Morocco,Conquerability,favorable,We believe the Moroccans to be a favorable target for attack
+0,356,Germany,Mombasa,Conquerability,soft,We consider Mombasa to be a soft target for attack
+0,357,Songhai,Korea,Conquerability,impossible,The Songhai perceive the feasibility of conquering the Koreans to be impossible
+0,357,Songhai,Florence,Conquerability,soft,We report Florence to be a soft target for attack
+0,358,Germany,Songhai,Conquerability,soft,We regard the Songhai to be a soft target for attack
+0,359,Korea,Morocco,Conquerability,favorable,We acknowledge the feasibility of taking over the Moroccans to be favorable
+0,359,Germany,Singapore,Conquerability,soft,We esteem the chance of taking over Singapore to be soft
+0,359,Korea,Singapore,Conquerability,soft,We regard Singapore to be a soft target for attack
+0,360,Inca,Songhai,Conquerability,soft,We esteem the prospect of conquering the Songhai to be soft
+0,361,Songhai,Kathmandu,Conquerability,average,We believe Kathmandu to be an average target for attack
+0,363,Germany,Morocco,Conquerability,soft,We look at the prospect of forcefully dominating the Moroccans to be soft
+0,363,Korea,Yerevan,Conquerability,favorable,We look at the hope of forcefully dominating Yerevan to be favorable
+0,364,Morocco,Germany,Conquerability,average,We estimate the Germans to be an average target for attack
+0,364,Korea,Inca,Conquerability,average,We see the hope of forcefully dominating the Incas to be average
+0,364,Korea,Mombasa,Conquerability,soft,We estimate Mombasa to be a soft target for attack
+0,365,Songhai,Korea,Conquerability,impossible,We regard the Koreans to be an impossible target for attack
+0,365,Germany,Inca,Conquerability,average,We report the Incas to be an average target for attack
+0,365,Inca,Songhai,Conquerability,soft,The Incas see the chance of forcefully dominating the Songhai to be soft
+0,365,Germany,Korea,Conquerability,soft,We consider the chance of forcefully dominating the Koreans to be soft
+0,365,Inca,Germany,Conquerability,favorable,The Incas regard the Germans to be a favorable target for attack
+0,365,Korea,Budapest,Conquerability,average,We believe Budapest to be an average target for attack
+0,366,Germany,Songhai,Conquerability,soft,We esteem the probability of conquering the Songhai to be soft
+0,366,Germany,Korea,Conquerability,favorable,We imagine the prospect of taking over the Koreans to be favorable
+0,366,Korea,Inca,Conquerability, bad,We perceive the Incas to be a bad target for attack
+0,366,Korea,Germany,Conquerability, bad,We acknowledge the possibility of taking over the Germans to be bad
+0,368,Inca,Songhai,Conquerability,average,We regard the Songhai to be an average target for attack
+0,369,Inca,Korea,Conquerability,favorable,We esteem the probability of forcefully dominating the Koreans to be favorable
+0,369,Morocco,Inca,Conquerability,impossible,We report the Incas to be an impossible target for attack
+0,369,Inca,Mombasa,Conquerability,soft,We perceive the likelihood of taking over Mombasa to be soft
+0,369,Korea,Panama City,Conquerability,favorable,We consider Panama City to be a favorable target for attack
+0,370,Germany,Morocco,Conquerability,soft,We figure the Moroccans to be a soft target for attack
+0,370,Morocco,Florence,Conquerability,favorable,We consider the hope of taking over Florence to be favorable
+0,371,Korea,Songhai,Conquerability,favorable,The Koreans regard the hope of conquering the Songhai to be favorable
+0,372,Korea,Songhai,Conquerability,favorable,We figure the Songhai to be a favorable target for attack
+0,373,Korea,Morocco,Conquerability,average,The Koreans figure the Moroccans to be an average target for attack
+0,373,Germany,Inca,Conquerability, bad,We perceive the likelihood of forcefully dominating the Incas to be bad
+0,374,Songhai,Inca,Conquerability,impossible,We acknowledge the chance of conquering the Incas to be impossible
+0,374,Songhai,Germany,Conquerability,average,We regard the Germans to be an average target for attack
+0,374,Germany,Songhai,Conquerability,favorable,We imagine the possibility of forcefully dominating the Songhai to be favorable
+0,375,Korea,Inca,Conquerability, bad,We figure the Incas to be a bad target for attack
+0,375,Inca,Kyzyl,Conquerability,soft, We report Kyzyl to be a soft target for attack
+0,377,Inca,Korea,Conquerability,favorable,We believe the Koreans to be a favorable target for attack
+0,377,Korea,Kathmandu,Conquerability,average,We regard Kathmandu to be an average target for attack
+0,378,Korea,Morocco,Conquerability,soft,We acknowledge the likelihood of forcefully dominating the Moroccans to be soft
+0,378,Korea,Morocco,Conquerability,soft,Our agents acknowledge the Moroccans as a soft target
+0,378,Morocco,Kathmandu,Conquerability,average,We esteem the likelihood of conquering Kathmandu to be average
+0,379,Songhai,Korea,Conquerability,average,We perceive the Koreans to be an average target for attack
+0,379,Morocco,Korea,Conquerability,soft,We perceive the Koreans to be a soft target for attack
+0,379,Morocco,Ife,Conquerability,favorable,We imagine the feasibility of forcefully dominating Ife to be favorable
+0,380,Songhai,Morocco,Conquerability, bad,We report the Moroccans to be a bad target for attack
+0,380,Morocco,Songhai,Conquerability,soft,We imagine the chance of taking over the Songhai to be soft
+0,380,Morocco,Songhai,Conquerability,soft,Our intelligence officers see the Songhai as a soft target
+0,380,Morocco,Florence,Conquerability,favorable,We consider Florence to be a favorable target for attack
+0,380,Korea,Budapest,Conquerability,impossible,We acknowledge the chance of conquering Budapest to be impossible
+0,381,Songhai,Panama City,Conquerability, bad,We regard the prospect of conquering Panama City to be bad
+0,382,Inca,Germany,Conquerability,favorable,We look at the possibility of conquering the Germans to be favorable
+0,382,Germany,Inca,Conquerability,average,We consider the Incas to be an average target for attack
+0,382,Korea,Morocco,Conquerability,soft,We believe the Moroccans to be a soft target for attack
+0,383,Germany,Singapore,Conquerability,favorable,We figure Singapore to be a favorable target for attack
+0,384,Korea,Bogota,Conquerability,favorable,We perceive the chance of taking over Bogota to be favorable
+0,385,Inca,Korea,Conquerability,favorable,We imagine the possibility of forcefully dominating the Koreans to be favorable
+0,386,Songhai,Korea,Conquerability, bad,We regard the Koreans to be a bad target for attack
+0,386,Inca,Korea,Conquerability,favorable,We regard the Koreans to be a favorable target for attack
+0,386,Songhai,Germany,Conquerability, bad,The Songhai perceive the Germans to be a bad target for attack
+0,386,Korea,Inca,Conquerability,average,We see the probability of forcefully dominating the Incas to be average
+0,388,Germany,Korea,Conquerability,soft,We figure the Koreans to be a soft target for attack
+0,390,Germany,Songhai,Conquerability,soft,We see the chance of conquering the Songhai to be soft
+0,390,Germany,Inca,Conquerability, bad,We imagine the possibility of forcefully dominating the Incas to be bad
+0,390,Korea,Germany,Conquerability,favorable,We consider the hope of forcefully dominating the Germans to be favorable
+0,391,Morocco,Inca,Conquerability,impossible,We regard the feasibility of forcefully dominating the Incas to be impossible
+0,391,Germany,Morocco,Conquerability,soft,We figure the Moroccans to be a soft target for attack
+0,391,Songhai,Singapore,Conquerability,average,We esteem the chance of conquering Singapore to be average
+0,392,Songhai,Germany,Conquerability,soft,We see the hope of forcefully dominating the Germans to be soft
+0,392,Inca,Germany,Conquerability,favorable,We report the Germans to be a favorable target for attack
+0,392,Morocco,Germany,Conquerability,soft,We regard the hope of forcefully dominating the Germans to be soft
+0,392,Songhai,Ife,Conquerability,favorable,We believe Ife to be a favorable target for attack
+0,393,Songhai,Korea,Conquerability, bad,We figure the Koreans to be a bad target for attack
+0,393,Korea,Songhai,Conquerability,favorable,We believe the Songhai to be a favorable target for attack
+0,394,Inca,Korea,Conquerability,favorable,We regard the possibility of conquering the Koreans to be favorable
+0,395,Germany,Panama City,Conquerability, bad,We perceive Panama City to be a bad target for attack
+0,397,Germany,Ife,Conquerability,average,We regard the hope of conquering Ife to be average
+0,398,Morocco,Korea,Conquerability, bad,The Moroccans figure the Koreans to be a bad target for attack
+0,398,Germany,Morocco,Conquerability,soft, We perceive the hope of taking over the Moroccans to be soft
+0,399,Morocco,Songhai,Conquerability,soft,We believe the Songhai to be a soft target for attack
+0,399,Korea,Songhai,Conquerability,favorable,The Koreans imagine the feasibility of forcefully dominating the Songhai to be favorable
+0,399,Germany,Korea,Conquerability,average,We consider the Koreans to be an average target for attack
+0,399,Songhai,Korea,Conquerability, bad,The Songhai see the likelihood of conquering the Koreans to be bad
+0,399,Korea,Germany,Conquerability,favorable,We consider the hope of conquering the Germans to be favorable
+0,400,Songhai,Korea,Conquerability, bad,We esteem the likelihood of forcefully dominating the Koreans to be bad
+0,400,Inca,Kathmandu,Conquerability,soft,We consider Kathmandu to be a soft target for attack
+0,401,Songhai,Morocco,Conquerability, bad,We esteem the possibility of conquering the Moroccans to be bad
+0,401,Morocco,Singapore,Conquerability,favorable,We report Singapore to be a favorable target for attack
+0,401,Germany,Bogota,Conquerability,favorable,We estimate Bogota to be a favorable target for attack
+0,402,Inca,Germany,Conquerability,favorable,We see the chance of conquering the Germans to be favorable
+0,402,Inca,Korea,Conquerability,favorable,We consider the chance of forcefully dominating the Koreans to be favorable
+0,403,Songhai,Budapest,Conquerability,impossible,We acknowledge the chance of conquering Budapest to be impossible
+0,403,Inca,Kyzyl,Conquerability,favorable,We regard Kyzyl to be a favorable target for attack
+0,404,Korea,Morocco,Conquerability,soft,We figure the Moroccans to be a soft target for attack
+0,405,Songhai,Kyzyl,Conquerability, bad,We consider the possibility of conquering Kyzyl to be bad
+0,406,Korea,Inca,Conquerability,average,We see the possibility of forcefully dominating the Incas to be average
+0,407,Germany,Inca,Conquerability,average,We figure the Incas to be an average target for attack
+0,408,Inca,Korea,Conquerability,favorable,The Incas believe the Koreans to be a favorable target for attack
+0,409,Morocco,Germany,Conquerability,soft,We see the possibility of forcefully dominating the Germans to be soft
+0,409,Germany,Morocco,Conquerability,soft,We believe the Moroccans to be a soft target for attack
+0,410,Germany,Korea,Conquerability,average,We regard the Koreans to be an average target for attack
+0,410,Korea,Budapest,Conquerability, bad,We figure Budapest to be a bad target for attack
+0,411,Morocco,Budapest,Conquerability, bad,We see the probability of forcefully dominating Budapest to be bad
+0,412,Inca,Germany,Conquerability,favorable,Our sources acknowledge the Germans as a favorable target
+0,412,Inca,Germany,Conquerability,favorable,We consider the prospect of taking over the Germans to be favorable
+0,412,Morocco,Bogota,Conquerability,soft,We acknowledge the possibility of forcefully dominating Bogota to be soft
+0,413,Germany,Morocco,Conquerability,soft,We figure the Moroccans to be a soft target for attack
+0,414,Inca,Korea,Conquerability,average,The Incas consider the possibility of conquering the Koreans to be average
+0,414,Morocco,Germany,Conquerability,soft,We esteem the hope of forcefully dominating the Germans to be soft
+0,414,Inca,Panama City,Conquerability,favorable,We report Panama City to be a favorable target for attack
+0,415,Korea,Morocco,Conquerability,soft,We figure the Moroccans to be a soft target for attack
+0,415,Germany,Morocco,Conquerability,average,The Germans report the Moroccans to be an average target for attack
+0,416,Inca,Songhai,Conquerability,average,We report the Songhai to be an average target for attack
+0,416,Germany,Inca,Conquerability,average,We regard the Incas to be an average target for attack
+0,417,Korea,Inca,Conquerability,average,We acknowledge the possibility of taking over the Incas to be average
+0,417,Korea,Germany,Conquerability,average,We imagine the likelihood of taking over the Germans to be average
+0,417,Songhai,Florence,Conquerability,average,We regard the probability of conquering Florence to be average
+0,418,Morocco,Songhai,Conquerability,average,We imagine the prospect of taking over the Songhai to be average
+0,419,Morocco,Germany,Conquerability,average,The Moroccans figure the Germans to be an average target for attack
+0,419,Songhai,Germany,Conquerability, bad,We consider the Germans to be a bad target for attack
+0,419,Germany,Singapore,Conquerability,soft,We consider the hope of taking over Singapore to be soft
+0,420,Morocco,Florence,Conquerability,soft,We perceive Florence to be a soft target for attack
+0,421,Songhai,Korea,Conquerability,impossible,We estimate the Koreans to be an impossible target for attack
+0,421,Morocco,Germany,Conquerability,soft,We imagine the feasibility of forcefully dominating the Germans to be soft
+0,421,Germany,Korea,Conquerability,soft,We consider the Koreans to be a soft target for attack
+0,421,Germany,Mombasa,Conquerability,average,We look at the feasibility of conquering Mombasa to be average
+0,422,Germany,Songhai,Conquerability,favorable,We perceive the Songhai to be a favorable target for attack
+0,422,Songhai,Ife,Conquerability,impossible,We believe Ife to be an impossible target for attack
+0,422,Morocco,Kathmandu,Conquerability,favorable,We imagine the hope of conquering Kathmandu to be favorable
+0,423,Inca,Germany,Conquerability,soft,We regard the Germans to be a soft target for attack
+0,423,Korea,Panama City,Conquerability,favorable,We esteem the feasibility of taking over Panama City to be favorable
+0,424,Inca,Songhai,Conquerability,average,We consider the Songhai to be an average target for attack
+0,424,Songhai,Inca,Conquerability,impossible,The Songhai acknowledge the hope of taking over the Incas to be impossible
+0,424,Morocco,Bogota,Conquerability,soft,We report Bogota to be a soft target for attack
+0,425,Korea,Florence,Conquerability,soft,We imagine the possibility of taking over Florence to be soft
+0,426,Inca,Morocco,Conquerability, bad,We report the Moroccans to be a bad target for attack
+0,426,Korea,Germany,Conquerability,average,We report the Germans to be an average target for attack
+0,427,Inca,Korea,Conquerability,soft,We estimate the Koreans to be a soft target for attack
+0,427,Morocco,Panama City,Conquerability,favorable,We esteem the prospect of taking over Panama City to be favorable
+0,428,Morocco,Germany,Conquerability,average,We regard the possibility of taking over the Germans to be average
+0,428,Songhai,Bogota,Conquerability,favorable,We perceive Bogota to be a favorable target for attack
+0,430,Germany,Songhai,Conquerability,favorable,We esteem the chance of taking over the Songhai to be favorable
+0,430,Morocco,Germany,Conquerability,average,We regard the Germans to be an average target for attack
+0,431,Inca,Ife,Conquerability,average,We see the probability of taking over Ife to be average
+0,432,Germany,Inca,Conquerability,average,We report the Incas to be an average target for attack
+0,432,Korea,Morocco,Conquerability,soft,We consider the chance of conquering the Moroccans to be soft
+0,433,Inca,Germany,Conquerability,soft,We regard the likelihood of taking over the Germans to be soft
+0,433,Inca,Korea,Conquerability,average,We imagine the possibility of conquering the Koreans to be average
+0,433,Inca,Korea,Conquerability,average,Our sources look at the Koreans as an average target
+0,433,Germany,Inca,Conquerability,average,We see the hope of taking over the Incas to be average
+0,433,Inca,Singapore,Conquerability,soft,We report Singapore to be a soft target for attack
+0,433,Morocco,Kathmandu,Conquerability,favorable,We consider Kathmandu to be a favorable target for attack
+0,435,Songhai,Korea,Conquerability,impossible,We figure the Koreans to be an impossible target for attack
+0,435,Morocco,Inca,Conquerability, bad,We imagine the possibility of forcefully dominating the Incas to be bad
+0,435,Germany,Morocco,Conquerability,average,We regard the Moroccans to be an average target for attack
+0,435,Songhai,Singapore,Conquerability,soft,We consider the feasibility of forcefully dominating Singapore to be soft
+0,435,Germany,Kathmandu,Conquerability,average,We consider the chance of taking over Kathmandu to be average
+0,436,Inca,Korea,Conquerability,average,We see the hope of taking over the Koreans to be average
+0,436,Morocco,Songhai,Conquerability,average,We figure the Songhai to be an average target for attack
+0,436,Morocco,Korea,Conquerability,average,We imagine the feasibility of conquering the Koreans to be average
+0,437,Songhai,Inca,Conquerability,impossible,We look at the feasibility of taking over the Incas to be impossible
+0,437,Inca,Morocco,Conquerability, bad,We report the Moroccans to be a bad target for attack
+0,438,Germany,Songhai,Conquerability,favorable,We report the Songhai to be a favorable target for attack
+0,438,Korea,Inca,Conquerability,soft,We figure the Incas to be a soft target for attack
+0,439,Songhai,Morocco,Conquerability,impossible,We regard the Moroccans to be an impossible target for attack
+0,440,Korea,Mombasa,Conquerability,favorable,We consider Mombasa to be a favorable target for attack
+0,440,Korea,Florence,Conquerability,soft,We see the possibility of forcefully dominating Florence to be soft
+0,441,Germany,Inca,Conquerability,average,We esteem the possibility of conquering the Incas to be average
+0,442,Songhai,Korea,Conquerability,impossible,We believe the Koreans to be an impossible target for attack
+0,442,Germany,Morocco,Conquerability,average,We regard the Moroccans to be an average target for attack
+0,443,Morocco,Germany,Conquerability,favorable,We regard the hope of taking over the Germans to be favorable
+0,444,Morocco,Songhai,Conquerability,soft,The Moroccans esteem the likelihood of forcefully dominating the Songhai to be soft
+0,444,Germany,Korea,Conquerability, bad,We report the Koreans to be a bad target for attack
+0,444,Korea,Germany,Conquerability,favorable,We see the likelihood of taking over the Germans to be favorable
+0,445,Morocco,Songhai,Conquerability,soft,We believe the Songhai to be a soft target for attack
+0,445,Inca,Germany,Conquerability,soft,Our sources acknowledge the Germans as a soft target
+0,445,Germany,Inca,Conquerability,soft,We esteem the chance of conquering the Incas to be soft
+0,445,Songhai,Bogota,Conquerability,average,We believe Bogota to be an average target for attack
+0,445,Inca,Mombasa,Conquerability,favorable,We acknowledge the possibility of forcefully dominating Mombasa to be favorable
+0,445,Germany,Kyzyl,Conquerability,favorable,We figure Kyzyl to be a favorable target for attack
+0,446,Songhai,Germany,Conquerability, bad,We acknowledge the prospect of conquering the Germans to be bad
+0,446,Morocco,Inca,Conquerability,impossible,We see the likelihood of conquering the Incas to be impossible
+0,446,Germany,Songhai,Conquerability,favorable,We estimate the Songhai to be a favorable target for attack
+0,447,Songhai,Morocco,Conquerability,impossible,We report the Moroccans to be an impossible target for attack
+0,448,Korea,Inca,Conquerability,soft,We acknowledge the probability of forcefully dominating the Incas to be soft
+0,449,Germany,Morocco,Conquerability,favorable,We figure the Moroccans to be a favorable target for attack
+0,449,Korea,Songhai,Conquerability,favorable,We regard the Songhai to be a favorable target for attack
+0,450,Inca,Budapest,Conquerability,favorable,We imagine the possibility of conquering Budapest to be favorable
+0,452,Germany,Bogota,Conquerability,soft,We see the chance of forcefully dominating Bogota to be soft
+0,453,Songhai,Budapest,Conquerability,average,We report Budapest to be an average target for attack
+0,454,Morocco,Korea,Conquerability,average,We see the likelihood of conquering the Koreans to be average
+0,454,Inca,Panama City,Conquerability,average,We esteem the probability of taking over Panama City to be average
+0,455,Germany,Morocco,Conquerability,favorable,The Germans figure the Moroccans to be a favorable target for attack
+0,455,Germany,Korea,Conquerability,average,We look at the probability of forcefully dominating the Koreans to be average
+0,455,Inca,Singapore,Conquerability,soft,We consider the likelihood of forcefully dominating Singapore to be soft
+0,455,Morocco,Kathmandu,Conquerability,favorable,We figure Kathmandu to be a favorable target for attack
+0,455,Korea,Kyzyl,Conquerability,soft,We regard Kyzyl to be a soft target for attack
+0,456,Songhai,Korea,Conquerability,impossible,We figure the Koreans to be an impossible target for attack
+0,456,Inca,Songhai,Conquerability,soft,We acknowledge the hope of conquering the Songhai to be soft
+0,456,Korea,Songhai,Conquerability,favorable,We consider the probability of taking over the Songhai to be favorable
+0,456,Inca,Morocco,Conquerability,average,The Incas regard the Moroccans to be an average target for attack
+0,456,Inca,Kathmandu,Conquerability,favorable,We imagine the hope of forcefully dominating Kathmandu to be favorable
+0,456,Morocco,Mombasa,Conquerability,average,We perceive Mombasa to be an average target for attack
+0,457,Morocco,Inca,Conquerability, bad,We report the Incas to be a bad target for attack
+0,457,Morocco,Germany,Conquerability,average,We believe the Germans to be an average target for attack
+0,457,Songhai,Singapore,Conquerability,soft,We consider Singapore to be a soft target for attack
+0,457,Songhai,Florence,Conquerability,favorable,We believe Florence to be a favorable target for attack
+0,457,Korea,Kathmandu,Conquerability,soft,We look at the hope of taking over Kathmandu to be soft
+0,458,Morocco,Songhai,Conquerability,favorable,The Moroccans report the Songhai to be a favorable target for attack
+0,458,Germany,Inca,Conquerability,soft,We see the prospect of taking over the Incas to be soft
+0,458,Morocco,Kyzyl,Conquerability,favorable,We esteem the probability of conquering Kyzyl to be favorable
+0,459,Inca,Morocco,Conquerability, bad,We esteem the possibility of conquering the Moroccans to be bad
+0,460,Germany,Mombasa,Conquerability,favorable,We imagine the chance of forcefully dominating Mombasa to be favorable
+0,462,Korea,Morocco,Conquerability,favorable,We regard the Moroccans to be a favorable target for attack
+0,463,Inca,Korea,Conquerability, bad,The Incas look at the prospect of conquering the Koreans to be bad
+0,463,Songhai,Morocco,Conquerability, bad,We perceive the Moroccans to be a bad target for attack
+0,463,Inca,Morocco,Conquerability,average,The Incas see the prospect of taking over the Moroccans to be average
+0,463,Korea,Songhai,Conquerability,favorable,We consider the possibility of taking over the Songhai to be favorable
+0,463,Korea,Inca,Conquerability,soft,We regard the hope of taking over the Incas to be soft
+0,464,Songhai,Germany,Conquerability,impossible,We estimate the Germans to be an impossible target for attack
+0,464,Morocco,Germany,Conquerability,average,We perceive the Germans to be an average target for attack
+0,464,Morocco,Korea,Conquerability,soft,We perceive the feasibility of forcefully dominating the Koreans to be soft
+0,464,Inca,Korea,Conquerability,average,We esteem the feasibility of conquering the Koreans to be average
+0,466,Germany,Korea,Conquerability,average,We believe the Koreans to be an average target for attack
+0,466,Songhai,Panama City,Conquerability, bad,We perceive the likelihood of conquering Panama City to be bad
+0,466,Inca,Singapore,Conquerability,soft,We figure Singapore to be a soft target for attack
+0,468,Morocco,Inca,Conquerability,soft,We perceive the Incas to be a soft target for attack
+0,469,Inca,Korea,Conquerability,average,We regard the Koreans to be an average target for attack
+0,469,Morocco,Ife,Conquerability,favorable,We figure Ife to be a favorable target for attack
+0,470,Inca,Morocco,Conquerability,impossible,We consider the Moroccans to be an impossible target for attack
+0,470,Germany,Morocco,Conquerability,soft,We acknowledge the possibility of conquering the Moroccans to be soft
+0,470,Inca,Budapest,Conquerability,average,We figure Budapest to be an average target for attack
+0,470,Korea,Budapest,Conquerability,favorable,We report Budapest to be a favorable target for attack
+0,471,Morocco,Germany,Conquerability,soft,We consider the likelihood of forcefully dominating the Germans to be soft
+0,471,Korea,Kyzyl,Conquerability,soft,We consider Kyzyl to be a soft target for attack
+0,472,Korea,Inca,Conquerability,favorable,The Koreans believe the Incas to be a favorable target for attack
+0,472,Morocco,Songhai,Conquerability,average,We report the Songhai to be an average target for attack
+0,472,Germany,Songhai,Conquerability,favorable,We imagine the prospect of taking over the Songhai to be favorable
+0,472,Germany,Songhai,Conquerability,favorable,Our diplomatic cables esteem the Songhai as a favorable target
+0,473,Songhai,Inca,Conquerability,average,We acknowledge the likelihood of forcefully dominating the Incas to be average
+0,473,Morocco,Korea,Conquerability,soft,We consider the possibility of taking over the Koreans to be soft
+0,473,Songhai,Germany,Conquerability,average,We perceive the chance of forcefully dominating the Germans to be average
+0,473,Inca,Kyzyl,Conquerability,favorable,We look at the prospect of taking over Kyzyl to be favorable
+0,473,Germany,Kathmandu,Conquerability,soft,We perceive Kathmandu to be a soft target for attack
+0,473,Germany,Florence,Conquerability,soft,We report Florence to be a soft target for attack
+0,473,Korea,Kathmandu,Conquerability,soft,We estimate Kathmandu to be a soft target for attack
+0,474,Korea,Bogota,Conquerability,soft,We believe Bogota to be a soft target for attack
+0,477,Songhai,Korea,Conquerability, bad,We esteem the hope of conquering the Koreans to be bad
+0,477,Germany,Morocco,Conquerability,average,We figure the Moroccans to be an average target for attack
+0,477,Songhai,Florence,Conquerability,soft, We consider the likelihood of forcefully dominating Florence to be soft
+0,477,Korea,Panama City,Conquerability,average,We figure Panama City to be an average target for attack
+0,478,Morocco,Germany,Conquerability,favorable,We consider the probability of forcefully dominating the Germans to be favorable
+0,478,Korea,Inca,Conquerability,favorable,The Koreans regard the prospect of conquering the Incas to be favorable
+0,479,Korea,Inca,Conquerability,soft,We perceive the probability of forcefully dominating the Incas to be soft
+0,480,Morocco,Germany,Conquerability,favorable,The Moroccans believe the Germans to be a favorable target for attack
+0,481,Inca,Morocco,Conquerability, bad,We regard the feasibility of taking over the Moroccans to be bad
+0,482,Songhai,Inca,Conquerability, bad,We see the feasibility of taking over the Incas to be bad
+0,482,Morocco,Korea,Conquerability,soft,We regard the chance of forcefully dominating the Koreans to be soft
+0,482,Germany,Ife,Conquerability,favorable,We estimate Ife to be a favorable target for attack
+0,483,Songhai,Germany,Conquerability,soft,We report the Germans to be a soft target for attack
+0,483,Korea,Morocco,Conquerability,soft,We believe the Moroccans to be a soft target for attack
+0,483,Songhai,Panama City,Conquerability, bad, We see the probability of conquering Panama City to be bad
+0,483,Songhai,Budapest,Conquerability, bad,We report Budapest to be a bad target for attack
+0,484,Inca,Panama City,Conquerability,average,We estimate Panama City to be an average target for attack
+0,484,Morocco,Ife,Conquerability,soft,We believe Ife to be a soft target for attack
+0,487,Songhai,Morocco,Conquerability, bad,The Songhai see the probability of conquering the Moroccans to be bad
+0,487,Inca,Germany,Conquerability,soft,We estimate the Germans to be a soft target for attack
+0,487,Inca,Kyzyl,Conquerability,average,We figure Kyzyl to be an average target for attack
+0,488,Korea,Songhai,Conquerability,favorable,The Koreans imagine the possibility of conquering the Songhai to be favorable
+0,491,Morocco,Korea,Conquerability,soft,We perceive the Koreans to be a soft target for attack
+0,491,Germany,Morocco,Conquerability, bad,We believe the Moroccans to be a bad target for attack
+0,491,Morocco,Germany,Conquerability,soft,The Moroccans imagine the probability of forcefully dominating the Germans to be soft
+0,492,Korea,Bogota,Conquerability,soft,We see the probability of taking over Bogota to be soft
+0,494,Inca,Panama City,Conquerability, bad,We perceive Panama City to be a bad target for attack
+0,495,Songhai,Morocco,Conquerability,impossible,We see the feasibility of conquering the Moroccans to be impossible
+0,496,Morocco,Bogota,Conquerability,soft,We believe Bogota to be a soft target for attack
+0,497,Songhai,Florence,Conquerability,favorable,We imagine the prospect of taking over Florence to be favorable
+0,497,Songhai,Ife,Conquerability,favorable,We see the hope of forcefully dominating Ife to be favorable
+0,497,Germany,Budapest,Conquerability,impossible,We perceive the prospect of taking over Budapest to be impossible
+0,498,Songhai,Korea,Conquerability,impossible,We consider the feasibility of taking over the Koreans to be impossible
+0,498,Germany,Morocco,Conquerability, bad,We imagine the feasibility of conquering the Moroccans to be bad
+0,498,Korea,Songhai,Conquerability,favorable,We look at the prospect of conquering the Songhai to be favorable
+0,499,Morocco,Songhai,Conquerability,average,We perceive the prospect of taking over the Songhai to be average
+0,499,Germany,Inca,Conquerability, bad,We figure the Incas to be a bad target for attack
+0,500,Songhai,Panama City,Conquerability, bad,We perceive Panama City to be a bad target for attack

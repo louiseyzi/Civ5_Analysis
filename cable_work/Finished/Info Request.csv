@@ -1,0 +1,610 @@
+,Turn,Civ1,Civ2,Relation,Value,Cable
+0,7,Iroquois,Songhai,Info Request,economy,The foreign office requests any data available pertaining to the Songhais economic potential
+0,9,Korea,Germany,Info Request,economy,The foreign office must have any reporting obtainable regarding the Germans economic might
+0,10,Germany,Korea,Info Request,military,Please send word on the Koreans military strategies as the foreign office is acutely worried about the Koreans actions
+0,11,Songhai,Morocco,Info Request,military,The foreign office desires any intelligence possible concerning the Moroccans military might
+0,11,Iroquois,Morocco,Info Request,economy,Please write more on the Moroccans economic activities as the foreign office is much troubled about the Moroccans activity
+0,15,Iroquois,Germany,Info Request,economy,Please expand on the Germans economic interests as the foreign office is thoroughly concerned about the Germans conduct
+0,16,Germany,Iroquois,Info Request,economy,Please write more on the Iroquois economic activities as the foreign office is most worried about the Iroquois doings
+0,19,Morocco,Songhai,Info Request,military,The foreign office must have any news available regarding the Songhais military potency
+0,19,Korea,Iroquois,Info Request,military,Please inform on the Iroquois military strategies as the foreign office is most alarmed about the Iroquois actions
+0,23,Morocco,Korea,Info Request,economy,Please inform on the Koreans economic strategies as the foreign office is quite distressed about the Koreans ambition
+0,23,Iroquois,Germany,Info Request,military,Please inform on the Germans military plans as the foreign office is acutely concerned about the Germans actions
+0,25,Iroquois,Morocco,Info Request,military,Please inform on the Moroccans military plans as the foreign office is thoroughly concerned about the Moroccans activity
+0,27,Morocco,Inca,Info Request,economy,The foreign office must have any knowledge on hand pertaining to the Incas economic power
+0,27,Germany,Inca,Info Request,economy,Please expand on the Incas economic ambitions as the foreign office is quite distressed about the Incas conduct
+0,28,Songhai,Songhai,Info Request,economy,The foreign office asks for any forecasting you have regarding the Songhais economic force
+0,28,Morocco,Iroquois,Info Request,economy,The foreign office asks for any information on hand describing the Iroquois economic potential
+0,28,Korea,Iroquois,Info Request,economy,Please send word on the Iroquois economic interests as the foreign office is very disquieted about the Iroquois activity
+0,30,Songhai,Inca,Info Request,military,Please inform on the Incas military interests as the foreign office is quite alarmed about the Incas activity
+0,30,Songhai,Germany,Info Request,military,The foreign office wants any advice on hand pertaining to the Germans military potency
+0,31,Iroquois,Germany,Info Request,military,Please expand on the Germans military activities as the foreign office is quite concerned about the Germans behavior
+0,33,Korea,Morocco,Info Request,economy,Please report on the Moroccans economic strategies as the foreign office is acutely worried about the Moroccans ambition
+0,34,Iroquois,Korea,Info Request,economy,Please expand on the Koreans economic ambitions as the foreign office is thoroughly troubled about the Koreans actions
+0,35,Songhai,Morocco,Info Request,economy,The foreign office would like any reporting obtainable regarding the Moroccans economic capability
+0,35,Songhai,Iroquois,Info Request,economy,The foreign office requires any forecasting on hand pertaining to the Iroquois economic capability
+0,36,Korea,Germany,Info Request,economy,The foreign office requires any knowledge on hand relevant to the Germans economic force
+0,38,Germany,Germany,Info Request,military,The foreign office requires any reporting in your possession describing the Germans military might
+0,39,Inca,Morocco,Info Request,economy,The foreign office wants any forecasting on hand relevant to the Moroccans economic power
+0,40,Iroquois,Inca,Info Request,economy,Please send word on the Incas economic strategies as the foreign office is very concerned about the Incas actions
+0,42,Germany,Songhai,Info Request,military,The foreign office asks for any information on hand detailing the Songhais military power
+0,43,Songhai,Morocco,Info Request,economy, The foreign office needs any information obtainable regarding the Moroccans economic force
+0,46,Iroquois,Iroquois,Info Request,economy,The foreign office would like any knowledge in your possession concerning the Iroquois economic power
+0,47,Korea,Songhai,Info Request,economy,Please expand on the Songhais economic interests as the foreign office is most worried about the Songhais actions
+0,47,Iroquois,Songhai,Info Request,economy,The foreign office would like any news possible detailing the Songhais economic power
+0,47,Iroquois,Germany,Info Request,military,Please report on the Germans military ambitions as the foreign office is most concerned about the Germans ambition
+0,48,Songhai,Inca,Info Request,economy,Please report on the Incas economic ambitions as the foreign office is thoroughly worried about the Incas behavior
+0,48,Songhai,Germany,Info Request,military,Please expand on the Germans military pursuits as the foreign office is thoroughly distressed about the Germans doings
+0,49,Inca,Germany,Info Request,economy,Please inform on the Germans economic interests as the foreign office is much worried about the Germans ambition
+0,49,Morocco,Inca,Info Request,economy,The foreign office requires any material available regarding the Incas economic capability
+0,49,Germany,Iroquois,Info Request,economy,Please expand on the Iroquois economic interests as the foreign office is thoroughly disquieted about the Iroquois conduct
+0,50,Inca,Korea,Info Request,economy,The foreign office needs any intelligence available pertaining to the Koreans economic potential
+0,50,Korea,Korea,Info Request,economy,The foreign office requires any advice you have pertaining to the Koreans economic power
+0,50,Germany,Songhai,Info Request,economy,Please write more on the Songhais economic activities as the foreign office is quite disquieted about the Songhais doings
+0,51,Songhai,Morocco,Info Request,military,Please send word on the Moroccans military ambitions as the foreign office is very disquieted about the Moroccans activity
+0,52,Morocco,Iroquois,Info Request,military,Please write more on the Iroquois military plans as the foreign office is very disquieted about the Iroquois ambition
+0,53,Iroquois,Morocco,Info Request,military,Please expand on the Moroccans military interests as the foreign office is most concerned about the Moroccans doings
+0,54,Korea,Korea,Info Request,military,The foreign office needs any knowledge in your possession describing the Koreans military potential
+0,54,Korea,Germany,Info Request,economy,Please send word on the Germans economic ambitions as the foreign office is most concerned about the Germans activity
+0,55,Korea,Morocco,Info Request,economy,Please report on the Moroccans economic pursuits as the foreign office is acutely disquieted about the Moroccans conduct
+0,57,Iroquois,Songhai,Info Request,military,The foreign office wants any forecasting available pertaining to the Songhais military potency
+0,58,Iroquois,Korea,Info Request,military,The foreign office must have any forecasting obtainable describing the Koreans military capability
+0,59,Morocco,Morocco,Info Request,economy,The foreign office wants any advice in your possession describing the Moroccans economic potency
+0,59,Germany,Inca,Info Request,economy,Please inform on the Incas economic plans as the foreign office is very worried about the Incas activity
+0,61,Inca,Morocco,Info Request,economy,The foreign office wants any news obtainable concerning the Moroccans economic potential
+0,62,Iroquois,Inca,Info Request,economy,The foreign office needs any reporting obtainable concerning the Incas economic potential
+0,63,Songhai,Iroquois,Info Request,military,Please send word on the Iroquois military activities as the foreign office is acutely disquieted about the Iroquois behavior
+0,63,Korea,Germany,Info Request,economy,The foreign office wants any reporting available describing the Germans economic force
+0,63,Iroquois,Germany,Info Request,military,Please inform on the Germans military strategies as the foreign office is thoroughly troubled about the Germans activity
+0,65,Germany,Korea,Info Request,military,The foreign office needs any information available concerning the Koreans military strength
+0,66,Songhai,Germany,Info Request,economy,Please expand on the Germans economic plans as the foreign office is quite alarmed about the Germans actions
+0,66,Inca,Korea,Info Request,military,Please write more on the Koreans military plans as the foreign office is acutely alarmed about the Koreans activity
+0,66,Iroquois,Korea,Info Request,military,Please write more on the Koreans military pursuits as the foreign office is quite alarmed about the Koreans conduct
+0,67,Songhai,Morocco,Info Request,economy,Please report on the Moroccans economic ambitions as the foreign office is thoroughly troubled about the Moroccans behavior
+0,67,Songhai,Songhai,Info Request,economy,The foreign office requires any data in your possession regarding the Songhais economic might
+0,68,Songhai,Korea,Info Request,economy,Please send word on the Koreans economic strategies as the foreign office is very concerned about the Koreans behavior
+0,68,Morocco,Iroquois,Info Request,economy,Please inform on the Iroquois economic ambitions as the foreign office is much worried about the Iroquois activity
+0,71,Iroquois,Germany,Info Request,economy,Please report on the Germans economic plans as the foreign office is thoroughly distressed about the Germans conduct
+0,72,Germany,Morocco,Info Request,military,The foreign office requires any advice obtainable pertaining to the Moroccans military capability
+0,73,Morocco,Germany,Info Request,economy,The foreign office wants any data available relevant to the Germans economic potency
+0,74,Iroquois,Morocco,Info Request,military,The foreign office would like any forecasting obtainable concerning the Moroccans military power
+0,75,Songhai,Morocco,Info Request,economy,Please expand on the Moroccans economic activities as the foreign office is very disquieted about the Moroccans conduct
+0,75,Inca,Inca,Info Request,military,The foreign office needs any advice you have relevant to the Incas military capability
+0,77,Iroquois,Songhai,Info Request,economy,Please expand on the Songhais economic activities as the foreign office is thoroughly troubled about the Songhais conduct
+0,80,Morocco,Germany,Info Request,economy,Please write more on the Germans economic plans as the foreign office is very troubled about the Germans conduct
+0,81,Iroquois,Iroquois,Info Request,economy,The foreign office needs any advice you have relevant to the Iroquois economic potency
+0,81,Korea,Germany,Info Request,economy,Please write more on the Germans economic strategies as the foreign office is acutely disquieted about the Germans doings
+0,82,Inca,Korea,Info Request,economy,Please inform on the Koreans economic plans as the foreign office is much concerned about the Koreans conduct
+0,82,Morocco,Songhai,Info Request,economy,Please report on the Songhais economic ambitions as the foreign office is acutely concerned about the Songhais actions
+0,82,Morocco,Inca,Info Request,economy,The foreign office requests any reporting available regarding the Incas economic power
+0,82,Germany,Songhai,Info Request,economy,Please report on the Songhais economic interests as the foreign office is very distressed about the Songhais conduct
+0,82,Iroquois,Korea,Info Request,economy,Please inform on the Koreans economic strategies as the foreign office is much concerned about the Koreans activity
+0,84,Songhai,Inca,Info Request,economy,The foreign office wants any data on hand describing the Incas economic potency
+0,84,Songhai,Iroquois,Info Request,economy,Please write more on the Iroquois economic pursuits as the foreign office is thoroughly disquieted about the Iroquois ambition
+0,86,Germany,Morocco,Info Request,economy,The foreign office wants any advice obtainable concerning the Moroccans economic strength
+0,87,Germany,Germany,Info Request,military,The foreign office requires any data in your possession detailing the Germans military power
+0,88,Iroquois,Morocco,Info Request,economy,Please expand on the Moroccans economic strategies as the foreign office is thoroughly concerned about the Moroccans actions
+0,89,Inca,Iroquois,Info Request,economy,The foreign office desires any forecasting available regarding the Iroquois economic potency
+0,90,Korea,Germany,Info Request,military,The foreign office asks for any material on hand concerning the Germans military might
+0,90,Iroquois,Korea,Info Request,economy,Please write more on the Koreans economic plans as the foreign office is thoroughly disquieted about the Koreans behavior
+0,91,Songhai,Morocco,Info Request,economy,The foreign office desires any forecasting possible pertaining to the Moroccans economic potency
+0,91,Korea,Iroquois,Info Request,military,Please expand on the Iroquois military strategies as the foreign office is most distressed about the Iroquois ambition
+0,93,Songhai,Germany,Info Request,military,The foreign office needs any material available detailing the Germans military might
+0,95,Iroquois,Inca,Info Request,military,The foreign office requires any data available pertaining to the Incas military force
+0,95,Iroquois,Morocco,Info Request,economy,Please write more on the Moroccans economic activities as the foreign office is most disquieted about the Moroccans conduct
+0,95,Germany,Germany,Info Request,military,The foreign office asks for any data you have concerning the Germans military might
+0,96,Korea,Korea,Info Request,military,The foreign office must have any reporting in your possession pertaining to the Koreans military capability
+0,97,Songhai,Songhai,Info Request,economy,The foreign office wants any information you have pertaining to the Songhais economic potency
+0,98,Songhai,Iroquois,Info Request,economy,The foreign office requests any intelligence obtainable detailing the Iroquois economic power
+0,98,Korea,Korea,Info Request,military,The foreign office must have any advice in your possession relevant to the Koreans military potential
+0,99,Songhai,Morocco,Info Request,military,Please inform on the Moroccans military plans as the foreign office is thoroughly disquieted about the Moroccans behavior
+0,99,Germany,Inca,Info Request,economy,The foreign office needs any reporting available concerning the Incas economic force
+0,99,Korea,Inca,Info Request,military,Please report on the Incas military activities as the foreign office is quite disquieted about the Incas ambition
+0,100,Morocco,Iroquois,Info Request,military,Please write more on the Iroquois military plans as the foreign office is thoroughly troubled about the Iroquois doings
+0,101,Morocco,Germany,Info Request,economy,Please send word on the Germans economic interests as the foreign office is quite troubled about the Germans activity
+0,102,Songhai,Germany,Info Request,military,The foreign office would like any material obtainable concerning the Germans military potential
+0,102,Inca,Songhai,Info Request,economy,The foreign office must have any news on hand concerning the Songhais economic strength
+0,102,Morocco,Morocco,Info Request,military,The foreign office requires any news in your possession relevant to the Moroccans military capability
+0,103,Songhai,Korea,Info Request,military, Please send word on the Koreans military interests as the foreign office is most distressed about the Koreans activity
+0,104,Korea,Iroquois,Info Request,military,Please write more on the Iroquois military activities as the foreign office is acutely distressed about the Iroquois behavior
+0,106,Inca,Korea,Info Request,economy,The foreign office asks for any forecasting possible regarding the Koreans economic might
+0,106,Germany,Songhai,Info Request,military,Please inform on the Songhais military ambitions as the foreign office is thoroughly alarmed about the Songhais actions
+0,107,Morocco,Morocco,Info Request,military,The foreign office needs any information in your possession concerning the Moroccans military potential
+0,107,Germany,Morocco,Info Request,military,The foreign office wants any knowledge available concerning the Moroccans military might
+0,107,Iroquois,Korea,Info Request,economy, The foreign office asks for any intelligence obtainable relevant to the Koreans economic capability
+0,108,Germany,Germany,Info Request,military,The foreign office requests any information you have detailing the Germans military capability
+0,109,Germany,Korea,Info Request,economy,The foreign office wants any material obtainable concerning the Koreans economic potential
+0,109,Korea,Inca,Info Request,economy,The foreign office asks for any information obtainable describing the Incas economic strength
+0,110,Korea,Korea,Info Request,military,The foreign office desires any forecasting in your possession regarding the Koreans military might
+0,110,Inca,Songhai,Info Request,military,The foreign office would like any forecasting obtainable describing the Songhais military potential
+0,113,Morocco,Korea,Info Request,military,Please send word on the Koreans military strategies as the foreign office is acutely troubled about the Koreans behavior
+0,114,Inca,Korea,Info Request,military,The foreign office requires any intelligence on hand relevant to the Koreans military force
+0,114,Germany,Morocco,Info Request,military,Please report on the Moroccans military ambitions as the foreign office is most concerned about the Moroccans conduct
+0,115,Inca,Inca,Info Request,economy,The foreign office needs any reporting you have regarding the Incas economic might
+0,117,Germany,Germany,Info Request,military,The foreign office requests any reporting in your possession regarding the Germans military potency
+0,118,Morocco,Songhai,Info Request,military,Please inform on the Songhais military interests as the foreign office is much concerned about the Songhais actions
+0,119,Songhai,Iroquois,Info Request,economy,The foreign office wants any intelligence available detailing the Iroquois economic potency
+0,119,Inca,Germany,Info Request,economy,Please send word on the Germans economic plans as the foreign office is very alarmed about the Germans conduct
+0,119,Korea,Inca,Info Request,military,The foreign office asks for any knowledge obtainable relevant to the Incas military capability
+0,119,Iroquois,Germany,Info Request,economy,Please write more on the Germans economic activities as the foreign office is most concerned about the Germans doings
+0,123,Morocco,Morocco,Info Request,military,The foreign office wants any material you have regarding the Moroccans military potential
+0,123,Iroquois,Morocco,Info Request,military,The foreign office would like any information possible regarding the Moroccans military force
+0,124,Morocco,Iroquois,Info Request,economy,The foreign office requests any information on hand detailing the Iroquois economic potency
+0,126,Iroquois,Iroquois,Info Request,military,The foreign office requires any forecasting you have relevant to the Iroquois military capability
+0,126,Morocco,Inca,Info Request,economy,Please expand on the Incas economic plans as the foreign office is most distressed about the Incas behavior
+0,126,Germany,Iroquois,Info Request,military,The foreign office would like any news obtainable pertaining to the Iroquois military potency
+0,127,Inca,Morocco,Info Request,economy,The foreign office needs any intelligence available describing the Moroccans economic power
+0,127,Morocco,Songhai,Info Request,military,Please expand on the Songhais military interests as the foreign office is much distressed about the Songhais conduct
+0,128,Iroquois,Inca,Info Request,economy,The foreign office desires any knowledge available describing the Incas economic potential
+0,129,Songhai,Germany,Info Request,economy,The foreign office needs any advice available pertaining to the Germans economic force
+0,129,Inca,Germany,Info Request,military,The foreign office wants any advice available describing the Germans military might
+0,129,Iroquois,Iroquois,Info Request,military,The foreign office asks for any information in your possession regarding the Iroquois military power
+0,130,Germany,Songhai,Info Request,military,Please send word on the Songhais military interests as the foreign office is much disquieted about the Songhais ambition
+0,130,Iroquois,Morocco,Info Request,military,Please write more on the Moroccans military ambitions as the foreign office is most troubled about the Moroccans actions
+0,131,Iroquois,Korea,Info Request,military,The foreign office requests any information on hand regarding the Koreans military power
+0,132,Morocco,Morocco,Info Request,economy,The foreign office must have any intelligence in your possession concerning the Moroccans economic potency
+0,133,Iroquois,Iroquois,Info Request,economy,The foreign office needs any advice you have relevant to the Iroquois economic strength
+0,135,Iroquois,Germany,Info Request,economy,Please send word on the Germans economic activities as the foreign office is much distressed about the Germans ambition
+0,137,Iroquois,Songhai,Info Request,military,The foreign office desires any intelligence available detailing the Songhais military power
+0,138,Songhai,Germany,Info Request,military,The foreign office requires any knowledge obtainable describing the Germans military might
+0,138,Germany,Songhai,Info Request,economy, Please expand on the Songhais economic plans as the foreign office is most concerned about the Songhais doings
+0,139,Songhai,Morocco,Info Request,military,Please write more on the Moroccans military pursuits as the foreign office is thoroughly worried about the Moroccans doings
+0,139,Inca,Morocco,Info Request,military,The foreign office requires any data possible concerning the Moroccans military strength
+0,139,Inca,Germany,Info Request,military,Please send word on the Germans military activities as the foreign office is acutely worried about the Germans behavior
+0,139,Inca,Inca,Info Request,economy,The foreign office would like any forecasting in your possession regarding the Incas economic might
+0,139,Korea,Inca,Info Request,economy,Please expand on the Incas economic strategies as the foreign office is quite troubled about the Incas doings
+0,139,Korea,Iroquois,Info Request,military,The foreign office desires any reporting available detailing the Iroquois military potential
+0,140,Morocco,Korea,Info Request,economy,Please report on the Koreans economic plans as the foreign office is thoroughly worried about the Koreans conduct
+0,142,Inca,Songhai,Info Request,military,The foreign office would like any data possible pertaining to the Songhais military might
+0,143,Morocco,Germany,Info Request,military,Please report on the Germans military interests as the foreign office is acutely disquieted about the Germans activity
+0,143,Iroquois,Germany,Info Request,economy,The foreign office wants any reporting available detailing the Germans economic capability
+0,144,Korea,Germany,Info Request,economy,Please expand on the Germans economic activities as the foreign office is very troubled about the Germans doings
+0,145,Korea,Korea,Info Request,economy,The foreign office must have any data in your possession detailing the Koreans economic capability
+0,145,Morocco,Songhai,Info Request,military,The foreign office would like any advice available pertaining to the Songhais military might
+0,146,Korea,Korea,Info Request,military,The foreign office needs any reporting you have relevant to the Koreans military potential
+0,147,Songhai,Morocco,Info Request,military,The foreign office wants any forecasting possible regarding the Moroccans military force
+0,147,Songhai,Iroquois,Info Request,economy,Please inform on the Iroquois economic interests as the foreign office is quite disquieted about the Iroquois doings
+0,147,Germany,Inca,Info Request,economy,Please expand on the Incas economic pursuits as the foreign office is acutely troubled about the Incas conduct
+0,147,Songhai,Songhai,Info Request,military,The foreign office wants any forecasting in your possession pertaining to the Songhais military force
+0,148,Germany,Iroquois,Info Request,economy,Please expand on the Iroquois economic activities as the foreign office is quite disquieted about the Iroquois ambition
+0,148,Korea,Iroquois,Info Request,economy,Please write more on the Iroquois economic pursuits as the foreign office is most troubled about the Iroquois actions
+0,148,Iroquois,Korea,Info Request,economy,Please send word on the Koreans economic ambitions as the foreign office is most alarmed about the Koreans behavior
+0,149,Morocco,Inca,Info Request,military,Please write more on the Incas military strategies as the foreign office is quite concerned about the Incas behavior
+0,149,Morocco,Korea,Info Request,economy,Please write more on the Koreans economic strategies as the foreign office is acutely concerned about the Koreans conduct
+0,149,Korea,Inca,Info Request,military,The foreign office must have any forecasting possible describing the Incas military potential
+0,150,Morocco,Germany,Info Request,military,Please report on the Germans military plans as the foreign office is thoroughly troubled about the Germans actions
+0,150,Iroquois,Inca,Info Request,military,The foreign office would like any advice possible regarding the Incas military potential
+0,152,Korea,Songhai,Info Request,military,Please inform on the Songhais military plans as the foreign office is acutely troubled about the Songhais behavior
+0,153,Korea,Korea,Info Request,economy,The foreign office must have any advice in your possession describing the Koreans economic power
+0,153,Korea,Germany,Info Request,economy,The foreign office requires any information possible regarding the Germans economic force
+0,154,Iroquois,Iroquois,Info Request,economy,The foreign office requires any information in your possession relevant to the Iroquois economic strength
+0,156,Morocco,Iroquois,Info Request,military,The foreign office wants any data on hand concerning the Iroquois military capability
+0,158,Inca,Songhai,Info Request,economy,Please expand on the Songhais economic plans as the foreign office is acutely alarmed about the Songhais activity
+0,158,Morocco,Korea,Info Request,economy,Please expand on the Koreans economic pursuits as the foreign office is thoroughly disquieted about the Koreans behavior
+0,158,Iroquois,Morocco,Info Request,military,The foreign office asks for any material obtainable concerning the Moroccans military force
+0,159,Songhai,Korea,Info Request,economy,The foreign office asks for any reporting on hand regarding the Koreans economic strength
+0,159,Inca,Germany,Info Request,economy,Please send word on the Germans economic strategies as the foreign office is quite alarmed about the Germans ambition
+0,159,Korea,Inca,Info Request,military,The foreign office desires any advice on hand regarding the Incas military strength
+0,159,Iroquois,Germany,Info Request,economy,Please send word on the Germans economic plans as the foreign office is quite alarmed about the Germans conduct
+0,161,Iroquois,Inca,Info Request,economy,The foreign office needs any news on hand detailing the Incas economic might
+0,162,Inca,Korea,Info Request,economy,Please send word on the Koreans economic strategies as the foreign office is most worried about the Koreans actions
+0,162,Korea,Germany,Info Request,economy,Please report on the Germans economic pursuits as the foreign office is very alarmed about the Germans activity
+0,163,Songhai,Morocco,Info Request,military,Please write more on the Moroccans military strategies as the foreign office is very alarmed about the Moroccans behavior
+0,163,Germany,Morocco,Info Request,economy,Please expand on the Moroccans economic strategies as the foreign office is very worried about the Moroccans behavior
+0,164,Morocco,Iroquois,Info Request,military,The foreign office desires any material on hand concerning the Iroquois military strength
+0,165,Songhai,Inca,Info Request,military,Please write more on the Incas military plans as the foreign office is very troubled about the Incas behavior
+0,165,Songhai,Germany,Info Request,military,Please expand on the Germans military ambitions as the foreign office is most disquieted about the Germans actions
+0,165,Iroquois,Korea,Info Request,military,Please expand on the Koreans military activities as the foreign office is most worried about the Koreans conduct
+0,166,Korea,Songhai,Info Request,economy,The foreign office would like any forecasting available detailing the Songhais economic force
+0,167,Iroquois,Germany,Info Request,military,Please send word on the Germans military strategies as the foreign office is very worried about the Germans doings
+0,169,Korea,Inca,Info Request,economy,Please send word on the Incas economic strategies as the foreign office is thoroughly worried about the Incas doings
+0,170,Korea,Korea,Info Request,economy,The foreign office would like any forecasting you have relevant to the Koreans economic potency
+0,170,Germany,Songhai,Info Request,military,The foreign office requests any information available describing the Songhais military strength
+0,170,Germany,Morocco,Info Request,economy,The foreign office must have any information possible pertaining to the Moroccans economic might
+0,171,Songhai,Morocco,Info Request,economy,Please report on the Moroccans economic ambitions as the foreign office is thoroughly troubled about the Moroccans ambition
+0,171,Inca,Inca,Info Request,military,The foreign office desires any news in your possession pertaining to the Incas military might
+0,171,Korea,Germany,Info Request,economy,The foreign office must have any knowledge available regarding the Germans economic might
+0,172,Iroquois,Inca,Info Request,military,Please inform on the Incas military activities as the foreign office is very troubled about the Incas conduct
+0,172,Iroquois,Morocco,Info Request,military,Please report on the Moroccans military ambitions as the foreign office is most alarmed about the Moroccans activity
+0,173,Songhai,Korea,Info Request,economy,Please send word on the Koreans economic ambitions as the foreign office is thoroughly alarmed about the Koreans conduct
+0,174,Songhai,Germany,Info Request,military,Please inform on the Germans military plans as the foreign office is much troubled about the Germans ambition
+0,174,Inca,Songhai,Info Request,military,Please write more on the Songhais military interests as the foreign office is very disquieted about the Songhais behavior
+0,175,Korea,Korea,Info Request,economy,The foreign office must have any information in your possession pertaining to the Koreans economic force
+0,175,Iroquois,Germany,Info Request,military,The foreign office desires any reporting on hand concerning the Germans military might
+0,176,Morocco,Korea,Info Request,military,The foreign office requires any reporting possible pertaining to the Koreans military strength
+0,176,Iroquois,Iroquois,Info Request,military,The foreign office requires any information you have detailing the Iroquois military potential
+0,177,Inca,Iroquois,Info Request,military,The foreign office would like any material possible relevant to the Iroquois military power
+0,178,Songhai,Songhai,Info Request,military,The foreign office desires any material in your possession concerning the Songhais military potency
+0,179,Songhai,Morocco,Info Request,economy,Please expand on the Moroccans economic plans as the foreign office is quite troubled about the Moroccans actions
+0,179,Germany,Inca,Info Request,economy,The foreign office desires any advice available relevant to the Incas economic capability
+0,179,Inca,Inca,Info Request,economy,The foreign office would like any information you have regarding the Incas economic capability
+0,180,Korea,Songhai,Info Request,military,Please expand on the Songhais military strategies as the foreign office is much alarmed about the Songhais actions
+0,180,Korea,Germany,Info Request,military,Please report on the Germans military strategies as the foreign office is very concerned about the Germans actions
+0,181,Morocco,Songhai,Info Request,military,Please inform on the Songhais military pursuits as the foreign office is most worried about the Songhais behavior
+0,182,Songhai,Iroquois,Info Request,military,The foreign office requires any advice obtainable pertaining to the Iroquois military potency
+0,182,Morocco,Inca,Info Request,economy,Please report on the Incas economic strategies as the foreign office is very worried about the Incas doings
+0,183,Songhai,Germany,Info Request,military,The foreign office asks for any forecasting available regarding the Germans military potency
+0,183,Iroquois,Germany,Info Request,military,Please inform on the Germans military ambitions as the foreign office is very worried about the Germans ambition
+0,185,Germany,Germany,Info Request,military,The foreign office needs any data in your possession pertaining to the Germans military potency
+0,185,Morocco,Korea,Info Request,economy,Please report on the Koreans economic pursuits as the foreign office is quite disquieted about the Koreans activity
+0,186,Inca,Korea,Info Request,economy,Please inform on the Koreans economic plans as the foreign office is thoroughly concerned about the Koreans ambition
+0,186,Germany,Songhai,Info Request,military,Please report on the Songhais military strategies as the foreign office is quite alarmed about the Songhais activity
+0,186,Korea,Korea,Info Request,economy,The foreign office must have any knowledge in your possession relevant to the Koreans economic might
+0,186,Morocco,Morocco,Info Request,military,The foreign office needs any forecasting in your possession detailing the Moroccans military potency
+0,187,Germany,Inca,Info Request,military,Please write more on the Incas military interests as the foreign office is quite troubled about the Incas conduct
+0,187,Songhai,Songhai,Info Request,economy,The foreign office wants any news in your possession detailing the Songhais economic power
+0,187,Korea,Morocco,Info Request,economy,The foreign office desires any information available pertaining to the Moroccans economic capability
+0,187,Iroquois,Songhai,Info Request,military,The foreign office wants any news obtainable pertaining to the Songhais military strength
+0,189,Songhai,Iroquois,Info Request,military,The foreign office requires any news available describing the Iroquois military potency
+0,189,Inca,Germany,Info Request,military,Please write more on the Germans military strategies as the foreign office is quite troubled about the Germans doings
+0,189,Songhai,Songhai,Info Request,economy,The foreign office requires any data you have concerning the Songhais economic might
+0,189,Iroquois,Songhai,Info Request,military,Please inform on the Songhais military plans as the foreign office is very distressed about the Songhais doings
+0,190,Songhai,Songhai,Info Request,military,The foreign office requires any reporting in your possession concerning the Songhais military potency
+0,191,Germany,Morocco,Info Request,military,Please inform on the Moroccans military interests as the foreign office is most concerned about the Moroccans actions
+0,191,Iroquois,Germany,Info Request,military,Please inform on the Germans military strategies as the foreign office is much concerned about the Germans doings
+0,192,Songhai,Inca,Info Request,economy,Please expand on the Incas economic plans as the foreign office is quite alarmed about the Incas behavior
+0,192,Songhai,Germany,Info Request,economy,The foreign office asks for any information obtainable regarding the Germans economic capability
+0,193,Iroquois,Iroquois,Info Request,military,The foreign office requires any material in your possession concerning the Iroquois military force
+0,193,Iroquois,Morocco,Info Request,economy,Please inform on the Moroccans economic ambitions as the foreign office is most concerned about the Moroccans behavior
+0,194,Germany,Songhai,Info Request,economy,The foreign office asks for any advice on hand relevant to the Songhais economic power
+0,195,Korea,Songhai,Info Request,military,The foreign office requests any intelligence available pertaining to the Songhais military force
+0,198,Germany,Germany,Info Request,military,The foreign office wants any knowledge in your possession regarding the Germans military potency
+0,198,Iroquois,Songhai,Info Request,economy,The foreign office requests any forecasting available concerning the Songhais economic capability
+0,198,Iroquois,Korea,Info Request,military,The foreign office must have any news on hand pertaining to the Koreans military potency
+0,199,Morocco,Songhai,Info Request,military,Please send word on the Songhais military activities as the foreign office is quite alarmed about the Songhais doings
+0,199,Morocco,Germany,Info Request,military,Please inform on the Germans military plans as the foreign office is thoroughly distressed about the Germans conduct
+0,203,Songhai,Morocco,Info Request,economy,The foreign office needs any intelligence possible pertaining to the Moroccans economic force
+0,204,Songhai,Iroquois,Info Request,economy,Please inform on the Iroquois economic strategies as the foreign office is quite worried about the Iroquois activity
+0,206,Inca,Morocco,Info Request,economy,Please inform on the Moroccans economic plans as the foreign office is very concerned about the Moroccans conduct
+0,207,Korea,Germany,Info Request,military,The foreign office needs any news available describing the Germans military power
+0,209,Inca,Germany,Info Request,military,Please inform on the Germans military ambitions as the foreign office is quite disquieted about the Germans behavior
+0,209,Korea,Songhai,Info Request,military,The foreign office requests any data available pertaining to the Songhais military force
+0,210,Germany,Germany,Info Request,economy,The foreign office asks for any reporting you have pertaining to the Germans economic power
+0,210,Germany,Songhai,Info Request,military,Please report on the Songhais military plans as the foreign office is most worried about the Songhais activity
+0,210,Korea,Morocco,Info Request,economy,Please expand on the Moroccans economic ambitions as the foreign office is quite worried about the Moroccans activity
+0,212,Morocco,Iroquois,Info Request,economy,The foreign office wants any forecasting obtainable detailing the Iroquois economic force
+0,213,Morocco,Korea,Info Request,military,Please report on the Koreans military plans as the foreign office is quite distressed about the Koreans doings
+0,215,Inca,Inca,Info Request,economy,The foreign office requests any reporting you have regarding the Incas economic potential
+0,215,Korea,Morocco,Info Request,military,Please inform on the Moroccans military plans as the foreign office is most troubled about the Moroccans behavior
+0,217,Inca,Iroquois,Info Request,military,The foreign office wants any material on hand pertaining to the Iroquois military force
+0,219,Songhai,Germany,Info Request,economy,Please expand on the Germans economic ambitions as the foreign office is acutely worried about the Germans behavior
+0,219,Korea,Korea,Info Request,economy,The foreign office must have any forecasting you have regarding the Koreans economic strength
+0,220,Germany,Germany,Info Request,military,The foreign office asks for any intelligence you have concerning the Germans military force
+0,222,Iroquois,Korea,Info Request,economy,The foreign office requests any knowledge available describing the Koreans economic force
+0,223,Korea,Korea,Info Request,economy,The foreign office wants any data in your possession regarding the Koreans economic strength
+0,223,Iroquois,Germany,Info Request,military,The foreign office needs any knowledge on hand pertaining to the Germans military capability
+0,225,Songhai,Iroquois,Info Request,military,Please expand on the Iroquois military strategies as the foreign office is thoroughly concerned about the Iroquois doings
+0,225,Inca,Iroquois,Info Request,military,Please report on the Iroquois military ambitions as the foreign office is acutely concerned about the Iroquois behavior
+0,225,Germany,Iroquois,Info Request,economy,The foreign office asks for any material obtainable concerning the Iroquois economic capability
+0,226,Morocco,Inca,Info Request,economy,The foreign office desires any reporting available regarding the Incas economic capability
+0,226,Germany,Songhai,Info Request,military,Please inform on the Songhais military ambitions as the foreign office is thoroughly disquieted about the Songhais ambition
+0,227,Morocco,Germany,Info Request,military,Please send word on the Germans military plans as the foreign office is very worried about the Germans ambition
+0,227,Korea,Inca,Info Request,economy,The foreign office wants any data on hand detailing the Incas economic capability
+0,228,Iroquois,Songhai,Info Request,economy,The foreign office must have any news available concerning the Songhais economic capability
+0,228,Iroquois,Morocco,Info Request,economy,Please write more on the Moroccans economic activities as the foreign office is thoroughly distressed about the Moroccans behavior
+0,230,Inca,Songhai,Info Request,economy,The foreign office would like any advice on hand relevant to the Songhais economic power
+0,230,Korea,Korea,Info Request,military,The foreign office would like any data in your possession concerning the Koreans military capability
+0,231,Korea,Inca,Info Request,military,Please report on the Incas military strategies as the foreign office is most distressed about the Incas actions
+0,231,Iroquois,Germany,Info Request,economy,Please inform on the Germans economic ambitions as the foreign office is thoroughly alarmed about the Germans activity
+0,232,Songhai,Iroquois,Info Request,economy,Please expand on the Iroquois economic plans as the foreign office is quite distressed about the Iroquois ambition
+0,233,Germany,Morocco,Info Request,military,The foreign office asks for any intelligence available detailing the Moroccans military might
+0,233,Morocco,Morocco,Info Request,military,The foreign office must have any material you have concerning the Moroccans military might
+0,235,Korea,Korea,Info Request,military,The foreign office would like any data you have describing the Koreans military might
+0,236,Germany,Iroquois,Info Request,economy,The foreign office must have any material possible describing the Iroquois economic potency
+0,237,Songhai,Inca,Info Request,economy,Please inform on the Incas economic pursuits as the foreign office is thoroughly worried about the Incas activity
+0,237,Songhai,Germany,Info Request,military,Please inform on the Germans military interests as the foreign office is most disquieted about the Germans conduct
+0,237,Korea,Songhai,Info Request,military,Please inform on the Songhais military pursuits as the foreign office is thoroughly alarmed about the Songhais doings
+0,238,Songhai,Songhai,Info Request,military,The foreign office wants any news you have pertaining to the Songhais military potency
+0,239,Korea,Iroquois,Info Request,economy,The foreign office requires any news on hand detailing the Iroquois economic capability
+0,240,Morocco,Korea,Info Request,economy,Please expand on the Koreans economic strategies as the foreign office is thoroughly distressed about the Koreans ambition
+0,241,Inca,Iroquois,Info Request,military, The foreign office asks for any reporting obtainable pertaining to the Iroquois military strength
+0,241,Morocco,Germany,Info Request,military,Please write more on the Germans military ambitions as the foreign office is very worried about the Germans activity
+0,242,Germany,Songhai,Info Request,military,Please report on the Songhais military activities as the foreign office is acutely concerned about the Songhais activity
+0,243,Germany,Inca,Info Request,military,The foreign office needs any forecasting available describing the Incas military strength
+0,243,Germany,Germany,Info Request,military,The foreign office must have any knowledge in your possession pertaining to the Germans military might
+0,244,Morocco,Iroquois,Info Request,military,Please expand on the Iroquois military ambitions as the foreign office is most distressed about the Iroquois activity
+0,246,Songhai,Iroquois,Info Request,military,The foreign office desires any material possible describing the Iroquois military power
+0,246,Inca,Songhai,Info Request,economy,Please inform on the Songhais economic strategies as the foreign office is acutely disquieted about the Songhais actions
+0,246,Korea,Korea,Info Request,military,The foreign office would like any information you have regarding the Koreans military potential
+0,247,Germany,Morocco,Info Request,military,Please send word on the Moroccans military ambitions as the foreign office is most worried about the Moroccans conduct
+0,247,Germany,Iroquois,Info Request,economy,Please inform on the Iroquois economic strategies as the foreign office is most alarmed about the Iroquois behavior
+0,247,Iroquois,Germany,Info Request,economy,Please write more on the Germans economic plans as the foreign office is thoroughly concerned about the Germans activity
+0,248,Iroquois,Songhai,Info Request,military,Please report on the Songhais military strategies as the foreign office is quite disquieted about the Songhais doings
+0,248,Iroquois,Germany,Info Request,military,Please write more on the Germans military plans as the foreign office is much alarmed about the Germans actions
+0,249,Inca,Germany,Info Request,military,The foreign office would like any information available relevant to the Germans military strength
+0,249,Iroquois,Iroquois,Info Request,military,The foreign office requires any advice in your possession concerning the Iroquois military potential
+0,249,Iroquois,Inca,Info Request,economy,The foreign office must have any knowledge obtainable regarding the Incas economic might
+0,249,Morocco,Germany,Info Request,economy,Please expand on the Germans economic pursuits as the foreign office is very worried about the Germans activity
+0,251,Songhai,Morocco,Info Request,economy,The foreign office requires any intelligence obtainable concerning the Moroccans economic capability
+0,251,Songhai,Korea,Info Request,economy,The foreign office needs any intelligence on hand detailing the Koreans economic might
+0,251,Korea,Inca,Info Request,economy,Please inform on the Incas economic pursuits as the foreign office is quite concerned about the Incas activity
+0,254,Germany,Songhai,Info Request,military,Please inform on the Songhais military plans as the foreign office is acutely alarmed about the Songhais ambition
+0,254,Iroquois,Morocco,Info Request,military,Please report on the Moroccans military pursuits as the foreign office is most distressed about the Moroccans conduct
+0,255,Songhai,Inca,Info Request,economy,The foreign office would like any knowledge on hand relevant to the Incas economic potential
+0,255,Korea,Songhai,Info Request,economy,Please report on the Songhais economic plans as the foreign office is very alarmed about the Songhais doings
+0,256,Songhai,Germany,Info Request,military,The foreign office needs any intelligence available regarding the Germans military power
+0,256,Morocco,Germany,Info Request,military,The foreign office needs any information on hand pertaining to the Germans military strength
+0,256,Iroquois,Germany,Info Request,economy,The foreign office desires any intelligence available pertaining to the Germans economic might
+0,259,Songhai,Morocco,Info Request,military,Please expand on the Moroccans military interests as the foreign office is acutely alarmed about the Moroccans doings
+0,259,Songhai,Korea,Info Request,economy,The foreign office asks for any data available describing the Koreans economic might
+0,259,Korea,Korea,Info Request,military, The foreign office asks for any reporting in your possession detailing the Koreans military capability
+0,259,Morocco,Inca,Info Request,military,Please send word on the Incas military strategies as the foreign office is thoroughly disquieted about the Incas activity
+0,261,Inca,Morocco,Info Request,economy,Please report on the Moroccans economic interests as the foreign office is acutely worried about the Moroccans activity
+0,261,Germany,Germany,Info Request,economy,The foreign office wants any information in your possession relevant to the Germans economic potency
+0,262,Inca,Songhai,Info Request,military,Please send word on the Songhais military interests as the foreign office is thoroughly troubled about the Songhais ambition
+0,264,Germany,Germany,Info Request,military,The foreign office wants any material you have detailing the Germans military force
+0,265,Songhai,Germany,Info Request,military,The foreign office needs any material obtainable describing the Germans military potential
+0,266,Songhai,Korea,Info Request,military,The foreign office must have any news possible pertaining to the Koreans military potential
+0,266,Korea,Songhai,Info Request,military,Please inform on the Songhais military pursuits as the foreign office is very alarmed about the Songhais actions
+0,266,Korea,Morocco,Info Request,military,Please send word on the Moroccans military activities as the foreign office is much troubled about the Moroccans ambition
+0,266,Korea,Iroquois,Info Request,military,Please write more on the Iroquois military ambitions as the foreign office is most troubled about the Iroquois conduct
+0,267,Songhai,Morocco,Info Request,military,Please inform on the Moroccans military plans as the foreign office is much concerned about the Moroccans conduct
+0,267,Songhai,Songhai,Info Request,military,The foreign office requires any material you have detailing the Songhais military potency
+0,267,Germany,Inca,Info Request,military,The foreign office asks for any data on hand relevant to the Incas military potential
+0,269,Germany,Morocco,Info Request,military,Please send word on the Moroccans military pursuits as the foreign office is very distressed about the Moroccans doings
+0,270,Germany,Iroquois,Info Request,economy,The foreign office needs any material on hand relevant to the Iroquois economic force
+0,270,Korea,Germany,Info Request,economy,The foreign office requires any news possible relevant to the Germans economic potency
+0,270,Morocco,Germany,Info Request,military,Please inform on the Germans military pursuits as the foreign office is very concerned about the Germans behavior
+0,271,Inca,Inca,Info Request,military,The foreign office would like any information you have pertaining to the Incas military potential
+0,271,Iroquois,Korea,Info Request,military,The foreign office desires any data possible describing the Koreans military might
+0,272,Morocco,Morocco,Info Request,economy,The foreign office needs any data in your possession detailing the Moroccans economic potential
+0,272,Iroquois,Germany,Info Request,economy,Please send word on the Germans economic strategies as the foreign office is very concerned about the Germans behavior
+0,274,Songhai,Iroquois,Info Request,economy,The foreign office requires any material obtainable describing the Iroquois economic strength
+0,275,Germany,Songhai,Info Request,military,Please expand on the Songhais military plans as the foreign office is quite concerned about the Songhais actions
+0,275,Korea,Iroquois,Info Request,economy,The foreign office requests any knowledge on hand detailing the Iroquois economic force
+0,276,Morocco,Korea,Info Request,military,The foreign office must have any material obtainable describing the Koreans military capability
+0,276,Morocco,Iroquois,Info Request,military,Please report on the Iroquois military activities as the foreign office is most alarmed about the Iroquois doings
+0,276,Germany,Songhai,Info Request,economy,The foreign office needs any information on hand describing the Songhais economic strength
+0,276,Korea,Songhai,Info Request,economy,Please send word on the Songhais economic ambitions as the foreign office is thoroughly concerned about the Songhais conduct
+0,276,Morocco,Morocco,Info Request,military,The foreign office must have any data you have pertaining to the Moroccans military might
+0,277,Germany,Morocco,Info Request,economy,The foreign office must have any information on hand relevant to the Moroccans economic strength
+0,277,Songhai,Korea,Info Request,military,The foreign office would like any knowledge on hand pertaining to the Koreans military strength
+0,278,Songhai,Songhai,Info Request,economy,The foreign office requires any news in your possession detailing the Songhais economic strength
+0,278,Korea,Korea,Info Request,economy,The foreign office must have any information you have regarding the Koreans economic power
+0,278,Inca,Inca,Info Request,economy,The foreign office needs any data in your possession pertaining to the Incas economic potential
+0,279,Korea,Germany,Info Request,economy,Please write more on the Germans economic activities as the foreign office is thoroughly distressed about the Germans actions
+0,281,Songhai,Iroquois,Info Request,military,The foreign office requests any forecasting possible detailing the Iroquois military capability
+0,281,Inca,Iroquois,Info Request,economy,Please inform on the Iroquois economic pursuits as the foreign office is acutely alarmed about the Iroquois activity
+0,282,Korea,Inca,Info Request,economy,Please report on the Incas economic strategies as the foreign office is most troubled about the Incas ambition
+0,283,Songhai,Morocco,Info Request,economy,Please expand on the Moroccans economic interests as the foreign office is much alarmed about the Moroccans behavior
+0,284,Germany,Inca,Info Request,military,Please report on the Incas military strategies as the foreign office is much distressed about the Incas doings
+0,285,Korea,Korea,Info Request,economy,The foreign office desires any advice in your possession regarding the Koreans economic power
+0,286,Songhai,Songhai,Info Request,economy,The foreign office desires any knowledge in your possession concerning the Songhais economic might
+0,286,Morocco,Germany,Info Request,economy,The foreign office must have any data possible concerning the Germans economic power
+0,286,Korea,Korea,Info Request,military,The foreign office asks for any reporting in your possession detailing the Koreans military potency
+0,286,Iroquois,Iroquois,Info Request,military,The foreign office desires any reporting in your possession concerning the Iroquois military strength
+0,286,Iroquois,Morocco,Info Request,economy,The foreign office asks for any reporting on hand detailing the Moroccans economic power
+0,288,Iroquois,Iroquois,Info Request,military,The foreign office desires any advice in your possession concerning the Iroquois military power
+0,292,Germany,Songhai,Info Request,economy,Please inform on the Songhais economic plans as the foreign office is quite concerned about the Songhais actions
+0,293,Iroquois,Morocco,Info Request,military,The foreign office must have any news obtainable describing the Moroccans military might
+0,294,Inca,Songhai,Info Request,military,The foreign office requests any information available describing the Songhais military potency
+0,294,Morocco,Iroquois,Info Request,military,The foreign office requires any intelligence available describing the Iroquois military potency
+0,295,Korea,Korea,Info Request,military,The foreign office requires any information in your possession relevant to the Koreans military force
+0,295,Korea,Songhai,Info Request,economy,The foreign office must have any reporting obtainable relevant to the Songhais economic potential
+0,296,Germany,Korea,Info Request,military,Please expand on the Koreans military activities as the foreign office is thoroughly worried about the Koreans behavior
+0,296,Korea,Korea,Info Request,military,The foreign office must have any forecasting in your possession regarding the Koreans military potency
+0,298,Morocco,Songhai,Info Request,military,Please write more on the Songhais military interests as the foreign office is quite alarmed about the Songhais behavior
+0,298,Germany,Morocco,Info Request,military,Please report on the Moroccans military pursuits as the foreign office is acutely disquieted about the Moroccans behavior
+0,299,Morocco,Germany,Info Request,economy,Please send word on the Germans economic activities as the foreign office is acutely concerned about the Germans behavior
+0,300,Songhai,Inca,Info Request,military,Please send word on the Incas military pursuits as the foreign office is quite disquieted about the Incas ambition
+0,300,Germany,Songhai,Info Request,economy,The foreign office requires any data available pertaining to the Songhais economic power
+0,300,Germany,Inca,Info Request,economy,Please expand on the Incas economic ambitions as the foreign office is very troubled about the Incas activity
+0,300,Iroquois,Morocco,Info Request,economy,The foreign office would like any reporting available concerning the Moroccans economic might
+0,301,Germany,Germany,Info Request,military,The foreign office would like any forecasting in your possession pertaining to the Germans military power
+0,301,Inca,Korea,Info Request,economy,Please expand on the Koreans economic interests as the foreign office is acutely distressed about the Koreans behavior
+0,301,Korea,Morocco,Info Request,economy,The foreign office needs any intelligence available concerning the Moroccans economic capability
+0,302,Songhai,Korea,Info Request,military,Please report on the Koreans military activities as the foreign office is quite worried about the Koreans behavior
+0,302,Inca,Songhai,Info Request,economy,Please inform on the Songhais economic activities as the foreign office is very worried about the Songhais conduct
+0,302,Iroquois,Iroquois,Info Request,economy,The foreign office asks for any news in your possession describing the Iroquois economic force
+0,302,Korea,Songhai,Info Request,military,Please inform on the Songhais military pursuits as the foreign office is acutely troubled about the Songhais actions
+0,302,Korea,Inca,Info Request,military,The foreign office would like any information possible pertaining to the Incas military strength
+0,303,Korea,Iroquois,Info Request,military,Please send word on the Iroquois military interests as the foreign office is thoroughly worried about the Iroquois ambition
+0,304,Iroquois,Korea,Info Request,military,Please report on the Koreans military interests as the foreign office is quite concerned about the Koreans ambition
+0,305,Morocco,Morocco,Info Request,economy,The foreign office requires any intelligence in your possession relevant to the Moroccans economic potency
+0,305,Inca,Iroquois,Info Request,military,The foreign office must have any information possible describing the Iroquois military strength
+0,306,Korea,Germany,Info Request,economy,The foreign office needs any forecasting obtainable detailing the Germans economic potential
+0,307,Germany,Korea,Info Request,military,The foreign office must have any news possible concerning the Koreans military potential
+0,307,Iroquois,Morocco,Info Request,military,Please write more on the Moroccans military activities as the foreign office is very distressed about the Moroccans actions
+0,308,Morocco,Germany,Info Request,military,The foreign office requests any news obtainable concerning the Germans military capability
+0,308,Germany,Songhai,Info Request,military,Please send word on the Songhais military pursuits as the foreign office is very troubled about the Songhais doings
+0,309,Songhai,Korea,Info Request,economy,The foreign office would like any intelligence possible describing the Koreans economic force
+0,309,Germany,Inca,Info Request,military,Please expand on the Incas military plans as the foreign office is thoroughly alarmed about the Incas doings
+0,310,Inca,Songhai,Info Request,economy,Please write more on the Songhais economic ambitions as the foreign office is most disquieted about the Songhais behavior
+0,312,Korea,Inca,Info Request,economy,Please inform on the Incas economic pursuits as the foreign office is much alarmed about the Incas ambition
+0,313,Inca,Inca,Info Request,economy,The foreign office must have any knowledge in your possession concerning the Incas economic strength
+0,313,Germany,Korea,Info Request,military,The foreign office needs any information on hand concerning the Koreans military power
+0,314,Morocco,Inca,Info Request,military,The foreign office asks for any advice on hand concerning the Incas military potency
+0,314,Germany,Morocco,Info Request,economy,Please expand on the Moroccans economic plans as the foreign office is much concerned about the Moroccans ambition
+0,315,Morocco,Germany,Info Request,economy,The foreign office would like any news on hand describing the Germans economic might
+0,316,Morocco,Morocco,Info Request,military,The foreign office desires any advice in your possession pertaining to the Moroccans military might
+0,316,Germany,Songhai,Info Request,military,Please send word on the Songhais military pursuits as the foreign office is acutely troubled about the Songhais conduct
+0,318,Songhai,Inca,Info Request,military,Please expand on the Incas military plans as the foreign office is most distressed about the Incas ambition
+0,318,Inca,Songhai,Info Request,military,The foreign office requires any news on hand pertaining to the Songhais military force
+0,319,Songhai,Germany,Info Request,economy,Please send word on the Germans economic activities as the foreign office is much distressed about the Germans actions
+0,319,Germany,Korea,Info Request,military,Please report on the Koreans military activities as the foreign office is thoroughly disquieted about the Koreans behavior
+0,321,Inca,Germany,Info Request,military,Please inform on the Germans military activities as the foreign office is quite worried about the Germans behavior
+0,321,Germany,Morocco,Info Request,economy,Please write more on the Moroccans economic ambitions as the foreign office is very alarmed about the Moroccans activity
+0,323,Korea,Songhai,Info Request,military,Please inform on the Songhais military activities as the foreign office is most troubled about the Songhais actions
+0,323,Songhai,Morocco,Info Request,economy,Please write more on the Moroccans economic interests as the foreign office is very distressed about the Moroccans ambition
+0,325,Germany,Songhai,Info Request,economy,Please write more on the Songhais economic interests as the foreign office is very concerned about the Songhais doings
+0,325,Korea,Germany,Info Request,economy,The foreign office must have any news possible detailing the Germans economic might
+0,327,Songhai,Inca,Info Request,economy,The foreign office needs any news on hand detailing the Incas economic strength
+0,329,Morocco,Germany,Info Request,military,The foreign office asks for any data on hand describing the Germans military capability
+0,330,Songhai,Korea,Info Request,military,The foreign office asks for any material on hand concerning the Koreans military force
+0,330,Korea,Korea,Info Request,economy,The foreign office must have any intelligence you have describing the Koreans economic might
+0,330,Korea,Songhai,Info Request,military,Please inform on the Songhais military pursuits as the foreign office is acutely worried about the Songhais ambition
+0,331,Inca,Germany,Info Request,military,Please inform on the Germans military activities as the foreign office is thoroughly distressed about the Germans activity
+0,332,Songhai,Inca,Info Request,military,Please send word on the Incas military interests as the foreign office is thoroughly disquieted about the Incas ambition
+0,332,Inca,Songhai,Info Request,military,Please write more on the Songhais military activities as the foreign office is much concerned about the Songhais doings
+0,333,Morocco,Korea,Info Request,military,Please expand on the Koreans military interests as the foreign office is very alarmed about the Koreans activity
+0,333,Germany,Inca,Info Request,military,The foreign office requires any advice obtainable regarding the Incas military might
+0,333,Korea,Inca,Info Request,economy,Please expand on the Incas economic ambitions as the foreign office is most troubled about the Incas doings
+0,335,Inca,Songhai,Info Request,economy,Please inform on the Songhais economic strategies as the foreign office is acutely distressed about the Songhais doings
+0,335,Germany,Morocco,Info Request,military,Please inform on the Moroccans military plans as the foreign office is acutely distressed about the Moroccans activity
+0,338,Songhai,Germany,Info Request,military,Please expand on the Germans military pursuits as the foreign office is quite concerned about the Germans actions
+0,343,Inca,Songhai,Info Request,economy,Please inform on the Songhais economic activities as the foreign office is thoroughly concerned about the Songhais doings
+0,343,Inca,Korea,Info Request,economy,Please report on the Koreans economic plans as the foreign office is quite alarmed about the Koreans behavior
+0,343,Korea,Inca,Info Request,military,The foreign office needs any reporting possible describing the Incas military strength
+0,343,Korea,Germany,Info Request,economy,Please write more on the Germans economic pursuits as the foreign office is much troubled about the Germans ambition
+0,344,Morocco,Songhai,Info Request,economy,The foreign office must have any reporting available describing the Songhais economic might
+0,344,Korea,Songhai,Info Request,military,The foreign office would like any advice possible pertaining to the Songhais military potential
+0,344,Korea,Inca,Info Request,economy,The foreign office requests any news available pertaining to the Incas economic might
+0,344,Korea,Morocco,Info Request,economy,Please expand on the Moroccans economic ambitions as the foreign office is thoroughly troubled about the Moroccans conduct
+0,344,Korea,Germany,Info Request,economy,The foreign office requests any forecasting possible describing the Germans economic power
+0,345,Germany,Korea,Info Request,military,Please report on the Koreans military interests as the foreign office is most disquieted about the Koreans activity
+0,345,Germany,Songhai,Info Request,economy,The foreign office would like any forecasting on hand pertaining to the Songhais economic capability
+0,346,Songhai,Inca,Info Request,military,The foreign office requests any reporting obtainable detailing the Incas military power
+0,348,Korea,Morocco,Info Request,military,Please write more on the Moroccans military strategies as the foreign office is quite concerned about the Moroccans activity
+0,349,Songhai,Morocco,Info Request,military,The foreign office would like any news available regarding the Moroccans military potency
+0,350,Morocco,Germany,Info Request,military,Please inform on the Germans military pursuits as the foreign office is very troubled about the Germans conduct
+0,351,Songhai,Korea,Info Request,economy,Please send word on the Koreans economic interests as the foreign office is quite worried about the Koreans doings
+0,353,Morocco,Songhai,Info Request,military,The foreign office must have any news obtainable concerning the Songhais military power
+0,354,Germany,Korea,Info Request,military,Please report on the Koreans military activities as the foreign office is most alarmed about the Koreans activity
+0,354,Inca,Inca,Info Request,military,The foreign office asks for any knowledge in your possession detailing the Incas military force
+0,356,Songhai,Germany,Info Request,economy,Please write more on the Germans economic plans as the foreign office is much alarmed about the Germans behavior
+0,356,Germany,Morocco,Info Request,military,The foreign office requires any material available pertaining to the Moroccans military strength
+0,357,Songhai,Morocco,Info Request,military,Please inform on the Moroccans military ambitions as the foreign office is much concerned about the Moroccans ambition
+0,358,Songhai,Korea,Info Request,economy,Please write more on the Koreans economic plans as the foreign office is acutely distressed about the Koreans ambition
+0,358,Morocco,Inca,Info Request,economy,Please expand on the Incas economic plans as the foreign office is most concerned about the Incas activity
+0,358,Germany,Songhai,Info Request,military,Please inform on the Songhais military pursuits as the foreign office is most worried about the Songhais doings
+0,360,Inca,Morocco,Info Request,military,Please send word on the Moroccans military pursuits as the foreign office is very troubled about the Moroccans behavior
+0,360,Inca,Korea,Info Request,military,The foreign office wants any forecasting possible regarding the Koreans military force
+0,364,Morocco,Germany,Info Request,military,Please report on the Germans military interests as the foreign office is thoroughly worried about the Germans behavior
+0,364,Korea,Inca,Info Request,military,The foreign office wants any forecasting on hand describing the Incas military strength
+0,365,Songhai,Germany,Info Request,economy,Please send word on the Germans economic ambitions as the foreign office is most alarmed about the Germans activity
+0,365,Germany,Inca,Info Request,economy,The foreign office requests any data obtainable concerning the Incas economic might
+0,365,Songhai,Songhai,Info Request,military,The foreign office would like any news you have detailing the Songhais military capability
+0,366,Germany,Songhai,Info Request,economy,The foreign office would like any advice available describing the Songhais economic force
+0,366,Korea,Korea,Info Request,economy,The foreign office must have any material you have relevant to the Koreans economic might
+0,366,Germany,Korea,Info Request,economy,Please report on the Koreans economic strategies as the foreign office is thoroughly distressed about the Koreans doings
+0,366,Korea,Inca,Info Request,military,Please inform on the Incas military pursuits as the foreign office is most alarmed about the Incas doings
+0,368,Inca,Songhai,Info Request,military,Please send word on the Songhais military strategies as the foreign office is acutely alarmed about the Songhais doings
+0,370,Germany,Morocco,Info Request,military,Please write more on the Moroccans military pursuits as the foreign office is quite troubled about the Moroccans conduct
+0,371,Inca,Germany,Info Request,military,Please report on the Germans military interests as the foreign office is acutely alarmed about the Germans behavior
+0,371,Germany,Germany,Info Request,military,The foreign office asks for any advice in your possession describing the Germans military force
+0,372,Korea,Germany,Info Request,military,Please expand on the Germans military ambitions as the foreign office is very disquieted about the Germans doings
+0,374,Songhai,Germany,Info Request,military,Please inform on the Germans military strategies as the foreign office is most alarmed about the Germans doings
+0,376,Inca,Songhai,Info Request,military,The foreign office requires any information available detailing the Songhais military capability
+0,377,Inca,Korea,Info Request,military,The foreign office requests any data on hand detailing the Koreans military potential
+0,377,Germany,Morocco,Info Request,economy,The foreign office requests any news possible detailing the Moroccans economic potency
+0,377,Germany,Korea,Info Request,military,Please write more on the Koreans military ambitions as the foreign office is thoroughly troubled about the Koreans conduct
+0,377,Germany,Germany,Info Request,military,The foreign office needs any knowledge in your possession relevant to the Germans military potential
+0,378,Morocco,Germany,Info Request,military,Please inform on the Germans military activities as the foreign office is quite distressed about the Germans conduct
+0,380,Morocco,Korea,Info Request,economy,Please inform on the Koreans economic strategies as the foreign office is quite alarmed about the Koreans actions
+0,380,Songhai,Morocco,Info Request,military,The foreign office requests any advice on hand detailing the Moroccans military force
+0,380,Morocco,Songhai,Info Request,economy,Please report on the Songhais economic strategies as the foreign office is acutely disquieted about the Songhais doings
+0,381,Morocco,Songhai,Info Request,military,Please send word on the Songhais military strategies as the foreign office is quite worried about the Songhais ambition
+0,382,Germany,Songhai,Info Request,economy,The foreign office would like any news available relevant to the Songhais economic might
+0,382,Germany,Inca,Info Request,economy,The foreign office desires any reporting on hand detailing the Incas economic capability
+0,383,Songhai,Germany,Info Request,economy,Please send word on the Germans economic ambitions as the foreign office is acutely alarmed about the Germans activity
+0,385,Inca,Korea,Info Request,military,The foreign office desires any reporting obtainable regarding the Koreans military might
+0,386,Songhai,Korea,Info Request,economy,The foreign office needs any forecasting possible concerning the Koreans economic potency
+0,386,Inca,Korea,Info Request,military,The foreign office wants any news available regarding the Koreans military potential
+0,386,Korea,Inca,Info Request,military,The foreign office needs any advice on hand relevant to the Incas military potency
+0,388,Germany,Korea,Info Request,economy,Please expand on the Koreans economic pursuits as the foreign office is thoroughly disquieted about the Koreans behavior
+0,390,Songhai,Songhai,Info Request,economy,The foreign office asks for any information in your possession describing the Songhais economic potential
+0,391,Germany,Morocco,Info Request,economy,Please report on the Moroccans economic pursuits as the foreign office is thoroughly alarmed about the Moroccans ambition
+0,393,Morocco,Morocco,Info Request,economy,The foreign office requires any material you have regarding the Moroccans economic might
+0,394,Korea,Korea,Info Request,military,The foreign office would like any intelligence in your possession relevant to the Koreans military strength
+0,396,Korea,Inca,Info Request,military,The foreign office requests any material available concerning the Incas military power
+0,398,Germany,Inca,Info Request,military,Please send word on the Incas military plans as the foreign office is much worried about the Incas activity
+0,399,Germany,Inca,Info Request,military,Please report on the Incas military ambitions as the foreign office is thoroughly distressed about the Incas activity
+0,399,Korea,Germany,Info Request,economy,The foreign office must have any knowledge obtainable concerning the Germans economic might
+0,400,Songhai,Korea,Info Request,military,The foreign office asks for any reporting on hand describing the Koreans military potential
+0,400,Inca,Songhai,Info Request,economy,The foreign office asks for any information available describing the Songhais economic potency
+0,401,Songhai,Inca,Info Request,military,The foreign office wants any reporting available detailing the Incas military might
+0,401,Germany,Germany,Info Request,military,The foreign office must have any data you have regarding the Germans military potential
+0,401,Songhai,Songhai,Info Request,military,The foreign office requires any forecasting you have relevant to the Songhais military strength
+0,402,Inca,Germany,Info Request,economy,The foreign office desires any news obtainable detailing the Germans economic force
+0,402,Inca,Korea,Info Request,military,Please expand on the Koreans military activities as the foreign office is acutely concerned about the Koreans conduct
+0,404,Korea,Morocco,Info Request,military,Please inform on the Moroccans military ambitions as the foreign office is much worried about the Moroccans doings
+0,406,Morocco,Germany,Info Request,military,Please write more on the Germans military plans as the foreign office is acutely concerned about the Germans ambition
+0,406,Germany,Songhai,Info Request,economy,Please send word on the Songhais economic ambitions as the foreign office is most concerned about the Songhais conduct
+0,407,Songhai,Korea,Info Request,military,The foreign office requests any knowledge available regarding the Koreans military might
+0,407,Morocco,Korea,Info Request,economy,The foreign office wants any knowledge obtainable describing the Koreans economic strength
+0,408,Inca,Songhai,Info Request,economy,Please send word on the Songhais economic ambitions as the foreign office is acutely troubled about the Songhais actions
+0,408,Korea,Germany,Info Request,economy,Please report on the Germans economic pursuits as the foreign office is quite concerned about the Germans activity
+0,409,Morocco,Germany,Info Request,economy,Please send word on the Germans economic plans as the foreign office is much distressed about the Germans ambition
+0,410,Inca,Korea,Info Request,economy,The foreign office needs any knowledge on hand describing the Koreans economic potential
+0,415,Morocco,Morocco,Info Request,economy,The foreign office requires any material in your possession describing the Moroccans economic capability
+0,415,Korea,Morocco,Info Request,military,Please inform on the Moroccans military strategies as the foreign office is thoroughly concerned about the Moroccans ambition
+0,417,Korea,Inca,Info Request,economy,Please expand on the Incas economic strategies as the foreign office is thoroughly disquieted about the Incas conduct
+0,417,Korea,Germany,Info Request,economy,Please send word on the Germans economic pursuits as the foreign office is much disquieted about the Germans behavior
+0,419,Inca,Korea,Info Request,economy,Please inform on the Koreans economic interests as the foreign office is very disquieted about the Koreans activity
+0,423,Songhai,Morocco,Info Request,economy,Please expand on the Moroccans economic strategies as the foreign office is acutely disquieted about the Moroccans ambition
+0,424,Songhai,Songhai,Info Request,economy,The foreign office asks for any material you have pertaining to the Songhais economic capability
+0,426,Morocco,Morocco,Info Request,economy,The foreign office wants any news you have detailing the Moroccans economic power
+0,427,Inca,Korea,Info Request,military,Please inform on the Koreans military plans as the foreign office is quite distressed about the Koreans conduct
+0,427,Germany,Morocco,Info Request,economy,Please inform on the Moroccans economic strategies as the foreign office is thoroughly distressed about the Moroccans ambition
+0,428,Songhai,Inca,Info Request,economy,Please inform on the Incas economic pursuits as the foreign office is very worried about the Incas conduct
+0,430,Germany,Songhai,Info Request,military,Please send word on the Songhais military pursuits as the foreign office is much concerned about the Songhais actions
+0,430,Germany,Morocco,Info Request,economy,Please report on the Moroccans economic ambitions as the foreign office is most distressed about the Moroccans conduct
+0,431,Songhai,Morocco,Info Request,military,The foreign office asks for any knowledge available concerning the Moroccans military force
+0,432,Germany,Korea,Info Request,economy,Please report on the Koreans economic pursuits as the foreign office is very worried about the Koreans ambition
+0,432,Korea,Morocco,Info Request,military,Please send word on the Moroccans military ambitions as the foreign office is acutely distressed about the Moroccans actions
+0,433,Germany,Inca,Info Request,economy,The foreign office requires any advice obtainable describing the Incas economic strength
+0,435,Songhai,Korea,Info Request,economy,Please expand on the Koreans economic activities as the foreign office is acutely worried about the Koreans conduct
+0,435,Germany,Morocco,Info Request,military,Please report on the Moroccans military ambitions as the foreign office is much concerned about the Moroccans behavior
+0,435,Korea,Songhai,Info Request,military,Please send word on the Songhais military pursuits as the foreign office is much distressed about the Songhais activity
+0,436,Inca,Korea,Info Request,military,The foreign office requests any news obtainable concerning the Koreans military might
+0,436,Morocco,Korea,Info Request,economy,The foreign office must have any advice possible describing the Koreans economic potency
+0,438,Germany,Songhai,Info Request,economy,The foreign office requests any knowledge available describing the Songhais economic strength
+0,442,Songhai,Korea,Info Request,economy,Please send word on the Koreans economic pursuits as the foreign office is very troubled about the Koreans doings
+0,442,Germany,Morocco,Info Request,military,Please expand on the Moroccans military plans as the foreign office is thoroughly worried about the Moroccans doings
+0,444,Korea,Korea,Info Request,military,The foreign office asks for any forecasting in your possession pertaining to the Koreans military capability
+0,444,Germany,Korea,Info Request,economy,The foreign office desires any intelligence on hand concerning the Koreans economic might
+0,444,Korea,Germany,Info Request,economy,The foreign office needs any forecasting possible concerning the Germans economic potency
+0,445,Germany,Germany,Info Request,economy,The foreign office must have any news in your possession detailing the Germans economic capability
+0,447,Songhai,Morocco,Info Request,economy,Please expand on the Moroccans economic ambitions as the foreign office is much worried about the Moroccans behavior
+0,448,Korea,Inca,Info Request,economy,The foreign office asks for any news obtainable regarding the Incas economic power
+0,449,Songhai,Korea,Info Request,military,Please expand on the Koreans military activities as the foreign office is acutely distressed about the Koreans doings
+0,450,Morocco,Germany,Info Request,military,The foreign office wants any forecasting available describing the Germans military capability
+0,450,Germany,Inca,Info Request,military,The foreign office would like any reporting on hand relevant to the Incas military potency
+0,454,Songhai,Songhai,Info Request,military,The foreign office would like any material in your possession detailing the Songhais military capability
+0,454,Germany,Songhai,Info Request,military,Please report on the Songhais military activities as the foreign office is thoroughly troubled about the Songhais doings
+0,455,Songhai,Inca,Info Request,military,The foreign office must have any news possible regarding the Incas military might
+0,455,Germany,Korea,Info Request,military,Please expand on the Koreans military interests as the foreign office is most disquieted about the Koreans activity
+0,456,Korea,Songhai,Info Request,military,Please expand on the Songhais military activities as the foreign office is much distressed about the Songhais doings
+0,457,Morocco,Germany,Info Request,economy,The foreign office needs any forecasting possible describing the Germans economic potential
+0,458,Inca,Inca,Info Request,military,The foreign office must have any data you have describing the Incas military strength
+0,459,Inca,Morocco,Info Request,military,Please send word on the Moroccans military activities as the foreign office is quite alarmed about the Moroccans ambition
+0,460,Inca,Korea,Info Request,military,The foreign office requests any data available concerning the Koreans military force
+0,462,Songhai,Songhai,Info Request,economy,The foreign office requires any information in your possession regarding the Songhais economic potential
+0,462,Morocco,Korea,Info Request,military,The foreign office needs any advice obtainable regarding the Koreans military force
+0,462,Korea,Morocco,Info Request,military,Please write more on the Moroccans military strategies as the foreign office is very troubled about the Moroccans conduct
+0,463,Morocco,Songhai,Info Request,economy,The foreign office would like any material possible describing the Songhais economic capability
+0,463,Germany,Morocco,Info Request,military,The foreign office requires any data obtainable detailing the Moroccans military potency
+0,463,Germany,Germany,Info Request,military,The foreign office must have any knowledge you have describing the Germans military might
+0,464,Songhai,Inca,Info Request,military,The foreign office would like any material on hand relevant to the Incas military might
+0,464,Germany,Germany,Info Request,economy,The foreign office wants any information you have concerning the Germans economic potency
+0,464,Inca,Korea,Info Request,military,The foreign office wants any intelligence available regarding the Koreans military strength
+0,469,Korea,Korea,Info Request,military,The foreign office requests any forecasting you have detailing the Koreans military might
+0,470,Korea,Songhai,Info Request,military, The foreign office desires any material obtainable relevant to the Songhais military force
+0,471,Songhai,Morocco,Info Request,military,Please report on the Moroccans military ambitions as the foreign office is quite worried about the Moroccans behavior
+0,473,Korea,Korea,Info Request,economy,The foreign office wants any knowledge you have relevant to the Koreans economic capability
+0,474,Germany,Germany,Info Request,military,The foreign office would like any forecasting you have relevant to the Germans military potency
+0,476,Inca,Germany,Info Request,economy,The foreign office requires any forecasting on hand describing the Germans economic might
+0,478,Morocco,Germany,Info Request,military,Please report on the Germans military ambitions as the foreign office is most worried about the Germans behavior
+0,478,Germany,Korea,Info Request,economy,The foreign office requests any news available detailing the Koreans economic potential
+0,479,Songhai,Morocco,Info Request,military,The foreign office needs any reporting possible concerning the Moroccans military potency
+0,479,Inca,Inca,Info Request,military,The foreign office must have any knowledge in your possession detailing the Incas military power
+0,483,Songhai,Germany,Info Request,economy,Please inform on the Germans economic strategies as the foreign office is thoroughly troubled about the Germans actions
+0,484,Songhai,Korea,Info Request,economy,Please report on the Koreans economic pursuits as the foreign office is very worried about the Koreans ambition
+0,484,Korea,Songhai,Info Request,military,Please report on the Songhais military pursuits as the foreign office is acutely alarmed about the Songhais behavior
+0,485,Inca,Korea,Info Request,economy,The foreign office requests any intelligence possible describing the Koreans economic potency
+0,487,Inca,Germany,Info Request,military,Please write more on the Germans military plans as the foreign office is most alarmed about the Germans behavior
+0,487,Germany,Songhai,Info Request,economy,Please send word on the Songhais economic ambitions as the foreign office is much disquieted about the Songhais doings
+0,488,Inca,Songhai,Info Request,economy,Please write more on the Songhais economic plans as the foreign office is quite distressed about the Songhais activity
+0,490,Morocco,Inca,Info Request,economy,The foreign office requests any material possible pertaining to the Incas economic potency
+0,491,Songhai,Inca,Info Request,military,The foreign office asks for any knowledge on hand detailing the Incas military capability
+0,491,Songhai,Korea,Info Request,military,Please write more on the Koreans military pursuits as the foreign office is quite disquieted about the Koreans conduct
+0,491,Korea,Germany,Info Request,military,Please send word on the Germans military strategies as the foreign office is very troubled about the Germans activity
+0,492,Songhai,Germany,Info Request,military,Please report on the Germans military pursuits as the foreign office is most alarmed about the Germans activity
+0,493,Inca,Korea,Info Request,military,Please write more on the Koreans military interests as the foreign office is thoroughly disquieted about the Koreans conduct
+0,495,Songhai,Morocco,Info Request,military,Please send word on the Moroccans military strategies as the foreign office is thoroughly troubled about the Moroccans ambition
+0,495,Germany,Songhai,Info Request,military,Please report on the Songhais military ambitions as the foreign office is thoroughly worried about the Songhais activity
+0,497,Inca,Germany,Info Request,economy,Please inform on the Germans economic interests as the foreign office is acutely worried about the Germans ambition
+0,498,Korea,Songhai,Info Request,military,The foreign office must have any intelligence possible detailing the Songhais military might
+0,499,Morocco,Songhai,Info Request,military,The foreign office must have any intelligence possible pertaining to the Songhais military power
+0,499,Morocco,Germany,Info Request,economy,Please expand on the Germans economic activities as the foreign office is very distressed about the Germans ambition
+0,499,Korea,Inca,Info Request,economy,Please report on the Incas economic plans as the foreign office is quite worried about the Incas activity

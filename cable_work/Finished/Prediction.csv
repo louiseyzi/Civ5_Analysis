@@ -1,0 +1,569 @@
+,Turn,Civ1,Civ2,Relation,Value,Cable
+0,7,Songhai,Iroquois,Prediction,technological,We estimate the Iroquois to be pursuing technological dominance at present
+0,7,Iroquois,Songhai,Prediction,unknown,According to our sources the Songhai are centered around unknown preeminence
+0,10,Morocco,Songhai,Prediction,cultural,According to our intelligence officers the Songhai are focused on cultural preeminence
+0,10,Germany,Songhai,Prediction,cultural,We consider the Songhai to be pursuing cultural dominance these days
+0,12,Songhai,Germany,Prediction,unknown,We consider the Germans to be pursuing unknown dominance presently
+0,16,Morocco,Songhai,Prediction,unknown,According to the Moroccans agents the Songhai are largely about unknown preeminence
+0,17,Morocco,Germany,Prediction,unknown,We consider the Germans to be pursuing unknown dominance presently
+0,18,Korea,Germany,Prediction,technological,We believe the Germans to be pursuing technological dominance currently
+0,18,Iroquois,Korea,Prediction,technological,According to our spies the Koreans are centered around technological preeminence
+0,19,Inca,Germany,Prediction,technological,We consider the Germans to be pursuing technological dominance at present
+0,19,Morocco,Songhai,Prediction,unknown,We believe the Songhai to be pursuing unknown dominance presently
+0,19,Korea,Songhai,Prediction,unknown,We believe the Songhai to be pursuing unknown dominance of late
+0,26,Iroquois,Korea,Prediction,technological,According to our intelligence officers the Koreans are centered around technological preeminence
+0,27,Songhai,Morocco,Prediction,unknown,According to our spies the Moroccans are focused on unknown preeminence
+0,28,Korea,Iroquois,Prediction,technological,According to the Koreans intelligence officers the Iroquois are intent on technological preeminence
+0,28,Korea,Iroquois,Prediction,technological,According to our agents the Iroquois are mainly concerned with technological preeminence
+0,29,Inca,Germany,Prediction,technological,We perceive the Germans to be pursuing technological dominance now
+0,30,Songhai,Inca,Prediction,unknown,According to our agents the Incas are focused on unknown preeminence
+0,30,Songhai,Germany,Prediction,technological,We estimate the Germans to be pursuing technological dominance at present
+0,30,Germany,Morocco,Prediction,unknown,According to our agents the Moroccans are mainly concerned with unknown preeminence
+0,32,Songhai,Germany,Prediction,technological,The Songhai regard the Germans to be pursuing technological dominance at present
+0,32,Iroquois,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are largely about unknown preeminence
+0,33,Morocco,Korea,Prediction,unknown,The Moroccans perceive the Koreans to be pursuing unknown dominance of late
+0,35,Songhai,Morocco,Prediction,technological,According to our spies the Moroccans are focused on technological preeminence
+0,35,Germany,Inca,Prediction,technological,According to our intelligence officers the Incas are intent on technological preeminence
+0,36,Morocco,Iroquois,Prediction,technological,According to our agents the Iroquois are mainly concerned with technological preeminence
+0,36,Korea,Germany,Prediction,technological,We regard the Germans to be pursuing technological dominance presently
+0,37,Germany,Morocco,Prediction,military,We consider the Moroccans to be pursuing military dominance presently
+0,39,Iroquois,Morocco,Prediction,technological,According to our intelligence officers the Moroccans are intent on technological preeminence
+0,41,Morocco,Songhai,Prediction,unknown,The Moroccans perceive the Songhai to be pursuing unknown dominance these days
+0,41,Morocco,Korea,Prediction,unknown,We consider the Koreans to be pursuing unknown dominance these days
+0,43,Germany,Inca,Prediction,technological,According to our intelligence officers the Incas are focused on technological preeminence
+0,45,Morocco,Germany,Prediction,technological,According to our intelligence officers the Germans are focused on technological preeminence
+0,45,Korea,Germany,Prediction,technological,According to our agents the Germans are mainly concerned with technological preeminence
+0,46,Iroquois,Morocco,Prediction,technological,We perceive the Moroccans to be pursuing technological dominance now
+0,47,Korea,Songhai,Prediction,military,We regard the Songhai to be pursuing military dominance at present
+0,49,Songhai,Iroquois,Prediction,unknown,We believe the Iroquois to be pursuing unknown dominance at present
+0,49,Inca,Songhai,Prediction,unknown,According to the Incas intelligence officers the Songhai are largely about unknown preeminence
+0,49,Korea,Inca,Prediction,technological,We estimate the Incas to be pursuing technological dominance now
+0,49,Songhai,Inca,Prediction,diplomatic,According to the Songhais diplomatic cables the Incas are focused on technological preeminence
+0,50,Morocco,Korea,Prediction,unknown,We consider the Koreans to be pursuing unknown dominance presently
+0,51,Korea,Songhai,Prediction,unknown,According to the Koreans intelligence officers the Songhai are largely about unknown preeminence
+0,51,Iroquois,Inca,Prediction,diplomatic,According to our diplomatic cables the Incas are centered around technological preeminence
+0,52,Morocco,Iroquois,Prediction,unknown,According to our agents the Iroquois are intent on unknown preeminence
+0,54,Songhai,Korea,Prediction,technological,According to our intelligence officers the Koreans are mainly concerned with technological preeminence
+0,55,Iroquois,Germany,Prediction,unknown,We perceive the Germans to be pursuing unknown dominance currently
+0,56,Songhai,Iroquois,Prediction,diplomatic,According to our diplomatic cables the Iroquois are focused on unknown preeminence
+0,58,Germany,Morocco,Prediction,technological,According to our intelligence officers the Moroccans are centered around technological preeminence
+0,58,Iroquois,Korea,Prediction,technological,According to our intelligence officers the Koreans are largely about technological preeminence
+0,59,Songhai,Morocco,Prediction,technological,We report the Moroccans to be pursuing technological dominance now
+0,59,Inca,Germany,Prediction,diplomatic,According to our diplomatic cables the Germans are focused on unknown preeminence
+0,59,Germany,Inca,Prediction,technological,According to our agents the Incas are intent on technological preeminence
+0,59,Germany,Iroquois,Prediction,diplomatic,According to the Germans diplomatic cables the Iroquois are mainly concerned with unknown preeminence
+0,60,Germany,Iroquois,Prediction,unknown,We perceive the Iroquois to be pursuing unknown dominance now
+0,62,Iroquois,Inca,Prediction,technological,We consider the Incas to be pursuing technological dominance these days
+0,63,Germany,Korea,Prediction,technological,According to the Germans sources the Koreans are focused on technological preeminence
+0,63,Korea,Germany,Prediction,unknown,We perceive the Germans to be pursuing unknown dominance of late
+0,63,Songhai,Germany,Prediction,unknown,According to the Songhais spies the Germans are intent on unknown preeminence
+0,64,Songhai,Germany,Prediction,unknown,The Songhai report the Germans to be pursuing unknown dominance of late
+0,65,Germany,Morocco,Prediction,technological,According to our spies the Moroccans are focused on technological preeminence
+0,65,Korea,Songhai,Prediction,unknown,The Koreans estimate the Songhai to be pursuing unknown dominance currently
+0,66,Inca,Korea,Prediction,technological,According to our agents the Koreans are mainly concerned with technological preeminence
+0,66,Korea,Morocco,Prediction,technological,According to our intelligence officers the Moroccans are mainly concerned with technological preeminence
+0,66,Iroquois,Songhai,Prediction,military,According to the Iroquois sources the Songhai are centered around military preeminence
+0,67,Songhai,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are focused on technological preeminence
+0,67,Iroquois,Morocco,Prediction,technological,We consider the Moroccans to be pursuing technological dominance these days
+0,68,Morocco,Iroquois,Prediction,unknown,We estimate the Iroquois to be pursuing unknown dominance these days
+0,70,Inca,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are largely about unknown preeminence
+0,71,Morocco,Inca,Prediction,technological,We perceive the Incas to be pursuing technological dominance of late
+0,72,Germany,Morocco,Prediction,technological,We report the Moroccans to be pursuing technological dominance presently
+0,72,Korea,Germany,Prediction,unknown,We report the Germans to be pursuing unknown dominance now
+0,73,Morocco,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are focused on unknown preeminence
+0,73,Korea,Iroquois,Prediction,unknown,We report the Iroquois to be pursuing unknown dominance now
+0,74,Inca,Songhai,Prediction,unknown,The Incas report the Songhai to be pursuing unknown dominance of late
+0,74,Germany,Songhai,Prediction,unknown,According to our intelligence officers the Songhai are focused on unknown preeminence
+0,75,Songhai,Morocco,Prediction,technological,According to our agents the Moroccans are mainly concerned with technological preeminence
+0,75,Inca,Germany,Prediction,military,According to the Incas agents the Germans are mainly concerned with military preeminence
+0,75,Iroquois,Germany,Prediction,military,The Iroquois report the Germans to be pursuing military dominance presently
+0,76,Germany,Korea,Prediction,technological,According to our sources the Koreans are centered around technological preeminence
+0,76,Iroquois,Korea,Prediction,technological,The Iroquois report the Koreans to be pursuing technological dominance of late
+0,77,Songhai,Iroquois,Prediction,unknown,We report the Iroquois to be pursuing unknown dominance these days
+0,77,Korea,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are intent on technological preeminence
+0,79,Korea,Inca,Prediction,technological,We estimate the Incas to be pursuing technological dominance currently
+0,81,Korea,Germany,Prediction,technological,We figure the Germans to be pursuing technological dominance now
+0,82,Morocco,Inca,Prediction,technological,According to our spies the Incas are focused on technological preeminence
+0,83,Songhai,Morocco,Prediction,technological,According to our agents the Moroccans are mainly concerned with technological preeminence
+0,84,Morocco,Inca,Prediction,technological,The Moroccans regard the Incas to be pursuing technological dominance these days
+0,86,Germany,Korea,Prediction,cultural,The Germans perceive the Koreans to be pursuing cultural dominance at present
+0,86,Morocco,Korea,Prediction,cultural,We consider the Koreans to be pursuing cultural dominance now
+0,86,Germany,Morocco,Prediction,technological,According to our sources the Moroccans are focused on technological preeminence
+0,87,Morocco,Germany,Prediction,technological,We regard the Germans to be pursuing technological dominance now
+0,87,Germany,Korea,Prediction,cultural,According to our diplomatic cables the Koreans are focused on cultural preeminence
+0,87,Songhai,Inca,Prediction,technological,The Songhai perceive the Incas to be pursuing technological dominance now
+0,88,Iroquois,Morocco,Prediction,technological,We perceive the Moroccans to be pursuing technological dominance of late
+0,89,Morocco,Iroquois,Prediction,unknown,According to the Moroccans intelligence officers the Iroquois are mainly concerned with unknown preeminence
+0,89,Korea,Songhai,Prediction,unknown,We report the Songhai to be pursuing unknown dominance presently
+0,89,Korea,Inca,Prediction,technological,According to our agents the Incas are focused on technological preeminence
+0,91,Songhai,Iroquois,Prediction,unknown,According to our spies the Iroquois are mainly concerned with unknown preeminence
+0,91,Morocco,Songhai,Prediction,unknown,According to our spies the Songhai are intent on unknown preeminence
+0,91,Korea,Iroquois,Prediction,unknown,We regard the Iroquois to be pursuing unknown dominance now
+0,93,Songhai,Germany,Prediction,technological,We figure the Germans to be pursuing technological dominance of late
+0,96,Songhai,Korea,Prediction,cultural,According to our diplomatic cables the Koreans are intent on cultural preeminence
+0,97,Korea,Germany,Prediction,unknown,The Koreans estimate the Germans to be pursuing unknown dominance of late
+0,98,Songhai,Iroquois,Prediction,military,We estimate the Iroquois to be pursuing military dominance presently
+0,98,Morocco,Germany,Prediction,unknown,According to the Moroccans sources the Germans are intent on unknown preeminence
+0,99,Songhai,Morocco,Prediction,unknown,According to our intelligence officers the Moroccans are intent on unknown preeminence
+0,100,Korea,Iroquois,Prediction,diplomatic,According to our diplomatic cables the Iroquois are intent on unknown preeminence
+0,102,Songhai,Inca,Prediction,technological,According to our agents the Incas are centered around technological preeminence
+0,102,Songhai,Germany,Prediction,unknown,We perceive the Germans to be pursuing unknown dominance at present
+0,102,Korea,Iroquois,Prediction,unknown,According to the Koreans spies the Iroquois are mainly concerned with unknown preeminence
+0,102,Morocco,Korea,Prediction,cultural,The Moroccans consider the Koreans to be pursuing cultural dominance of late
+0,102,Inca,Songhai,Prediction,unknown,We estimate the Songhai to be pursuing unknown dominance currently
+0,103,Korea,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are largely about unknown preeminence
+0,103,Iroquois,Germany,Prediction,diplomatic,According to our diplomatic cables the Germans are centered around unknown preeminence
+0,104,Morocco,Korea,Prediction,cultural,We report the Koreans to be pursuing cultural dominance of late
+0,104,Korea,Iroquois,Prediction,military,According to our sources the Iroquois are intent on military preeminence
+0,105,Songhai,Iroquois,Prediction,military,According to our sources the Iroquois are largely about military preeminence
+0,107,Germany,Inca,Prediction,technological,According to our intelligence officers the Incas are centered around technological preeminence
+0,107,Iroquois,Songhai,Prediction,unknown,We report the Songhai to be pursuing unknown dominance now
+0,108,Morocco,Germany,Prediction,unknown,According to our spies the Germans are largely about unknown preeminence
+0,108,Morocco,Iroquois,Prediction,unknown,According to our intelligence officers the Iroquois are focused on unknown preeminence
+0,108,Korea,Germany,Prediction,unknown,We believe the Germans to be pursuing unknown dominance now
+0,109,Inca,Germany,Prediction,unknown,According to our spies the Germans are intent on unknown preeminence
+0,109,Iroquois,Morocco,Prediction,unknown,The Iroquois perceive the Moroccans to be pursuing unknown dominance now
+0,109,Korea,Inca,Prediction,technological,We figure the Incas to be pursuing technological dominance now
+0,109,Inca,Korea,Prediction,cultural,According to the Incas diplomatic cables the Koreans are centered around cultural preeminence
+0,109,Iroquois,Morocco,Prediction,unknown,We regard the Moroccans to be pursuing unknown dominance presently
+0,110,Korea,Songhai,Prediction,unknown,According to our agents the Songhai are intent on unknown preeminence
+0,111,Iroquois,Germany,Prediction,unknown,According to our agents the Germans are centered around unknown preeminence
+0,112,Germany,Inca,Prediction,technological,The Germans regard the Incas to be pursuing technological dominance these days
+0,113,Morocco,Korea,Prediction,cultural,We believe the Koreans to be pursuing cultural dominance now
+0,114,Germany,Songhai,Prediction,unknown,We estimate the Songhai to be pursuing unknown dominance now
+0,115,Songhai,Morocco,Prediction,military,According to our intelligence officers the Moroccans are intent on military preeminence
+0,115,Germany,Inca,Prediction,technological,We figure the Incas to be pursuing technological dominance presently
+0,116,Germany,Morocco,Prediction,military,According to the Germans spies the Moroccans are mainly concerned with military preeminence
+0,116,Iroquois,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are mainly concerned with military preeminence
+0,117,Korea,Germany,Prediction,unknown,We consider the Germans to be pursuing unknown dominance now
+0,117,Iroquois,Songhai,Prediction,unknown,According to our intelligence officers the Songhai are focused on unknown preeminence
+0,117,Iroquois,Inca,Prediction,technological,We consider the Incas to be pursuing technological dominance now
+0,118,Morocco,Germany,Prediction,unknown,The Moroccans figure the Germans to be pursuing unknown dominance presently
+0,119,Songhai,Iroquois,Prediction,unknown,According to our sources the Iroquois are focused on unknown preeminence
+0,119,Inca,Germany,Prediction,unknown,We perceive the Germans to be pursuing unknown dominance currently
+0,119,Korea,Inca,Prediction,technological,We regard the Incas to be pursuing technological dominance now
+0,122,Inca,Korea,Prediction,cultural,According to our agents the Koreans are intent on cultural preeminence
+0,122,Germany,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are focused on unknown preeminence
+0,123,Iroquois,Morocco,Prediction,unknown,According to our agents the Moroccans are centered around unknown preeminence
+0,124,Morocco,Iroquois,Prediction,unknown,We perceive the Iroquois to be pursuing unknown dominance now
+0,124,Inca,Iroquois,Prediction,unknown,According to the Incas sources the Iroquois are intent on unknown preeminence
+0,124,Germany,Songhai,Prediction,unknown,The Germans perceive the Songhai to be pursuing unknown dominance these days
+0,124,Korea,Songhai,Prediction,unknown,According to our spies the Songhai are intent on unknown preeminence
+0,126,Songhai,Iroquois,Prediction,unknown,According to our spies the Iroquois are largely about unknown preeminence
+0,126,Inca,Songhai,Prediction,unknown,We regard the Songhai to be pursuing unknown dominance at present
+0,126,Morocco,Inca,Prediction,diplomatic,According to our diplomatic cables the Incas are centered around technological preeminence
+0,126,Germany,Iroquois,Prediction,unknown,We estimate the Iroquois to be pursuing unknown dominance of late
+0,126,Korea,Germany,Prediction,diplomatic,According to our diplomatic cables the Germans are intent on unknown preeminence
+0,127,Iroquois,Germany,Prediction,unknown,According to our intelligence officers the Germans are focused on unknown preeminence
+0,128,Iroquois,Songhai,Prediction,unknown,According to the Iroquois intelligence officers the Songhai are mainly concerned with unknown preeminence
+0,128,Iroquois,Inca,Prediction,technological,We report the Incas to be pursuing technological dominance presently
+0,129,Songhai,Inca,Prediction,technological,According to our intelligence officers the Incas are focused on technological preeminence
+0,129,Songhai,Germany,Prediction,unknown,We regard the Germans to be pursuing unknown dominance now
+0,129,Korea,Inca,Prediction,technological,According to our spies the Incas are largely about technological preeminence
+0,129,Korea,Iroquois,Prediction,military,According to our sources the Iroquois are centered around military preeminence
+0,129,Morocco,Inca,Prediction,technological,According to our intelligence officers the Incas are intent on technological preeminence
+0,130,Iroquois,Morocco,Prediction,unknown,According to our intelligence officers the Moroccans are centered around unknown preeminence
+0,131,Songhai,Morocco,Prediction,unknown,We report the Moroccans to be pursuing unknown dominance now
+0,131,Morocco,Inca,Prediction,technological,The Moroccans regard the Incas to be pursuing technological dominance at present
+0,131,Morocco,Korea,Prediction,cultural,According to our diplomatic cables the Koreans are largely about cultural preeminence
+0,131,Germany,Inca,Prediction,technological,We regard the Incas to be pursuing technological dominance now
+0,131,Iroquois,Morocco,Prediction,unknown,The Iroquois believe the Moroccans to be pursuing unknown dominance now
+0,136,Morocco,Germany,Prediction,unknown,We regard the Germans to be pursuing unknown dominance these days
+0,137,Germany,Inca,Prediction,technological,The Germans perceive the Incas to be pursuing technological dominance presently
+0,137,Iroquois,Songhai,Prediction,unknown,We believe the Songhai to be pursuing unknown dominance at present
+0,137,Iroquois,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are focused on unknown preeminence
+0,138,Germany,Iroquois,Prediction,military,According to the Germans intelligence officers the Iroquois are mainly concerned with military preeminence
+0,138,Songhai,Korea,Prediction,cultural,We regard the Koreans to be pursuing cultural dominance these days
+0,139,Germany,Korea,Prediction,cultural,According to the Germans intelligence officers the Koreans are intent on cultural preeminence
+0,139,Inca,Morocco,Prediction,unknown,According to our intelligence officers the Moroccans are intent on unknown preeminence
+0,139,Iroquois,Inca,Prediction,technological,According to our spies the Incas are centered around technological preeminence
+0,140,Inca,Germany,Prediction,unknown,According to the Incas spies the Germans are largely about unknown preeminence
+0,145,Inca,Iroquois,Prediction,diplomatic,According to our diplomatic cables the Iroquois are mainly concerned with military preeminence
+0,147,Songhai,Germany,Prediction,unknown,We estimate the Germans to be pursuing unknown dominance these days
+0,147,Songhai,Iroquois,Prediction,unknown, We perceive the Iroquois to be pursuing unknown dominance of late
+0,147,Iroquois,Korea,Prediction,technological,The Iroquois consider the Koreans to be pursuing technological dominance currently
+0,147,Iroquois,Songhai,Prediction,unknown,According to our sources the Songhai are mainly concerned with unknown preeminence
+0,148,Songhai,Inca,Prediction,technological,The Songhai consider the Incas to be pursuing technological dominance presently
+0,149,Inca,Germany,Prediction,unknown, According to our sources the Germans are focused on unknown preeminence
+0,149,Korea,Iroquois,Prediction,unknown,According to the Koreans agents the Iroquois are centered around unknown preeminence
+0,149,Morocco,Inca,Prediction,technological,According to our spies the Incas are mainly concerned with technological preeminence
+0,149,Iroquois,Germany,Prediction,unknown,According to the Iroquois spies the Germans are intent on unknown preeminence
+0,149,Korea,Inca,Prediction,technological,We estimate the Incas to be pursuing technological dominance now
+0,151,Korea,Morocco,Prediction,cultural,The Koreans estimate the Moroccans to be pursuing cultural dominance of late
+0,151,Iroquois,Germany,Prediction,unknown,We report the Germans to be pursuing unknown dominance now
+0,153,Inca,Iroquois,Prediction,unknown,According to our sources the Iroquois are centered around unknown preeminence
+0,153,Germany,Korea,Prediction,technological,According to our agents the Koreans are centered around technological preeminence
+0,154,Morocco,Songhai,Prediction,unknown,We regard the Songhai to be pursuing unknown dominance these days
+0,154,Germany,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are intent on unknown preeminence
+0,156,Inca,Korea,Prediction,technological,According to the Incas spies the Koreans are focused on technological preeminence
+0,157,Morocco,Germany,Prediction,unknown,We consider the Germans to be pursuing unknown dominance of late
+0,158,Morocco,Korea,Prediction,technological,According to our spies the Koreans are focused on technological preeminence
+0,158,Iroquois,Songhai,Prediction,unknown,According to the Iroquois spies the Songhai are centered around unknown preeminence
+0,159,Songhai,Korea,Prediction,technological,We consider the Koreans to be pursuing technological dominance these days
+0,159,Korea,Songhai,Prediction,unknown,We perceive the Songhai to be pursuing unknown dominance currently
+0,159,Korea,Inca,Prediction,technological,We regard the Incas to be pursuing technological dominance now
+0,162,Inca,Morocco,Prediction,diplomatic,We report the Moroccans to be pursuing diplomatic dominance these days
+0,162,Germany,Songhai,Prediction,unknown,We estimate the Songhai to be pursuing unknown dominance currently
+0,163,Songhai,Morocco,Prediction,diplomatic,We consider the Moroccans to be pursuing diplomatic dominance of late
+0,163,Germany,Inca,Prediction,technological,According to our spies the Incas are focused on technological preeminence
+0,163,Germany,Morocco,Prediction,diplomatic,According to our intelligence officers the Moroccans are centered around diplomatic preeminence
+0,164,Morocco,Germany,Prediction,unknown,According to our intelligence officers the Germans are centered around unknown preeminence
+0,164,Morocco,Iroquois,Prediction,unknown,We consider the Iroquois to be pursuing unknown dominance currently
+0,164,Germany,Korea,Prediction,technological,We perceive the Koreans to be pursuing technological dominance presently
+0,165,Songhai,Inca,Prediction,technological,We perceive the Incas to be pursuing technological dominance now
+0,165,Songhai,Germany,Prediction,unknown,We believe the Germans to be pursuing unknown dominance presently
+0,166,Songhai,Korea,Prediction,technological,We perceive the Koreans to be pursuing technological dominance of late
+0,167,Morocco,Korea,Prediction,technological,We report the Koreans to be pursuing technological dominance these days
+0,167,Iroquois,Germany,Prediction,unknown,According to our spies the Germans are centered around unknown preeminence
+0,168,Songhai,Iroquois,Prediction,unknown,We regard the Iroquois to be pursuing unknown dominance these days
+0,170,Inca,Korea,Prediction,technological,According to our agents the Koreans are intent on technological preeminence
+0,170,Germany,Songhai,Prediction,unknown,According to our spies the Songhai are mainly concerned with unknown preeminence
+0,170,Inca,Korea,Prediction,technological,According to the Incas sources the Koreans are focused on technological preeminence
+0,171,Korea,Inca,Prediction,technological,The Koreans report the Incas to be pursuing technological dominance now
+0,171,Korea,Iroquois,Prediction,unknown,According to the Koreans sources the Iroquois are mainly concerned with unknown preeminence
+0,172,Germany,Songhai,Prediction,unknown, According to the Germans sources the Songhai are largely about unknown preeminence
+0,172,Songhai,Korea,Prediction,diplomatic,According to the Songhais intelligence officers the Koreans are mainly concerned with diplomatic preeminence
+0,173,Songhai,Korea,Prediction,diplomatic,According to our diplomatic cables the Koreans are focused on diplomatic preeminence
+0,174,Songhai,Inca,Prediction,cultural,According to our diplomatic cables the Incas are intent on cultural preeminence
+0,174,Songhai,Germany,Prediction,unknown,We perceive the Germans to be pursuing unknown dominance these days
+0,175,Songhai,Iroquois,Prediction,unknown,We report the Iroquois to be pursuing unknown dominance of late
+0,177,Germany,Morocco,Prediction,diplomatic,We consider the Moroccans to be pursuing diplomatic dominance now
+0,177,Iroquois,Songhai,Prediction,unknown,We report the Songhai to be pursuing unknown dominance these days
+0,179,Songhai,Morocco,Prediction,diplomatic,We estimate the Moroccans to be pursuing diplomatic dominance of late
+0,180,Morocco,Iroquois,Prediction,diplomatic,According to our diplomatic cables the Iroquois are focused on unknown preeminence
+0,180,Korea,Songhai,Prediction,unknown,We consider the Songhai to be pursuing unknown dominance currently
+0,181,Germany,Iroquois,Prediction,unknown,According to our intelligence officers the Iroquois are mainly concerned with unknown preeminence
+0,182,Iroquois,Germany,Prediction,military,The Iroquois consider the Germans to be pursuing military dominance now
+0,183,Iroquois,Inca,Prediction,cultural,According to our intelligence officers the Incas are largely about cultural preeminence
+0,186,Germany,Songhai,Prediction,unknown,According to our spies the Songhai are mainly concerned with unknown preeminence
+0,186,Germany,Korea,Prediction,cultural,According to our agents the Koreans are intent on cultural preeminence
+0,189,Songhai,Korea,Prediction,cultural,We estimate the Koreans to be pursuing cultural dominance presently
+0,189,Korea,Germany,Prediction,military,According to the Koreans agents the Germans are centered around military preeminence
+0,190,Songhai,Iroquois,Prediction,unknown,According to our intelligence officers the Iroquois are intent on unknown preeminence
+0,191,Germany,Morocco,Prediction,diplomatic,According to our agents the Moroccans are focused on diplomatic preeminence
+0,191,Iroquois,Morocco,Prediction,diplomatic,The Iroquois regard the Moroccans to be pursuing diplomatic dominance presently
+0,191,Songhai,Germany,Prediction,unknown,The Songhai regard the Germans to be pursuing unknown dominance now
+0,193,Inca,Iroquois,Prediction,unknown,We consider the Iroquois to be pursuing unknown dominance of late
+0,193,Morocco,Inca,Prediction,cultural,We consider the Incas to be pursuing cultural dominance these days
+0,194,Germany,Songhai,Prediction,cultural,According to our agents the Songhai are centered around cultural preeminence
+0,194,Korea,Iroquois,Prediction,unknown,We figure the Iroquois to be pursuing unknown dominance presently
+0,194,Iroquois,Morocco,Prediction,diplomatic,The Iroquois consider the Moroccans to be pursuing diplomatic dominance at present
+0,194,Korea,Morocco,Prediction,diplomatic,We figure the Moroccans to be pursuing diplomatic dominance now
+0,195,Songhai,Morocco,Prediction,diplomatic,We figure the Moroccans to be pursuing diplomatic dominance these days
+0,195,Songhai,Korea,Prediction,cultural,According to our spies the Koreans are intent on cultural preeminence
+0,195,Inca,Morocco,Prediction,diplomatic,According to our intelligence officers the Moroccans are mainly concerned with diplomatic preeminence
+0,195,Germany,Inca,Prediction,cultural,We regard the Incas to be pursuing cultural dominance these days
+0,195,Korea,Songhai,Prediction,cultural,We perceive the Songhai to be pursuing cultural dominance these days
+0,197,Songhai,Morocco,Prediction,diplomatic,The Songhai figure the Moroccans to be pursuing diplomatic dominance presently
+0,197,Germany,Korea,Prediction,cultural,We figure the Koreans to be pursuing cultural dominance at present
+0,198,Germany,Morocco,Prediction,diplomatic,According to our spies the Moroccans are mainly concerned with diplomatic preeminence
+0,198,Morocco,Songhai,Prediction,unknown,The Moroccans believe the Songhai to be pursuing unknown dominance these days
+0,199,Morocco,Songhai,Prediction,unknown,According to our agents the Songhai are focused on unknown preeminence
+0,199,Iroquois,Germany,Prediction,unknown,According to our sources the Germans are mainly concerned with unknown preeminence
+0,201,Songhai,Germany,Prediction,unknown,According to our spies the Germans are largely about unknown preeminence
+0,202,Germany,Songhai,Prediction,unknown,According to our spies the Songhai are centered around unknown preeminence
+0,202,Korea,Songhai,Prediction,unknown,According to our sources the Songhai are largely about unknown preeminence
+0,203,Germany,Iroquois,Prediction,unknown,We believe the Iroquois to be pursuing unknown dominance these days
+0,206,Inca,Morocco,Prediction,military,We perceive the Moroccans to be pursuing military dominance presently
+0,207,Korea,Germany,Prediction,unknown,We perceive the Germans to be pursuing unknown dominance of late
+0,209,Korea,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are mainly concerned with unknown preeminence
+0,210,Songhai,Germany,Prediction,unknown,We report the Germans to be pursuing unknown dominance currently
+0,212,Germany,Morocco,Prediction,military,We figure the Moroccans to be pursuing military dominance these days
+0,213,Germany,Inca,Prediction,technological,According to the Germans spies the Incas are centered around technological preeminence
+0,214,Iroquois,Morocco,Prediction,diplomatic,We regard the Moroccans to be pursuing diplomatic dominance now
+0,214,Germany,Songhai,Prediction,unknown,The Germans report the Songhai to be pursuing unknown dominance these days
+0,215,Morocco,Inca,Prediction,technological,We consider the Incas to be pursuing technological dominance these days
+0,215,Iroquois,Germany,Prediction,unknown,According to our spies the Germans are intent on unknown preeminence
+0,218,Iroquois,Songhai,Prediction,unknown,According to our sources the Songhai are mainly concerned with unknown preeminence
+0,219,Songhai,Germany,Prediction,unknown,We believe the Germans to be pursuing unknown dominance presently
+0,219,Germany,Korea,Prediction,cultural,We regard the Koreans to be pursuing cultural dominance these days
+0,222,Inca,Songhai,Prediction,unknown,According to our agents the Songhai are focused on unknown preeminence
+0,223,Inca,Germany,Prediction,unknown,According to the Incas sources the Germans are mainly concerned with unknown preeminence
+0,223,Germany,Morocco,Prediction,diplomatic,The Germans perceive the Moroccans to be pursuing diplomatic dominance now
+0,225,Korea,Germany,Prediction,diplomatic,According to our spies the Germans are intent on diplomatic preeminence
+0,227,Songhai,Morocco,Prediction,diplomatic,According to our sources the Moroccans are intent on diplomatic preeminence
+0,228,Korea,Germany,Prediction,diplomatic,According to the Koreans intelligence officers the Germans are centered around diplomatic preeminence
+0,228,Iroquois,Morocco,Prediction,diplomatic,According to our agents the Moroccans are focused on diplomatic preeminence
+0,230,Germany,Korea,Prediction,cultural,We figure the Koreans to be pursuing cultural dominance now
+0,231,Songhai,Inca,Prediction,technological,According to the Songhais agents the Incas are intent on technological preeminence
+0,234,Morocco,Germany,Prediction,diplomatic,According to our agents the Germans are mainly concerned with diplomatic preeminence
+0,234,Germany,Songhai,Prediction,unknown,We report the Songhai to be pursuing unknown dominance at present
+0,235,Germany,Korea,Prediction,cultural,According to the Germans spies the Koreans are intent on cultural preeminence
+0,236,Germany,Iroquois,Prediction,unknown,According to our intelligence officers the Iroquois are largely about unknown preeminence
+0,237,Songhai,Germany,Prediction,diplomatic,We figure the Germans to be pursuing diplomatic dominance presently
+0,237,Morocco,Inca,Prediction,cultural,We perceive the Incas to be pursuing cultural dominance at present
+0,237,Korea,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are mainly concerned with unknown preeminence
+0,238,Iroquois,Inca,Prediction,cultural,We consider the Incas to be pursuing cultural dominance these days
+0,239,Inca,Germany,Prediction,diplomatic,We regard the Germans to be pursuing diplomatic dominance these days
+0,239,Germany,Iroquois,Prediction,diplomatic,According to the Germans diplomatic cables the Iroquois are intent on unknown preeminence
+0,241,Songhai,Germany,Prediction,diplomatic,According to the Songhais diplomatic cables the Germans are largely about diplomatic preeminence
+0,242,Songhai,Morocco,Prediction,diplomatic,According to the Songhais sources the Moroccans are focused on diplomatic preeminence
+0,243,Songhai,Morocco,Prediction,diplomatic,We perceive the Moroccans to be pursuing diplomatic dominance at present
+0,243,Inca,Korea,Prediction,cultural,We regard the Koreans to be pursuing cultural dominance now
+0,243,Iroquois,Songhai,Prediction,unknown,The Iroquois figure the Songhai to be pursuing unknown dominance presently
+0,243,Korea,Germany,Prediction,diplomatic,According to our intelligence officers the Germans are intent on diplomatic preeminence
+0,243,Inca,Morocco,Prediction,diplomatic,The Incas figure the Moroccans to be pursuing diplomatic dominance of late
+0,244,Songhai,Korea,Prediction,cultural,According to our agents the Koreans are centered around cultural preeminence
+0,244,Morocco,Songhai,Prediction,military,We consider the Songhai to be pursuing military dominance these days
+0,244,Korea,Morocco,Prediction,diplomatic,According to our intelligence officers the Moroccans are focused on diplomatic preeminence
+0,246,Songhai,Inca,Prediction,cultural,According to our sources the Incas are centered around cultural preeminence
+0,246,Inca,Korea,Prediction,cultural,The Incas figure the Koreans to be pursuing cultural dominance at present
+0,250,Germany,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are intent on unknown preeminence
+0,251,Songhai,Korea,Prediction,cultural,We report the Koreans to be pursuing cultural dominance presently
+0,251,Korea,Songhai,Prediction,unknown,According to our spies the Songhai are focused on unknown preeminence
+0,251,Korea,Inca,Prediction,cultural,We consider the Incas to be pursuing cultural dominance these days
+0,252,Germany,Korea,Prediction,cultural,According to our spies the Koreans are focused on cultural preeminence
+0,254,Iroquois,Morocco,Prediction,unknown,We perceive the Moroccans to be pursuing unknown dominance at present
+0,255,Songhai,Inca,Prediction,diplomatic,According to our spies the Incas are centered around diplomatic preeminence
+0,255,Songhai,Korea,Prediction,cultural,We believe the Koreans to be pursuing cultural dominance these days
+0,256,Korea,Songhai,Prediction,unknown,The Koreans consider the Songhai to be pursuing unknown dominance of late
+0,257,Korea,Iroquois,Prediction,unknown,We consider the Iroquois to be pursuing unknown dominance these days
+0,258,Morocco,Korea,Prediction,cultural,We estimate the Koreans to be pursuing cultural dominance presently
+0,259,Songhai,Morocco,Prediction,unknown,We perceive the Moroccans to be pursuing unknown dominance presently
+0,259,Songhai,Korea,Prediction,cultural,According to our agents the Koreans are centered around cultural preeminence
+0,259,Germany,Inca,Prediction,diplomatic,According to our diplomatic cables the Incas are focused on diplomatic preeminence
+0,259,Korea,Songhai,Prediction,unknown,We perceive the Songhai to be pursuing unknown dominance now
+0,260,Iroquois,Korea,Prediction,cultural,According to our agents the Koreans are intent on cultural preeminence
+0,260,Songhai,Germany,Prediction,military,According to the Songhais intelligence officers the Germans are focused on military preeminence
+0,261,Inca,Morocco,Prediction,military,We report the Moroccans to be pursuing military dominance currently
+0,261,Morocco,Iroquois,Prediction,unknown,We regard the Iroquois to be pursuing unknown dominance at present
+0,263,Iroquois,Korea,Prediction,cultural,We perceive the Koreans to be pursuing cultural dominance at present
+0,265,Korea,Germany,Prediction,diplomatic,The Koreans estimate the Germans to be pursuing diplomatic dominance currently
+0,266,Songhai,Korea,Prediction,cultural,We estimate the Koreans to be pursuing cultural dominance now
+0,266,Iroquois,Inca,Prediction,diplomatic,According to the Iroquois spies the Incas are intent on diplomatic preeminence
+0,266,Germany,Morocco,Prediction,unknown,The Germans estimate the Moroccans to be pursuing unknown dominance these days
+0,267,Inca,Korea,Prediction,cultural,According to our spies the Koreans are centered around cultural preeminence
+0,267,Inca,Korea,Prediction,cultural,According to the Incas diplomatic cables the Koreans are mainly concerned with cultural preeminence
+0,267,Germany,Songhai,Prediction,unknown,According to our intelligence officers the Songhai are largely about unknown preeminence
+0,269,Morocco,Iroquois,Prediction,unknown,According to our spies the Iroquois are intent on unknown preeminence
+0,272,Inca,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are intent on diplomatic preeminence
+0,272,Iroquois,Germany,Prediction,diplomatic,According to our diplomatic cables the Germans are largely about diplomatic preeminence
+0,273,Songhai,Korea,Prediction,cultural,We consider the Koreans to be pursuing cultural dominance of late
+0,273,Inca,Iroquois,Prediction,unknown,We figure the Iroquois to be pursuing unknown dominance of late
+0,273,Korea,Songhai,Prediction,unknown,According to our agents the Songhai are intent on unknown preeminence
+0,274,Songhai,Germany,Prediction,diplomatic,We believe the Germans to be pursuing diplomatic dominance at present
+0,274,Songhai,Iroquois,Prediction,unknown,We believe the Iroquois to be pursuing unknown dominance at present
+0,275,Korea,Iroquois,Prediction,unknown,According to our spies the Iroquois are centered around unknown preeminence
+0,276,Morocco,Iroquois,Prediction,unknown,According to our agents the Iroquois are mainly concerned with unknown preeminence
+0,276,Germany,Songhai,Prediction,unknown,We regard the Songhai to be pursuing unknown dominance at present
+0,276,Korea,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are largely about unknown preeminence
+0,276,Iroquois,Morocco,Prediction,diplomatic,According to our intelligence officers the Moroccans are intent on diplomatic preeminence
+0,278,Iroquois,Songhai,Prediction,unknown,We perceive the Songhai to be pursuing unknown dominance these days
+0,278,Germany,Inca,Prediction,cultural,According to our intelligence officers the Incas are mainly concerned with cultural preeminence
+0,278,Iroquois,Germany,Prediction,diplomatic,The Iroquois consider the Germans to be pursuing diplomatic dominance now
+0,278,Korea,Inca,Prediction,cultural,According to our agents the Incas are centered around cultural preeminence
+0,279,Iroquois,Korea,Prediction,cultural,We estimate the Koreans to be pursuing cultural dominance now
+0,281,Morocco,Inca,Prediction,cultural,We figure the Incas to be pursuing cultural dominance now
+0,282,Korea,Germany,Prediction,diplomatic,The Koreans perceive the Germans to be pursuing diplomatic dominance these days
+0,283,Songhai,Morocco,Prediction,military,According to our sources the Moroccans are centered around military preeminence
+0,283,Inca,Iroquois,Prediction,unknown,According to the Incas spies the Iroquois are focused on unknown preeminence
+0,283,Songhai,Germany,Prediction,diplomatic,According to our sources the Germans are largely about diplomatic preeminence
+0,285,Germany,Morocco,Prediction,military,We consider the Moroccans to be pursuing military dominance now
+0,285,Germany,Korea,Prediction,diplomatic,According to our agents the Koreans are intent on diplomatic preeminence
+0,286,Morocco,Iroquois,Prediction,unknown,We perceive the Iroquois to be pursuing unknown dominance currently
+0,287,Iroquois,Korea,Prediction,diplomatic,We perceive the Koreans to be pursuing diplomatic dominance currently
+0,291,Songhai,Morocco,Prediction,military,We figure the Moroccans to be pursuing military dominance currently
+0,292,Songhai,Iroquois,Prediction,unknown,According to the Songhais spies the Iroquois are intent on unknown preeminence
+0,292,Germany,Inca,Prediction,cultural,According to our sources the Incas are mainly concerned with cultural preeminence
+0,293,Morocco,Germany,Prediction,diplomatic,We report the Germans to be pursuing diplomatic dominance presently
+0,293,Iroquois,Inca,Prediction,cultural, According to our agents the Incas are focused on cultural preeminence
+0,294,Inca,Morocco,Prediction,military,We believe the Moroccans to be pursuing military dominance these days
+0,295,Korea,Songhai,Prediction,unknown,We perceive the Songhai to be pursuing unknown dominance currently
+0,295,Morocco,Germany,Prediction,diplomatic,According to the Moroccans sources the Germans are focused on diplomatic preeminence
+0,296,Iroquois,Germany,Prediction,diplomatic,According to our spies the Germans are mainly concerned with diplomatic preeminence
+0,296,Iroquois,Korea,Prediction,technological,According to our agents the Koreans are mainly concerned with technological preeminence
+0,299,Morocco,Germany,Prediction,diplomatic,We regard the Germans to be pursuing diplomatic dominance at present
+0,300,Iroquois,Morocco,Prediction,military,We perceive the Moroccans to be pursuing military dominance currently
+0,301,Inca,Korea,Prediction,technological,We consider the Koreans to be pursuing technological dominance at present
+0,301,Morocco,Germany,Prediction,diplomatic,We figure the Germans to be pursuing diplomatic dominance of late
+0,301,Iroquois,Korea,Prediction,technological,According to the Iroquois spies the Koreans are centered around technological preeminence
+0,303,Songhai,Iroquois,Prediction,unknown,According to our intelligence officers the Iroquois are mainly concerned with unknown preeminence
+0,303,Germany,Iroquois,Prediction,unknown,We consider the Iroquois to be pursuing unknown dominance at present
+0,306,Korea,Germany,Prediction,military,According to our sources the Germans are centered around military preeminence
+0,307,Germany,Morocco,Prediction,diplomatic,According to our sources the Moroccans are intent on diplomatic preeminence
+0,308,Germany,Songhai,Prediction,unknown,According to our intelligence officers the Songhai are intent on unknown preeminence
+0,309,Inca,Korea,Prediction,technological,We regard the Koreans to be pursuing technological dominance presently
+0,309,Korea,Songhai,Prediction,unknown,We estimate the Songhai to be pursuing unknown dominance of late
+0,311,Inca,Germany,Prediction,diplomatic,According to our intelligence officers the Germans are intent on diplomatic preeminence
+0,312,Korea,Inca,Prediction,diplomatic,We perceive the Incas to be pursuing diplomatic dominance these days
+0,313,Korea,Morocco,Prediction,diplomatic,According to our agents the Moroccans are mainly concerned with diplomatic preeminence
+0,313,Inca,Korea,Prediction,technological,We report the Koreans to be pursuing technological dominance these days
+0,315,Morocco,Germany,Prediction,military,We perceive the Germans to be pursuing military dominance at present
+0,316,Songhai,Korea,Prediction,technological,We consider the Koreans to be pursuing technological dominance presently
+0,316,Inca,Korea,Prediction,technological,The Incas figure the Koreans to be pursuing technological dominance these days
+0,316,Morocco,Songhai,Prediction,diplomatic,According to our spies the Songhai are intent on diplomatic preeminence
+0,317,Songhai,Morocco,Prediction,unknown,According to the Songhais intelligence officers the Moroccans are centered around unknown preeminence
+0,318,Songhai,Inca,Prediction,diplomatic,We consider the Incas to be pursuing diplomatic dominance now
+0,318,Inca,Korea,Prediction,technological,According to our agents the Koreans are largely about technological preeminence
+0,321,Songhai,Inca,Prediction,diplomatic,According to the Songhais spies the Incas are mainly concerned with diplomatic preeminence
+0,322,Morocco,Germany,Prediction,diplomatic,We believe the Germans to be pursuing diplomatic dominance presently
+0,323,Germany,Songhai,Prediction,unknown,We believe the Songhai to be pursuing unknown dominance currently
+0,324,Songhai,Morocco,Prediction,unknown,We believe the Moroccans to be pursuing unknown dominance at present
+0,325,Germany,Songhai,Prediction,unknown,According to our sources the Songhai are focused on unknown preeminence
+0,326,Inca,Korea,Prediction,technological,We believe the Koreans to be pursuing technological dominance presently
+0,327,Songhai,Korea,Prediction,technological,According to the Songhais intelligence officers the Koreans are focused on technological preeminence
+0,329,Morocco,Germany,Prediction,diplomatic,According to our agents the Germans are mainly concerned with diplomatic preeminence
+0,330,Korea,Songhai,Prediction,unknown,We regard the Songhai to be pursuing unknown dominance now
+0,330,Germany,Inca,Prediction,diplomatic,According to the Germans diplomatic cables the Incas are focused on military preeminence
+0,332,Songhai,Morocco,Prediction,unknown,We believe the Moroccans to be pursuing unknown dominance at present
+0,332,Inca,Songhai,Prediction,unknown,We figure the Songhai to be pursuing unknown dominance these days
+0,333,Germany,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are mainly concerned with unknown preeminence
+0,333,Inca,Korea,Prediction,technological,According to our sources the Koreans are focused on technological preeminence
+0,333,Germany,Korea,Prediction,technological,We believe the Koreans to be pursuing technological dominance currently
+0,337,Korea,Inca,Prediction,military,The Koreans perceive the Incas to be pursuing military dominance of late
+0,337,Morocco,Inca,Prediction,military,The Moroccans perceive the Incas to be pursuing military dominance currently
+0,338,Songhai,Germany,Prediction,diplomatic,According to our spies the Germans are intent on diplomatic preeminence
+0,341,Morocco,Germany,Prediction,diplomatic,The Moroccans perceive the Germans to be pursuing diplomatic dominance these days
+0,341,Germany,Inca,Prediction,military,According to our agents the Incas are largely about military preeminence
+0,342,Germany,Korea,Prediction,technological,According to our agents the Koreans are intent on technological preeminence
+0,343,Inca,Songhai,Prediction,unknown,According to our intelligence officers the Songhai are largely about unknown preeminence
+0,343,Korea,Inca,Prediction,military,According to our agents the Incas are intent on military preeminence
+0,343,Korea,Germany,Prediction,diplomatic,According to our sources the Germans are mainly concerned with diplomatic preeminence
+0,344,Morocco,Songhai,Prediction,unknown,We believe the Songhai to be pursuing unknown dominance these days
+0,344,Korea,Songhai,Prediction,unknown,According to our sources the Songhai are focused on unknown preeminence
+0,344,Korea,Inca,Prediction,military,We report the Incas to be pursuing military dominance at present
+0,345,Germany,Korea,Prediction,technological,According to our agents the Koreans are intent on technological preeminence
+0,345,Germany,Songhai,Prediction,unknown,According to our sources the Songhai are largely about unknown preeminence
+0,346,Songhai,Morocco,Prediction,diplomatic,According to our agents the Moroccans are centered around diplomatic preeminence
+0,349,Germany,Morocco,Prediction,diplomatic,We perceive the Moroccans to be pursuing diplomatic dominance at present
+0,351,Songhai,Korea,Prediction,technological,We regard the Koreans to be pursuing technological dominance now
+0,353,Songhai,Inca,Prediction,military,According to our agents the Incas are focused on military preeminence
+0,354,Germany,Korea,Prediction,technological,We report the Koreans to be pursuing technological dominance currently
+0,356,Songhai,Inca,Prediction,diplomatic,According to our diplomatic cables the Incas are largely about military preeminence
+0,356,Germany,Morocco,Prediction,diplomatic,According to our intelligence officers the Moroccans are mainly concerned with diplomatic preeminence
+0,357,Songhai,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are focused on diplomatic preeminence
+0,357,Morocco,Germany,Prediction,diplomatic,According to our diplomatic cables the Germans are largely about diplomatic preeminence
+0,360,Inca,Morocco,Prediction,diplomatic,We consider the Moroccans to be pursuing diplomatic dominance presently
+0,360,Inca,Korea,Prediction,technological,We perceive the Koreans to be pursuing technological dominance currently
+0,361,Morocco,Korea,Prediction,technological,We figure the Koreans to be pursuing technological dominance currently
+0,364,Korea,Inca,Prediction,military,We estimate the Incas to be pursuing military dominance now
+0,365,Songhai,Inca,Prediction,military,We figure the Incas to be pursuing military dominance these days
+0,365,Inca,Morocco,Prediction,diplomatic,According to the Incas agents the Moroccans are largely about diplomatic preeminence
+0,365,Germany,Inca,Prediction,diplomatic,According to our diplomatic cables the Incas are centered around military preeminence
+0,365,Germany,Korea,Prediction,diplomatic,According to our diplomatic cables the Koreans are largely about technological preeminence
+0,368,Inca,Songhai,Prediction,diplomatic,According to our spies the Songhai are largely about diplomatic preeminence
+0,370,Morocco,Korea,Prediction,diplomatic,We believe the Koreans to be pursuing diplomatic dominance at present
+0,370,Germany,Morocco,Prediction,diplomatic,According to our intelligence officers the Moroccans are largely about diplomatic preeminence
+0,371,Inca,Germany,Prediction,diplomatic,We consider the Germans to be pursuing diplomatic dominance of late
+0,371,Morocco,Songhai,Prediction,diplomatic,According to our intelligence officers the Songhai are largely about diplomatic preeminence
+0,372,Morocco,Inca,Prediction,military,According to the Moroccans sources the Incas are largely about military preeminence
+0,373,Songhai,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are focused on diplomatic preeminence
+0,375,Korea,Inca,Prediction,diplomatic,According to our diplomatic cables the Incas are focused on military preeminence
+0,377,Germany,Korea,Prediction,diplomatic,We report the Koreans to be pursuing diplomatic dominance presently
+0,378,Morocco,Germany,Prediction,diplomatic,We figure the Germans to be pursuing diplomatic dominance at present
+0,378,Korea,Morocco,Prediction,diplomatic,According to our spies the Moroccans are focused on diplomatic preeminence
+0,379,Songhai,Korea,Prediction,diplomatic,We perceive the Koreans to be pursuing diplomatic dominance currently
+0,379,Germany,Korea,Prediction,diplomatic,According to the Germans intelligence officers the Koreans are mainly concerned with diplomatic preeminence
+0,379,Morocco,Korea,Prediction,diplomatic,According to our diplomatic cables the Koreans are largely about diplomatic preeminence
+0,380,Morocco,Inca,Prediction,military,We consider the Incas to be pursuing military dominance presently
+0,381,Inca,Germany,Prediction,diplomatic,According to the Incas agents the Germans are focused on diplomatic preeminence
+0,382,Germany,Songhai,Prediction,diplomatic,We believe the Songhai to be pursuing diplomatic dominance of late
+0,382,Korea,Morocco,Prediction,diplomatic,According to our agents the Moroccans are mainly concerned with diplomatic preeminence
+0,383,Songhai,Inca,Prediction,military,We report the Incas to be pursuing military dominance of late
+0,384,Germany,Morocco,Prediction,diplomatic,We estimate the Moroccans to be pursuing diplomatic dominance currently
+0,385,Korea,Inca,Prediction,military,According to our sources the Incas are focused on military preeminence
+0,386,Inca,Korea,Prediction,diplomatic,According to our diplomatic cables the Koreans are largely about diplomatic preeminence
+0,386,Korea,Songhai,Prediction,diplomatic,According to our intelligence officers the Songhai are largely about diplomatic preeminence
+0,389,Morocco,Korea,Prediction,diplomatic,We consider the Koreans to be pursuing diplomatic dominance presently
+0,390,Morocco,Songhai,Prediction,diplomatic,According to our intelligence officers the Songhai are largely about diplomatic preeminence
+0,390,Korea,Morocco,Prediction,diplomatic,The Koreans figure the Moroccans to be pursuing diplomatic dominance at present
+0,391,Morocco,Inca,Prediction,military,We estimate the Incas to be pursuing military dominance presently
+0,392,Songhai,Inca,Prediction,military,According to our agents the Incas are focused on military preeminence
+0,392,Songhai,Germany,Prediction,diplomatic,We perceive the Germans to be pursuing diplomatic dominance at present
+0,393,Songhai,Korea,Prediction,diplomatic,We report the Koreans to be pursuing diplomatic dominance currently
+0,393,Korea,Morocco,Prediction,diplomatic,According to the Koreans sources the Moroccans are focused on diplomatic preeminence
+0,393,Korea,Songhai,Prediction,diplomatic,We consider the Songhai to be pursuing diplomatic dominance these days
+0,394,Germany,Morocco,Prediction,diplomatic,The Germans report the Moroccans to be pursuing diplomatic dominance of late
+0,398,Germany,Inca,Prediction,military,We report the Incas to be pursuing military dominance these days
+0,400,Korea,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are largely about diplomatic preeminence
+0,401,Songhai,Germany,Prediction,diplomatic,According to our intelligence officers the Germans are mainly concerned with diplomatic preeminence
+0,401,Inca,Germany,Prediction,diplomatic,The Incas perceive the Germans to be pursuing diplomatic dominance presently
+0,402,Inca,Germany,Prediction,diplomatic,We figure the Germans to be pursuing diplomatic dominance currently
+0,404,Korea,Morocco,Prediction,diplomatic,According to our intelligence officers the Moroccans are centered around diplomatic preeminence
+0,405,Germany,Morocco,Prediction,diplomatic,We figure the Moroccans to be pursuing diplomatic dominance currently
+0,407,Songhai,Morocco,Prediction,diplomatic,According to our agents the Moroccans are largely about diplomatic preeminence
+0,407,Inca,Morocco,Prediction,diplomatic,The Incas figure the Moroccans to be pursuing diplomatic dominance of late
+0,408,Inca,Songhai,Prediction,diplomatic,According to our sources the Songhai are intent on diplomatic preeminence
+0,408,Korea,Germany,Prediction,diplomatic,According to our sources the Germans are largely about diplomatic preeminence
+0,410,Inca,Korea,Prediction,diplomatic,We believe the Koreans to be pursuing diplomatic dominance these days
+0,412,Inca,Germany,Prediction,diplomatic,According to our intelligence officers the Germans are focused on diplomatic preeminence
+0,412,Germany,Inca,Prediction,military,According to our agents the Incas are focused on military preeminence
+0,413,Germany,Morocco,Prediction,military,We regard the Moroccans to be pursuing military dominance of late
+0,415,Songhai,Morocco,Prediction,military,We figure the Moroccans to be pursuing military dominance these days
+0,415,Inca,Morocco,Prediction,military,We perceive the Moroccans to be pursuing military dominance these days
+0,415,Korea,Inca,Prediction,military,According to our agents the Incas are mainly concerned with military preeminence
+0,416,Germany,Songhai,Prediction,diplomatic,The Germans figure the Songhai to be pursuing diplomatic dominance of late
+0,417,Morocco,Korea,Prediction,diplomatic,We consider the Koreans to be pursuing diplomatic dominance these days
+0,421,Songhai,Korea,Prediction,cultural,According to our spies the Koreans are centered around cultural preeminence
+0,421,Morocco,Germany,Prediction,diplomatic,According to our spies the Germans are centered around diplomatic preeminence
+0,421,Germany,Korea,Prediction,cultural,We regard the Koreans to be pursuing cultural dominance at present
+0,426,Inca,Morocco,Prediction,military,According to our intelligence officers the Moroccans are centered around military preeminence
+0,427,Songhai,Korea,Prediction,diplomatic,The Songhai consider the Koreans to be pursuing diplomatic dominance these days
+0,427,Korea,Germany,Prediction,diplomatic,The Koreans report the Germans to be pursuing diplomatic dominance presently
+0,427,Inca,Korea,Prediction,diplomatic,The Incas believe the Koreans to be pursuing diplomatic dominance these days
+0,427,Germany,Morocco,Prediction,military,We regard the Moroccans to be pursuing military dominance these days
+0,427,Korea,Inca,Prediction,military,According to our spies the Incas are mainly concerned with military preeminence
+0,428,Songhai,Inca,Prediction,military,According to our intelligence officers the Incas are centered around military preeminence
+0,428,Songhai,Germany,Prediction,diplomatic,We figure the Germans to be pursuing diplomatic dominance now
+0,430,Morocco,Germany,Prediction,diplomatic,We consider the Germans to be pursuing diplomatic dominance presently
+0,430,Germany,Morocco,Prediction,diplomatic,According to our diplomatic cables the Moroccans are centered around military preeminence
+0,431,Songhai,Morocco,Prediction,military,According to our intelligence officers the Moroccans are largely about military preeminence
+0,432,Inca,Songhai,Prediction,diplomatic,We figure the Songhai to be pursuing diplomatic dominance now
+0,432,Songhai,Morocco,Prediction,military,The Songhai regard the Moroccans to be pursuing military dominance these days
+0,433,Morocco,Germany,Prediction,diplomatic,The Moroccans report the Germans to be pursuing diplomatic dominance now
+0,433,Inca,Korea,Prediction,cultural,According to our sources the Koreans are largely about cultural preeminence
+0,434,Inca,Germany,Prediction,diplomatic,We believe the Germans to be pursuing diplomatic dominance at present
+0,435,Morocco,Inca,Prediction,diplomatic,The Moroccans regard the Incas to be pursuing diplomatic dominance at present
+0,435,Korea,Songhai,Prediction,diplomatic,We figure the Songhai to be pursuing diplomatic dominance these days
+0,436,Germany,Korea,Prediction,cultural,The Germans figure the Koreans to be pursuing cultural dominance presently
+0,436,Morocco,Germany,Prediction,diplomatic,We estimate the Germans to be pursuing diplomatic dominance at present
+0,438,Korea,Morocco,Prediction,military,The Koreans perceive the Moroccans to be pursuing military dominance at present
+0,438,Korea,Morocco,Prediction,military,According to our agents the Moroccans are mainly concerned with military preeminence
+0,439,Songhai,Morocco,Prediction,military,According to our agents the Moroccans are intent on military preeminence
+0,444,Inca,Korea,Prediction,cultural,We regard the Koreans to be pursuing cultural dominance of late
+0,445,Morocco,Songhai,Prediction,diplomatic,According to our intelligence officers the Songhai are focused on diplomatic preeminence
+0,445,Morocco,Korea,Prediction,cultural,According to the Moroccans intelligence officers the Koreans are intent on cultural preeminence
+0,445,Inca,Germany,Prediction,diplomatic,We believe the Germans to be pursuing diplomatic dominance these days
+0,446,Songhai,Germany,Prediction,diplomatic,We consider the Germans to be pursuing diplomatic dominance currently
+0,446,Morocco,Inca,Prediction,diplomatic,According to our spies the Incas are focused on diplomatic preeminence
+0,449,Korea,Morocco,Prediction,military,We estimate the Moroccans to be pursuing military dominance at present
+0,450,Germany,Inca,Prediction,military,According to our intelligence officers the Incas are intent on military preeminence
+0,455,Songhai,Morocco,Prediction,military,We believe the Moroccans to be pursuing military dominance of late
+0,455,Songhai,Germany,Prediction,diplomatic,According to our diplomatic cables the Germans are centered around diplomatic preeminence
+0,456,Morocco,Korea,Prediction,cultural,The Moroccans figure the Koreans to be pursuing cultural dominance of late
+0,456,Germany,Morocco,Prediction,diplomatic,We consider the Moroccans to be pursuing diplomatic dominance currently
+0,456,Korea,Songhai,Prediction,diplomatic,According to our sources the Songhai are centered around diplomatic preeminence
+0,457,Morocco,Germany,Prediction,diplomatic,We consider the Germans to be pursuing diplomatic dominance now
+0,459,Inca,Morocco,Prediction,military,We figure the Moroccans to be pursuing military dominance at present
+0,460,Inca,Morocco,Prediction,military,According to the Incas sources the Moroccans are largely about military preeminence
+0,460,Korea,Morocco,Prediction,military,We believe the Moroccans to be pursuing military dominance now
+0,462,Songhai,Korea,Prediction,cultural,According to the Songhais agents the Koreans are centered around cultural preeminence
+0,462,Korea,Morocco,Prediction,diplomatic,We estimate the Moroccans to be pursuing diplomatic dominance presently
+0,463,Songhai,Morocco,Prediction,military,According to our intelligence officers the Moroccans are largely about military preeminence
+0,463,Korea,Songhai,Prediction,diplomatic,We report the Songhai to be pursuing diplomatic dominance at present
+0,464,Morocco,Korea,Prediction,cultural,According to our sources the Koreans are centered around cultural preeminence
+0,464,Inca,Korea,Prediction,cultural,We report the Koreans to be pursuing cultural dominance now
+0,466,Inca,Germany,Prediction,military,According to our intelligence officers the Germans are intent on military preeminence
+0,466,Germany,Korea,Prediction,cultural,According to our intelligence officers the Koreans are intent on cultural preeminence
+0,470,Songhai,Korea,Prediction,cultural,According to our agents the Koreans are largely about cultural preeminence
+0,470,Korea,Songhai,Prediction,diplomatic,We regard the Songhai to be pursuing diplomatic dominance of late
+0,473,Korea,Inca,Prediction,diplomatic,According to the Koreans diplomatic cables the Incas are largely about diplomatic preeminence
+0,473,Morocco,Germany,Prediction,military,According to the Moroccans sources the Germans are focused on military preeminence
+0,474,Songhai,Germany,Prediction,diplomatic,We consider the Germans to be pursuing diplomatic dominance now
+0,479,Morocco,Korea,Prediction,cultural,The Moroccans estimate the Koreans to be pursuing cultural dominance these days
+0,480,Inca,Songhai,Prediction,diplomatic,We perceive the Songhai to be pursuing diplomatic dominance of late
+0,482,Germany,Inca,Prediction,military,According to our spies the Incas are centered around military preeminence
+0,482,Morocco,Inca,Prediction,diplomatic,The Moroccans figure the Incas to be pursuing diplomatic dominance presently
+0,483,Songhai,Germany,Prediction,diplomatic,We believe the Germans to be pursuing diplomatic dominance these days
+0,483,Korea,Morocco,Prediction,military,According to our agents the Moroccans are largely about military preeminence
+0,483,Germany,Inca,Prediction,military,We regard the Incas to be pursuing military dominance presently
+0,487,Songhai,Morocco,Prediction,military,According to our spies the Moroccans are mainly concerned with military preeminence
+0,489,Germany,Korea,Prediction,cultural,According to our spies the Koreans are centered around cultural preeminence
+0,489,Morocco,Inca,Prediction,technological,The Moroccans estimate the Incas to be pursuing technological dominance currently
+0,490,Morocco,Songhai,Prediction,diplomatic,According to our diplomatic cables the Songhai are centered around technological preeminence
+0,491,Germany,Morocco,Prediction,military,We perceive the Moroccans to be pursuing military dominance currently
+0,492,Morocco,Germany,Prediction,diplomatic,We regard the Germans to be pursuing diplomatic dominance presently
+0,494,Korea,Morocco,Prediction,military,According to our sources the Moroccans are largely about military preeminence
+0,495,Songhai,Morocco,Prediction,military,According to our agents the Moroccans are mainly concerned with military preeminence
+0,498,Germany,Morocco,Prediction,military,According to our sources the Moroccans are mainly concerned with military preeminence
+0,499,Songhai,Korea,Prediction,cultural,According to the Songhais agents the Koreans are focused on cultural preeminence
